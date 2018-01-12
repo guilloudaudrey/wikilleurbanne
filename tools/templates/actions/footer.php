@@ -16,7 +16,7 @@ $template_footer = $template_decoupe[1];
 
 if ($act = preg_match_all("/".'(\\{\\{)'.'(.*?)'.'(\\}\\})'."/is", $template_footer, $matches)) {
     $i = 0;
-    $j = 0;
+    $j = 0; 
     foreach ($matches as $valeur) {
         foreach ($valeur as $val) {
             if (isset($matches[2][$j]) && $matches[2][$j]!='') {
