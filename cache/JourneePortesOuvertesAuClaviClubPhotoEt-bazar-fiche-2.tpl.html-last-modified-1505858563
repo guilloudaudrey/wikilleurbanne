@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=JourneePortesOuvertesAuClaviClubPhotoEt">Journée Portes Ouvertes au CLAVI, club photo et audiovisuel de Villeurbanne</a>		</h1>
+		<h4>
+			Le Samedi 07 Octobre 2017 de 10H à 15H			
+					par 
+			<a href="http://wikilleurbanne.dev/?ClubAudiovisuelDeVilleurbanne">
+				Club audiovisuel de Villeurbanne			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?JourneePortesOuvertesAuClaviClubPhotoEt"></a></span>		</h4>
+		<p>
+			<p>Le Clavi, club photo et audiovisuel,&nbsp; ouvre ses portes au public de 10h à 15h au CCVA, 234 cours Emile Zola à Villeurbanne. Au programme: rencontre avec des membres du club et informations, visite commentée de l'expo en cours, démonstrations de prise de vue en studio,&nbsp; et de post traitement logiciel des photos numériques.. Ouvert à tous<br></p><p><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Journée Portes Ouvertes au CLAVI, club photo et audiovisuel de Villeurbanne" src="files/JourneePortesOuvertesAuClaviClubPhotoEt_affiche-expo-2017-675.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

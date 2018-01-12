@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FranchirLeCoursEmileZolaPasserellesEtP">Franchir le Cours Emile Zola : passerelles et points de rencontres entre les habitants de Cusset</a>		</h1>
+		<h4>
+			Le Mardi 31 Janvier 2017 de 17H à 19H			
+					par 
+			<a href="http://wikilleurbanne.dev/?AssociationPourLaGestionDuCentreSocialDe">
+				Association pour la gestion du centre social de Cusset			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?FranchirLeCoursEmileZolaPasserellesEtP"></a></span>		</h4>
+		<p>
+			<p>A l'occasion du travail collectif de réécriture du projet du Centre Social de Cusset, un temps d'échanges et de partage d'idées ouvert aux habitants, aux associations et aux partenaires du Centre Social de Cusset.</p><p><br></p><p>Rejoignez-nous !!!<br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

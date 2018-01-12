@@ -1,0 +1,42 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=RestaurantIntermittentAssociatifLaCasaDe">Restaurant Intermittent Associatif "La Casa de Susana" : Diner-Concert chilien</a>		</h1>
+		<h4>
+			Le Samedi 08 Avril 2017 de 19H30 à 23H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?EspaceCulturelFrancoChilienLatinoAmericain">
+				Espace culturel franco-chilien-latino-americain Susana Estrella Obando			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?RestaurantIntermittentAssociatifLaCasaDe"></a></span>		</h4>
+		<p>
+			<div id="event_description" class="desc" style="max-height: none;">
+<div id="event_description_text">
+ 
+<p><b>Évitons les gaspillages, Réserver ici :</b></p><p>https://www.billetweb.fr/restaurant-associatif-poemes-et-chants-damerique-latine<br></p><p><br></p><p>Au programme :</p>
+<p>à 19H30 - Poèmes et Chants de l'Amérique Latine avec Vivi Paneque (Cuba) et Luis Yanjari (Chii)</p>
+<p>à 20H15 - Repas</p>
+<p>Menu Chilien à 12 €</p>
+<p>Entrée</p>
+<p>Empanada et salade verte</p>
+<p>Plat</p>
+<p>Haricots à la Chilienne avec Coti de porc (Porotos con riendas y costillar)</p>
+<p>Dessert</p>
+<p>Crème de noix de coco.</p>
+<p>&nbsp;</p>
+<p>Apéritif Chilien à 4 €</p>
+<p>Pisco Sour + Sopaipillas (bugnes chiliennes salées) + sauce pebre.</p>
+<p>&nbsp;</p>
+<p>Sur place : vins et boissons à différents prix</p>
+ 
+</div>
+</div>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Restaurant Intermittent Associatif "La Casa de Susana" : Diner-Concert chilien" src="files/RestaurantIntermittentAssociatifLaCasaDe_afichepoemasycantos.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

@@ -1,0 +1,25 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=OrganiserUneManifestationCulturelle">Formation - Organiser une manifestation culturelle</a>		</h1>
+		<h4>
+			Le Jeudi 01 Décembre 2016 de 18H30 à 21H			
+					par 
+			<a href="http://wikilleurbanne.dev/?CentreCulturelOecumeniqueJeanPierreLachaiz">
+				Centre culturel oecuménique Jean-Pierre Lachaize (CCO)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CcoJeanPierreLachaize">CCO - Jean-Pierre LACHAIZE</a></span>		</h4>
+		<p>
+			<p><b>LES OBLIGATIONS RÉGLEMENTAIRES ET ADMINISTRATIVES.</b> </p><p> Connaitre
+ et respecter le cadre règlementaire lié à l'organisation d'une 
+manifestation culturelle (déclarations et autorisations, règles de 
+sécurité, législation sociale, etc.).</p><div class="news-text-wrap"><p>&nbsp;Jeudi 1er décembre // 18h30 - 21h // CCO</p><p><i>Avec Isabelle Didier, directrice technique des festivals. </i></p> </div><p><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

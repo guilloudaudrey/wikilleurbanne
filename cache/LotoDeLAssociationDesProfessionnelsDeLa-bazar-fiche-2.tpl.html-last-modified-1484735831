@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=LotoDeLAssociationDesProfessionnelsDeLa">Loto de l'Association des Professionnels de la Place Grandclément</a>		</h1>
+		<h4>
+			Le Samedi 04 Février 2017 de 16H à 20H			
+					par 
+			<a href="http://wikilleurbanne.dev/?AssociationDesProfessionnelsDeLaPlaceGran">
+				AssociationDesProfessionnelsDeLaPlaceGran			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?LotoDeLAssociationDesProfessionnelsDeLa"></a></span>		</h4>
+		<p>
+			<p>L'APPG vous propose de participer à son loto annuel.</p><p>Samedi 4 Février 2017, au CCVA de Villeurbanne.</p><p>Ouverture des portes à partir de 15h30. Début des parties à 16h.</p><p>1 Carton: 3€</p><p>4 Cartons: 10€</p><p>10 Cartons: 20€</p><p>De nombreux lots qui raviront les petits comme les plus grands sont à gagner comme 2 Bons d'achats de 100€ et 500€, une caméra sportive, un appareil photo instantané, une tablette tactile, une bague en or,etc... </p><p>Et un cadeau unique et personnalisé: votre récit de vie rédigée par notre biographe.</p><p><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Loto de l'Association des Professionnels de la Place Grandclément" src="files/LotoDeLAssociationDesProfessionnelsDeLa_affiche-loto-2017-jpeg.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

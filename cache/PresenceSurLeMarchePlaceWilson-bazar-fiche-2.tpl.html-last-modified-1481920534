@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=PresenceSurLeMarchePlaceWilson">Présence sur le marché place Wilson</a>		</h1>
+		<h4>
+			Le Dimanche 18 Décembre 2016 de 08H à 13H			
+					par 
+			<a href="http://wikilleurbanne.dev/?ArtisansDuMondeVilleurbanne">
+				Artisans du monde Villeurbanne			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?PlaceJulesGrandclement">Place Jules Grandclément</a></span>		</h4>
+		<p>
+			<p>Artisans du Monde sera présent place Wilson et proposera ses produits artisanaux pour des cadeaux équitables et ses produits alimentaires pour une cuisine de fête tout aussi équitable.<br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

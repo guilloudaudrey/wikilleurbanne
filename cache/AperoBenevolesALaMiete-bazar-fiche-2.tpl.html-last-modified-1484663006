@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=AperoBenevolesALaMiete">Apéro bénévoles à la Miete !</a>		</h1>
+		<h4>
+			Le Vendredi 20 Janvier 2017 de 18H30 à 20H			
+					par 
+			<a href="http://wikilleurbanne.dev/?MaisonDeLInitiativeDeLEngagementDuTro">
+				Maison de l'Initiative, de l'Engagement, du Troc et de l'Echange (MIETE)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?AperoBenevolesALaMiete"></a></span>		</h4>
+		<p>
+			<h4><div style="text-align: center;"><span style="text-align: left; color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;">Viens boire un verre avec les copains mieteux à notre premier apéro partagé de l'année 2017 !</span></div><div style="text-align: center;"><span style="text-align: left; color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;">Ça&nbsp;sera l'occasion d'échanger, de se donner des idées de projets pour l'année</span></div><div style="text-align: center;"><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif; text-align: left;">ou simplement de découvrir l'association !&nbsp;</span></div><div style="text-align: center;"><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif; text-align: left;"><br></span></div><div style="text-align: center;"><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif; text-align: left;">Et en plus si ça te dit, tu pourras continuer sur la soirée jeux,</span></div><div style="text-align: center;"><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif; text-align: left;">organisée par une asso adhérente (Oz'Ateliers du 4 août) !</span></div><div style="text-align: center;"><span style="text-align: left; color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><br></span></div></h4><h4><b><div style="text-align: center;"><b>L'idée c'est d'apporter un petit quelque chose à grignoter ou à boire</b></div><div style="text-align: center;"><b>(fait maison ou de manière industrielle ;) ) !</b></div></b></h4><p style="text-align: center;"><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Apéro bénévoles à la Miete !" src="files/AperoBenevolesALaMiete_apero_benevole_miete.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

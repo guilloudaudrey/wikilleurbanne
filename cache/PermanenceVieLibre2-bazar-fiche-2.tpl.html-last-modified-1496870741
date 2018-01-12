@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=PermanenceVieLibre2">Permanence Vie Libre</a>		</h1>
+		<h4>
+			Le Vendredi 09 Juin 2017 de 14H à 16H			
+					par 
+			<a href="http://wikilleurbanne.dev/?MouvementVieLibreLaSoifDEnSortir">
+				Mouvement vie libre			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?PlaceJulesGrandclement">Place Jules Grandclément</a></span>		</h4>
+		<p>
+			<p>Dernière permanence de la saison à la Maison Berty Albrecht</p><p>Accueil des personnes souffrant d'addiction(s) alcool, drogues... et accueil de l'entourage.</p><p>moment d'écoute et de partage dans le respect &nbsp;de chacun, confidentialité garantie.</p><p>la permanence sera suivie de la réunion mensuelle, ouverte à tous&nbsp;</p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

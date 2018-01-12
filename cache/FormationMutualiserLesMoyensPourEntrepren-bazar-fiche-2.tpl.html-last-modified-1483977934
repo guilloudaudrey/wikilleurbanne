@@ -1,0 +1,28 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FormationMutualiserLesMoyensPourEntrepren">Formation: Mutualiser les moyens pour entreprendre</a>		</h1>
+		<h4>
+			Le Mardi 24 Janvier 2017 de 18H30 à 20H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?CentreCulturelOecumeniqueJeanPierreLachaiz">
+				Centre culturel oecuménique Jean-Pierre Lachaize (CCO)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CcoJeanPierreLachaize">CCO - Jean-Pierre LACHAIZE</a></span>		</h4>
+		<p>
+			<p><i>Porter un projet et entreprendre en économie sociale et solidaire</i><br></p><p>Présentation générale des formes de mutualisations possibles, en matière
+ d’emploi&nbsp;: le portage salarial, d’activités, la mutualisation de 
+postes, le prêt de personnel… et les espaces dans lesquels elles 
+s’organisent&nbsp;:&nbsp;les coopératives d’activités et d’emplois (CAE), les 
+Groupements d'Employeurs, les pépinières, les incubateurs…</p><p><span style="font-weight: bold;">Mardi 24 janvier </span>// 18h30-20h30 // CCO<br></p><div class="field-items"><div class="field-item even"><div>Pour plus d'informations, contacter le CCO JP LACHAIZE</div>
+<div>04 78 93 41 44 -<a href="mailto:vieassociative@cco-villeurbanne.org">vieassociative@cco-villeurbanne.org</a></div>
+</div></div><p><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

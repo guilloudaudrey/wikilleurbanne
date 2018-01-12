@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=SoireeCrepesEtBugnesChezLesCyclotouristes">Soirée crêpes et bugnes chez les cyclotouristes de l'ASEB</a>		</h1>
+		<h4>
+			Le Vendredi 03 Mars 2017 de 20H à 22H			
+					par 
+			<a href="http://wikilleurbanne.dev/?AssociationSportiveDesEntreprisesDuBatimen">
+				Association Sportive des Entreprises du Bâtiment de Villeurbanne			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?OsV">Office du Sport de Villeurbanne (OSV) - Maison des sportifs</a></span>		</h4>
+		<p>
+			<p>Si vous voulez faire connaissance avec le club de cyclotourisme ASEB Villeurbanne et partager nos activités, venez vivre un moment de convivialité lors de cette soirée. </p><p>Rendez-vous à l'OSV (office des sports de Villeurbanne) 70 rue du Docteur Rollet à 20 heures.</p><p>Des randonnées à vélo vous seront proposées pour les semaines à venir.<br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FormationPedagogiesEtLoisirsCooperation">Formation pédagogies et loisirs "coopération - compétition"</a>		</h1>
+		<h4>
+			Le Lundi 23 Janvier 2017 de 09H à 17H			
+					par 
+			<a href="http://wikilleurbanne.dev/?ScicabullE">
+				Scicabulle			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?LaMaisonDeLEducation">La Maison de l'éducation </a></span>		</h4>
+		<p>
+			<p align="justify">Sur cette formation, nous questionnerons sur ces notions et nous expérimenterons, par le biais de méthodes d’animation participative, des éléments favorisants la coopération entre les personnes pouvant agrémenter nos boîtes à outils d’animations pour les enfants d’un accueil collectif de mineurs, et l’étayerons d’apports théoriques.</p>23 janvier 2017 de 9h - 17h<br><p>Dans les locaux de La Maison de l’Éducation : 21, rue des tables claudiennes 69001 LYON<br>- 75€ en inscription individuelle<br>- 150€ dans le cadre de son plan de formation en passant par une OPCA<br>*Vous aimeriez participer mais vous n’avez pas de financement ? Contactez-nous.</p><p align="justify"><br>Pour vous inscrire, allez sur notre site à la rubrique inscriptions : <a href="http://wikilleurbanne.fr/scicabulle.com/inscriptions/">scicabulle.com/inscriptions/</a></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

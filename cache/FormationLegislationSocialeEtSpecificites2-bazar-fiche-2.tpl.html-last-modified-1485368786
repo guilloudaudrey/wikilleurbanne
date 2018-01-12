@@ -1,0 +1,30 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FormationLegislationSocialeEtSpecificites2">Formation : Législation sociale et spécificités du spectacle vivant - 2</a>		</h1>
+		<h4>
+			Le Jeudi 06 Avril 2017 de 18H à 21H			
+					par 
+			<a href="http://wikilleurbanne.dev/?CentreCulturelOecumeniqueJeanPierreLachaiz">
+				Centre culturel oecuménique Jean-Pierre Lachaize (CCO)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CcoJeanPierreLachaize">CCO - Jean-Pierre LACHAIZE</a></span>		</h4>
+		<p>
+			<p><i>Connaitre la législation sociale et maîtriser les premières démarches pour recruter un salarié</i><br></p><p>Dans
+ le cadre général du droit du travail (traité dans le module 
+"Formalités et obligations des associations employeuses"), mettre en 
+place les collaborations de travail avec des personnes physiques 
+(artistes, techniciens, prestataires) prenant en compte les spécificités
+ liées au spectacle vivant : conventions collectives du secteur, 
+présomption de salariat des artistes du spectacle, recours au CDD 
+d'usage, licence d'entrepreneur du spectacle vivant, artistes auteurs 
+...</p><p><br></p><p>* Formation en 2 temps, présence nécessaire aux 2 dates.</p><p>Mardi 4 et jeudi 6 avril<span style="font-weight: bold;"> </span>// 18h- 21h // CCO<br>Avec Jean-Claude Varlet, administrateur de compagnie</p><p><br></p><p>Pour plus d'informations, contacter le CCO JP LACHAIZE<br>04 78 93 41 44 -<a href="mailto:vieassociative@cco-villeurbanne.org">vieassociative@cco-villeurbanne.org</a><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

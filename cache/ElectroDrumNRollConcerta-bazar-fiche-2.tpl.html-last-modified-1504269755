@@ -1,0 +1,40 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=ElectroDrumNRollConcerta">Electro Drum'n'Roll // CONCERTa</a>		</h1>
+		<h4>
+			Le Samedi 16 Septembre 2017 de 20H30 au Dimanche 17 Septembre à 00H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?TatatooM">
+				Tatatoom			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?ToiToiLeZinc">Toï Toï Le Zinc</a></span>		</h4>
+		<p>
+			<p>WORSHIPERS  // Electro rock //
+Le duo WORSHIPERS voit le jour en 2012. Deux potes et 15 ans de musique 
+au compteur, avec la même envie d'en découdre. Sur scène, pas de 
+platines … La musique électronique est jouée live à coup de machines, de
+ gros futs et de guitares. Le duo revendique une musique sans barrières,
+ inspirée d'artistes tels que les Beatles, Bloody Betroots, Bob Marley 
+Prodigy ou un vieux groupe punk dont on a oublié le nom... oui oui, 
+drôle de mélange.  Worshipers est en tournée pour défendre son nouvel 
+album "Playsure".
+</p><p><br></p><p>
+<br></p><p>GREEN DADDY  // Electro rock expérimental //
+Green Daddy voit le jour en 2008. Lyonnais d'origine, le groupe est 
+fortement axé live, mélangeant les possibilités nouvelles des arts 
+numériques et l'énergie d'un concert rock. Tantôt savante, tantôt 
+dansante, toujours accessible, la musique de Green Daddy se veut riche 
+et surprenante. Green Daddy a la particularité d'utiliser des 
+instruments augmentés. A travers un système unique d'interaction, le 
+groupe plonge les publics dans un espace sonore unique et captivant.
+</p><p><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Electro Drum'n'Roll // CONCERTa" src="files/ElectroDrumNRollConcerta_240-200.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

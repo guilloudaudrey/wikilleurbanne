@@ -1,0 +1,111 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined offset: 1 in /Users/florian/Developpements/wikilleurbanne/themes/tools/bazar/templates/fiche-2.tpl.html on line <i>34</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0003</td><td bgcolor='#eeeeec' align='right'>384144</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/Users/florian/.composer/vendor/laravel/valet/server.php' bgcolor='#eeeeec'>.../server.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0025</td><td bgcolor='#eeeeec' align='right'>534304</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/index.php'</font> )</td><td title='/Users/florian/.composer/vendor/laravel/valet/server.php' bgcolor='#eeeeec'>.../server.php<b>:</b>133</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>0.0030</td><td bgcolor='#eeeeec' align='right'>583888</td><td bgcolor='#eeeeec'>require_once( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/includes/init.yeswiki.php'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/index.php' bgcolor='#eeeeec'>.../index.php<b>:</b>29</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>0.0277</td><td bgcolor='#eeeeec' align='right'>2986712</td><td bgcolor='#eeeeec'>Template->Run(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/init.yeswiki.php' bgcolor='#eeeeec'>.../init.yeswiki.php<b>:</b>289</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>5</td><td bgcolor='#eeeeec' align='center'>0.0559</td><td bgcolor='#eeeeec' align='right'>3012888</td><td bgcolor='#eeeeec'>Template->Method(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.yeswiki.php' bgcolor='#eeeeec'>.../class.yeswiki.php<b>:</b>2055</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>6</td><td bgcolor='#eeeeec' align='center'>0.0559</td><td bgcolor='#eeeeec' align='right'>3013008</td><td bgcolor='#eeeeec'>Template->IncludeBuffered(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.yeswiki.php' bgcolor='#eeeeec'>.../class.yeswiki.php<b>:</b>1409</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>7</td><td bgcolor='#eeeeec' align='center'>0.0567</td><td bgcolor='#eeeeec' align='right'>3082968</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/handlers/page/show.php'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.plugins.php' bgcolor='#eeeeec'>.../class.plugins.php<b>:</b>330</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>8</td><td bgcolor='#eeeeec' align='center'>0.0589</td><td bgcolor='#eeeeec' align='right'>3102648</td><td bgcolor='#eeeeec'>Template->Format(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/handlers/page/show.php' bgcolor='#eeeeec'>.../show.php<b>:</b>78</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>9</td><td bgcolor='#eeeeec' align='center'>0.0590</td><td bgcolor='#eeeeec' align='right'>3103520</td><td bgcolor='#eeeeec'>Template->IncludeBuffered(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.plugins.php' bgcolor='#eeeeec'>.../class.plugins.php<b>:</b>271</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>10</td><td bgcolor='#eeeeec' align='center'>0.0603</td><td bgcolor='#eeeeec' align='right'>3191920</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.plugins.php' bgcolor='#eeeeec'>.../class.plugins.php<b>:</b>330</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>11</td><td bgcolor='#eeeeec' align='center'>0.0603</td><td bgcolor='#eeeeec' align='right'>3192160</td><td bgcolor='#eeeeec'>WikiniFormatter->format(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php' bgcolor='#eeeeec'>.../wakka.php<b>:</b>566</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>12</td><td bgcolor='#eeeeec' align='center'>0.0603</td><td bgcolor='#eeeeec' align='right'>3193304</td><td bgcolor='#eeeeec'><a href='http://www.php.net/function.preg-replace-callback' target='_new'>preg_replace_callback</a>
+(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php' bgcolor='#eeeeec'>.../wakka.php<b>:</b>100</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>13</td><td bgcolor='#eeeeec' align='center'>0.2956</td><td bgcolor='#eeeeec' align='right'>5579240</td><td bgcolor='#eeeeec'>WikiniFormatter->callback(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php' bgcolor='#eeeeec'>.../wakka.php<b>:</b>100</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>14</td><td bgcolor='#eeeeec' align='center'>0.2956</td><td bgcolor='#eeeeec' align='right'>5579896</td><td bgcolor='#eeeeec'>Template->Action(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php' bgcolor='#eeeeec'>.../wakka.php<b>:</b>393</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>15</td><td bgcolor='#eeeeec' align='center'>0.2959</td><td bgcolor='#eeeeec' align='right'>5582528</td><td bgcolor='#eeeeec'>Template->IncludeBuffered(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.yeswiki.php' bgcolor='#eeeeec'>.../class.yeswiki.php<b>:</b>1296</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>16</td><td bgcolor='#eeeeec' align='center'>0.2962</td><td bgcolor='#eeeeec' align='right'>5605792</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/tools/bazar/actions/bazarliste.php'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.plugins.php' bgcolor='#eeeeec'>.../class.plugins.php<b>:</b>330</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>17</td><td bgcolor='#eeeeec' align='center'>0.4472</td><td bgcolor='#eeeeec' align='right'>9572536</td><td bgcolor='#eeeeec'>displayResultList(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/tools/bazar/actions/bazarliste.php' bgcolor='#eeeeec'>.../bazarliste.php<b>:</b>34</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>18</td><td bgcolor='#eeeeec' align='center'>0.6171</td><td bgcolor='#eeeeec' align='right'>13921760</td><td bgcolor='#eeeeec'>SquelettePhp->analyser(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/tools/bazar/libs/bazar.fonct.php' bgcolor='#eeeeec'>.../bazar.fonct.php<b>:</b>3737</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>19</td><td bgcolor='#eeeeec' align='center'>0.6173</td><td bgcolor='#eeeeec' align='right'>13943328</td><td bgcolor='#eeeeec'>include( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/tools/bazar/presentation/templates/liste_accordeon.tpl.html'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/squelettephp.class.php' bgcolor='#eeeeec'>.../squelettephp.class.php<b>:</b>93</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>20</td><td bgcolor='#eeeeec' align='center'>8.2802</td><td bgcolor='#eeeeec' align='right'>36123008</td><td bgcolor='#eeeeec'>baz_voir_fiche(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/tools/bazar/presentation/templates/liste_accordeon.tpl.html' bgcolor='#eeeeec'>.../liste_accordeon.tpl.html<b>:</b>38</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>21</td><td bgcolor='#eeeeec' align='center'>8.2813</td><td bgcolor='#eeeeec' align='right'>36128672</td><td bgcolor='#eeeeec'>Template->renderTemplate(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/tools/bazar/libs/bazar.fonct.php' bgcolor='#eeeeec'>.../bazar.fonct.php<b>:</b>2830</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>22</td><td bgcolor='#eeeeec' align='center'>8.2816</td><td bgcolor='#eeeeec' align='right'>36167744</td><td bgcolor='#eeeeec'>include( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/themes/tools/bazar/templates/fiche-2.tpl.html'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/init.yeswiki.php(283) : eval()'d code' bgcolor='#eeeeec'>.../init.yeswiki.php(283) : eval()'d code<b>:</b>152</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined offset: 2 in /Users/florian/Developpements/wikilleurbanne/themes/tools/bazar/templates/fiche-2.tpl.html on line <i>34</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0003</td><td bgcolor='#eeeeec' align='right'>384144</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/Users/florian/.composer/vendor/laravel/valet/server.php' bgcolor='#eeeeec'>.../server.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0025</td><td bgcolor='#eeeeec' align='right'>534304</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/index.php'</font> )</td><td title='/Users/florian/.composer/vendor/laravel/valet/server.php' bgcolor='#eeeeec'>.../server.php<b>:</b>133</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>0.0030</td><td bgcolor='#eeeeec' align='right'>583888</td><td bgcolor='#eeeeec'>require_once( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/includes/init.yeswiki.php'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/index.php' bgcolor='#eeeeec'>.../index.php<b>:</b>29</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>0.0277</td><td bgcolor='#eeeeec' align='right'>2986712</td><td bgcolor='#eeeeec'>Template->Run(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/init.yeswiki.php' bgcolor='#eeeeec'>.../init.yeswiki.php<b>:</b>289</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>5</td><td bgcolor='#eeeeec' align='center'>0.0559</td><td bgcolor='#eeeeec' align='right'>3012888</td><td bgcolor='#eeeeec'>Template->Method(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.yeswiki.php' bgcolor='#eeeeec'>.../class.yeswiki.php<b>:</b>2055</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>6</td><td bgcolor='#eeeeec' align='center'>0.0559</td><td bgcolor='#eeeeec' align='right'>3013008</td><td bgcolor='#eeeeec'>Template->IncludeBuffered(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.yeswiki.php' bgcolor='#eeeeec'>.../class.yeswiki.php<b>:</b>1409</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>7</td><td bgcolor='#eeeeec' align='center'>0.0567</td><td bgcolor='#eeeeec' align='right'>3082968</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/handlers/page/show.php'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.plugins.php' bgcolor='#eeeeec'>.../class.plugins.php<b>:</b>330</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>8</td><td bgcolor='#eeeeec' align='center'>0.0589</td><td bgcolor='#eeeeec' align='right'>3102648</td><td bgcolor='#eeeeec'>Template->Format(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/handlers/page/show.php' bgcolor='#eeeeec'>.../show.php<b>:</b>78</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>9</td><td bgcolor='#eeeeec' align='center'>0.0590</td><td bgcolor='#eeeeec' align='right'>3103520</td><td bgcolor='#eeeeec'>Template->IncludeBuffered(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.plugins.php' bgcolor='#eeeeec'>.../class.plugins.php<b>:</b>271</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>10</td><td bgcolor='#eeeeec' align='center'>0.0603</td><td bgcolor='#eeeeec' align='right'>3191920</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.plugins.php' bgcolor='#eeeeec'>.../class.plugins.php<b>:</b>330</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>11</td><td bgcolor='#eeeeec' align='center'>0.0603</td><td bgcolor='#eeeeec' align='right'>3192160</td><td bgcolor='#eeeeec'>WikiniFormatter->format(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php' bgcolor='#eeeeec'>.../wakka.php<b>:</b>566</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>12</td><td bgcolor='#eeeeec' align='center'>0.0603</td><td bgcolor='#eeeeec' align='right'>3193304</td><td bgcolor='#eeeeec'><a href='http://www.php.net/function.preg-replace-callback' target='_new'>preg_replace_callback</a>
+(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php' bgcolor='#eeeeec'>.../wakka.php<b>:</b>100</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>13</td><td bgcolor='#eeeeec' align='center'>0.2956</td><td bgcolor='#eeeeec' align='right'>5579240</td><td bgcolor='#eeeeec'>WikiniFormatter->callback(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php' bgcolor='#eeeeec'>.../wakka.php<b>:</b>100</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>14</td><td bgcolor='#eeeeec' align='center'>0.2956</td><td bgcolor='#eeeeec' align='right'>5579896</td><td bgcolor='#eeeeec'>Template->Action(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php' bgcolor='#eeeeec'>.../wakka.php<b>:</b>393</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>15</td><td bgcolor='#eeeeec' align='center'>0.2959</td><td bgcolor='#eeeeec' align='right'>5582528</td><td bgcolor='#eeeeec'>Template->IncludeBuffered(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.yeswiki.php' bgcolor='#eeeeec'>.../class.yeswiki.php<b>:</b>1296</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>16</td><td bgcolor='#eeeeec' align='center'>0.2962</td><td bgcolor='#eeeeec' align='right'>5605792</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/tools/bazar/actions/bazarliste.php'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.plugins.php' bgcolor='#eeeeec'>.../class.plugins.php<b>:</b>330</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>17</td><td bgcolor='#eeeeec' align='center'>0.4472</td><td bgcolor='#eeeeec' align='right'>9572536</td><td bgcolor='#eeeeec'>displayResultList(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/tools/bazar/actions/bazarliste.php' bgcolor='#eeeeec'>.../bazarliste.php<b>:</b>34</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>18</td><td bgcolor='#eeeeec' align='center'>0.6171</td><td bgcolor='#eeeeec' align='right'>13921760</td><td bgcolor='#eeeeec'>SquelettePhp->analyser(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/tools/bazar/libs/bazar.fonct.php' bgcolor='#eeeeec'>.../bazar.fonct.php<b>:</b>3737</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>19</td><td bgcolor='#eeeeec' align='center'>0.6173</td><td bgcolor='#eeeeec' align='right'>13943328</td><td bgcolor='#eeeeec'>include( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/tools/bazar/presentation/templates/liste_accordeon.tpl.html'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/squelettephp.class.php' bgcolor='#eeeeec'>.../squelettephp.class.php<b>:</b>93</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>20</td><td bgcolor='#eeeeec' align='center'>8.2802</td><td bgcolor='#eeeeec' align='right'>36123008</td><td bgcolor='#eeeeec'>baz_voir_fiche(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/tools/bazar/presentation/templates/liste_accordeon.tpl.html' bgcolor='#eeeeec'>.../liste_accordeon.tpl.html<b>:</b>38</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>21</td><td bgcolor='#eeeeec' align='center'>8.2813</td><td bgcolor='#eeeeec' align='right'>36128672</td><td bgcolor='#eeeeec'>Template->renderTemplate(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/tools/bazar/libs/bazar.fonct.php' bgcolor='#eeeeec'>.../bazar.fonct.php<b>:</b>2830</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>22</td><td bgcolor='#eeeeec' align='center'>8.2816</td><td bgcolor='#eeeeec' align='right'>36167744</td><td bgcolor='#eeeeec'>include( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/themes/tools/bazar/templates/fiche-2.tpl.html'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/init.yeswiki.php(283) : eval()'d code' bgcolor='#eeeeec'>.../init.yeswiki.php(283) : eval()'d code<b>:</b>152</td></tr>
+</table></font>
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=LaForceDeLaVoix">La force de la voix</a>		</h1>
+		<h4>
+			Le Jeudi 05 Octobre 2017 à 19H			
+					par 
+			<a href="http://wikilleurbanne.dev/?CentreCulturelOecumeniqueJeanPierreLachaiz">
+				Centre culturel oecuménique Jean-Pierre Lachaize (CCO)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CcoJeanPierreLachaize">CCO - Jean-Pierre LACHAIZE</a></span>		</h4>
+		<p>
+			<h1><a href="http://www.unsitepasordinaire.com/wakka.php?wiki=laForcedelaVoix" target="_blank">Rendez-Vous Citoyen</a></h1><h3>La force de la voix</h3><p>
+<br>
+<b>Avec</b><br>
+<b>Bertrand Périer</b>, avocat à la Cour de cassation, l’un des « 
+préparateurs » au concours « Eloquentia »  qui vise à élire « le 
+meilleur orateur du 93 » parmi les étudiants de tout cursus de  
+l’Université de Saint-Denis. Le concours et la préparation des étudiants
+ par des professionnels (avocats, slameurs, metteurs en scène…) qui 
+enseignent aux étudiants le difficile exercice de la prise de parole en 
+public a fait l’objet du film documentaire « A voix haute – La force de 
+la parole »<br>
+<br>
+<b>Malika Bellaribi-Le Moal</b>, chanteuse lyrique, avec son projet Une 
+diva dans les quartiers, forme au fil d’ateliers, des habitants des 
+quartiers à l’exercice du chant opéra. Habitants de Créteil, Bondy, 
+Paris et Villeurbanne, constituent le chœur amateur de plusieurs « 
+Opéras citoyens » : <i>Cavalleria Rusticana</i>, <i>Barbier de Séville</i>…<br>
+<br>
+Quels sont les changements qu’opèrent au fil des semaines 
+l’apprentissage du chant  pour les participants de l’opéra citoyen et 
+l’apprentissage des ressorts subtils de la rhétorique pour les 
+participants au concours <i>Eloquentia</i> ? Comment l’expérience 
+personnelle et collective de travail de la voix, parlée ou chantée, 
+participe-t-elle à l’autonomie et à la confiance en soi ? Comment 
+l’expression orale, la libération de la voix, la prise de conscience du 
+chemin de la voix entre espaces intérieur et extérieur permettent-elles 
+de s’affirmer, de se révéler ?<br>
+C’est l’expérience qu’accompagnent et que partageront ces passionnés 
+d’arts classiques, la rhétorique et l’opéra, avec des participants de 
+l’opéra citoyen, appuyée par un extrait du film « A voix haute – La 
+force de la parole » et de l’Opéra citoyen « Le barbier de Séville »<br>
+</p><p><br></p><p>Rendez-vous Citoyen organisé dans le cadre de l'<a href="http://www.unsitepasordinaire.com/" target="_blank">Aventure Ordinaire</a> par le CCO à Villeurbanne.</p><p><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="La force de la voix" src="files/LaForceDeLaVoix_a3-voix-haute.png"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

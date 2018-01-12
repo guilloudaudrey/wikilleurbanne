@@ -1,0 +1,35 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FestivalLesPolySons">Festival Les Poly'sons</a>		</h1>
+		<h4>
+			Le Mercredi 17 Janvier 2018 de 20H au Jeudi 18 Janvier à 20H			
+					par 
+			<a href="http://wikilleurbanne.dev/?TheatreEtCompagnieDeLIris">
+				Théâtre et compagnie de l'Iris			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?TheatreDeLIris">Théâtre de l'Iris</a></span>		</h4>
+		<p>
+			<p>Festival de chanson française Les Poly'sons</p><p>En partenariat avec le Théâtre des Pénitents de Montbrison</p><p><b>Mercredi 17 janvier : Bonbon Vodou</b></p><p style="margin-bottom: 0cm"><span style="background: transparent">Les
+chansons de JereM glissent par l’Afrique, bifurquent par Tahiti et
+finissent dans une samba de boîtes de conserves géantes
+transformées en tambours. </span></p><p style="margin-bottom: 0cm"><span style="background: transparent"><br></span></p><p style="margin-bottom: 0cm"><b>Jeudi 18 janvier : Christopher Murray</b></p><p style="margin-bottom: 0cm"><br></p><p style="margin-bottom: 0cm">
+</p><p style="margin-bottom: 0cm; font-style: normal"><span style="background: transparent">Il
+aura fallu à Christopher Murray les dix chansons de son dernier
+album pour … ne pas répondre à cette question.</span></p><p style="margin-bottom: 0cm">
+</p><p style="margin-bottom: 0cm; font-style: normal"><span style="background: transparent">Que
+faire de ce qui traîne dans nos maisons, de ce qui campe dans nos
+têtes&nbsp;? </span>
+</p><p style="margin-bottom: 0cm">
+<b><br></b><span style="background: transparent">Tarifs : 15/11/4 €<br></span></p><p style="margin-bottom: 0cm"><span style="background: transparent"><br></span>
+</p><p>
+<br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Festival Les Poly'sons" src="files/FestivalLesPolySons_poly-sons-page001.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

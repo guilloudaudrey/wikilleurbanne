@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=PermanenceVieLibre">permanence Vie Libre</a>		</h1>
+		<h4>
+			Le Vendredi 27 Janvier 2017 de 18H à 19H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?MouvementVieLibreLaSoifDEnSortir">
+				Mouvement vie libre			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?PalaisDuTravail">Le Palais du travail, au service des syndicats et de la citoyenneté</a></span>		</h4>
+		<p>
+			<p>Notre Section tiendra sa permanence le 27 janvier de 18h00 à 19h30 au Palais du Travail salle Lise Michel</p><p>accueil des malades de l'alcool et de leur entourage. écoute, orientation, faites par des anciens malades</p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

@@ -1,0 +1,37 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FestivalMemoireVive2017JourneeALaSoie">Festival Mémoire Vive 2017 - Journée à la Soie</a>		</h1>
+		<h4>
+			Le Samedi 25 Mars 2017 de 12H30 à 17H			
+					par 
+			<a href="http://wikilleurbanne.dev/?CentreCulturelOecumeniqueJeanPierreLachaiz">
+				Centre culturel oecuménique Jean-Pierre Lachaize (CCO)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CcoJeanPierreLachaize">CCO - Jean-Pierre LACHAIZE</a></span>		</h4>
+		<p>
+			<p>☀ JOURNÉE À LA SOIE ☀ 12:30 - 17:00<br>
+24 Rue Alfred de Musset - 69100 Villeurbanne<br>
+<br>
+12:30<br>
+Découverte d'un trésor caché<br>
+Exploration d'un parc d'un hectare avec des arbres centenaires.<br>
+Pique-nique partagé dans le parc, étape de la résidence artistique Audioscope autour de la recherche-action Palimpseste.<br>
+Présentation du salon de rue autour du projet Autre Soie.<br>
+<br>
+14:30<br>
+Départ de la balade à vélo depuis l'ancien IUFM, le long de l'anneau 
+bleu, du barrage hydroélectrique et du patrimoine industriel de la 
+Tase... et tout au long des pauses en chanson avec le Pédalo Cantabile.<br>
+<br>
+17:00<br>
+Arrivée au CCO en musique avec À l'Ouest Des Balkans.<br><br>Informations complémentaires : <br><br><a href="http://www.cco-villeurbanne.org/" target="_blank">Site du CCO</a><br><a href="https://www.facebook.com/events/611865439023031/">Évènement Facebook</a><a href="https://www.facebook.com/events/611865439023031/"></a><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Festival Mémoire Vive 2017 - Journée à la Soie" src="files/FestivalMemoireVive2017JourneeALaSoie_mv_portail_culture.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

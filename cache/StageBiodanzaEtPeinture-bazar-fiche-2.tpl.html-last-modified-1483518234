@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=StageBiodanzaEtPeinture">Stage Biodanza et Peinture</a>		</h1>
+		<h4>
+			Le Dimanche 29 Janvier 2017 de 11H à 18H			
+					par 
+			<a href="http://wikilleurbanne.dev/?YebO">
+				Yebo			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CompagniePremierActe2">Compagnie Premier Acte</a></span>		</h4>
+		<p>
+			<div align="left"><span style="font-family:garamond,serif"><b><span style="background-color: inherit;">Expression</span>, libération, transformation</b><br></span></div><div align="left"><span style="font-family:garamond,serif">Dans la continuité de la danse, qui a le pouvoir de libérer nos forces vitales, le geste de peindre permet d'extérioriser cette part de nous qui a besoin de respirer, de rencontrer la matière, d'être pétrie par la vie, pour être transformée.<br></span></div><div align="left"><span style="font-family:garamond,serif">L'union de la Biodanza et de la peinture, par la rencontre avec soi, avec l'autre, avec le groupe, avec l'univers, </span></div><span style="font-family:garamond,serif">par la mise en mouvement de nos mondes invisibles, laisse apparaître le mystère de notre essence.</span>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Stage Biodanza et Peinture" src="files/StageBiodanzaEtPeinture_mvt-2.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

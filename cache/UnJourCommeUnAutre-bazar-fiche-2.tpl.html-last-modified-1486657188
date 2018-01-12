@@ -1,0 +1,31 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=UnJourCommeUnAutre">Un jour comme un autre</a>		</h1>
+		<h4>
+			Le Jeudi 30 Mars 2017 de 17H30 à 19H			
+					par 
+			<a href="http://wikilleurbanne.dev/?EurekaKomplexKapharnaum">
+				Eureka-Komplex kapharnaüm			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?ResidenceSaintAndreCyprianLesBrosses">Résidence Saint André - Cyprian les Brosses</a></span>		</h4>
+		<p>
+			<p class="MsoNormal"><b>Un jour comme un autre</b></p><p class="MsoNormal">Concert plein air </p><p class="MsoNormal">Jeudi 30 mars - 17h30</p><p class="MsoNormal">Tout public</p><p><br></p><p class="MsoNormal">Lorette Zitouni est artiste multi-instrumentiste. </p><p class="MsoNormal">Au sein du collectif KompleX KapharnaüM elle imagine ce
+spectacle musical dédié aux quartier des Brosses (Villeurbanne) avec la complicité
+des élèves de l'Ecole Jules Guesde, du collège Lamartine et du Bitume Orchestra
+de l'ENM.</p><p class="MsoNormal"><i>Un jour comme un autre</i> est un concert en plein air
+sous forme de puzzle sonore où chaque groupe se répond mêlant chœur d'enfants,
+ensemble de cuivres et enregistrements sonores.</p><p><br></p><p class="MsoNormal"><i>Un jour comme un autre</i> s'inscrit dans le cadre de <i>Le
+Long de l'Axe</i>, projet artistique se déroulant Le Long de l'Axe du tram T3
+et porté par KompleX KapharnaüM.<br></p><p class="MsoNormal"><br></p><p class="MsoNormal">Durée&nbsp;: 45mn</p><p class="MsoNormal">Gratuit</p><p class="MsoNormal">Tout public, à partir de 3 ans</p><p class="MsoNormal">RDV&nbsp;: Station de tram Bel-Air/Les Brosses</p><p class="MsoNormal">Jeudi 30 mars - 17H30</p><p><br></p><p class="MsoNormal">Infos&nbsp;:</p><p class="MsoNormal"><a href="mailto:lelongdelaxe@kxkm.net">lelongdelaxe@kxkm.net</a></p><p class="MsoNormal"><a href="http://www.lelongdelaxe.net/">www.lelongdelaxe.net</a></p><p><br></p><p>
+
+<br></p><p><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Un jour comme un autre" src="files/UnJourCommeUnAutre_le-long-de-l-axe-p57-brosses.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

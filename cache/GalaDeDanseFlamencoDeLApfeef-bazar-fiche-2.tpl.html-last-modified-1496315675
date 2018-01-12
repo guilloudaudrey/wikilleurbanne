@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=GalaDeDanseFlamencoDeLApfeef">Gala de Danse Flamenco de l'Apfeef</a>		</h1>
+		<h4>
+			Le Dimanche 18 Juin 2017 de 14H à 18H			
+					par 
+			<a href="http://wikilleurbanne.dev/?AssociationDePeresDeFamillesEspagnolesEmi">
+				Association de pères de familles espagnoles émigrées en France - Villeurbanne			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CentreCulturelEtDeLaVieAssociativeCcva">Centre Culturel et de la Vie Associative (CCVA)</a></span>		</h4>
+		<p>
+			<p>Venez passer un agréable moment en profitant du spectacle donné par les adhérents de l'apfeef.</p><p>Si vous etes intéressé par l'ambiance hispanique, Alors admirer le travail d'une année d'effort pour un spéctacle qui en vos la peine.</p><p>Ouverture de la buvette et petite restauration avant et a l'entracte.</p><p><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Gala de Danse Flamenco de l'Apfeef" src="files/GalaDeDanseFlamencoDeLApfeef_affiche-gala-2017.pdf"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

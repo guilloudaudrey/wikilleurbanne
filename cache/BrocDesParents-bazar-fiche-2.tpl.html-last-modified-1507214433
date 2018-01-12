@@ -1,0 +1,31 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=BrocDesParents">Broc des parents </a>		</h1>
+		<h4>
+			Le Dimanche 08 Octobre 2017 de 10H à 15H			
+					par 
+			<a href="http://wikilleurbanne.dev/?LaCauseDesParents">
+				La Cause des Parents			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?MaisonDeLaParentaliteEtDeLaNaissance">Maison de la Parentalité et de la Naissance</a></span>		</h4>
+		<p>
+			<p><br></p><p class="entry-stitre">Dimanche 8 octobre de 10h à 15h</p><p><br></p><p>La Maison de la Parentalité et de la Naissance organise une grande 
+vente à bas prix au profit de La Cause des Parents, association loi 1901
+ à but non lucratif.<br>
+Une occasion de trouver du matériel de qualité, à très bas prix :<br>
+– vêtements&nbsp; : bébés, enfants, grossesse, allaitement, chaussures…<br>
+– matériel de puériculture : poussettes, mobilier, porte-bébé…<br>
+– livres pour enfants et autour de la parentalité,<br>
+– jeux et jouets : tous âges, d’intérieur et d’extérieur</p><p><br></p><p><span class="vert gras italique">Lieu : </span>à la MPN 8 rue bat Yam 69100 Villeurbanne, <span class="vert gras italique">Métro Charpennes, Tram Le Tonkin</span><br></p><p><br></p><p><i>Possibilité de recevoir vos dons&nbsp;le mardi et jeudi aux heures 
+d’ouverture de la MPN ainsi que le vendredi 06 octobre de 14h à 18h et 
+le samedi 07 octobre de 10h à 14h.</i></p><p><i><br></i></p><p><i><br></i></p><p><a href="www.lacausedesparents.org " target="_blank">www.lacause</a><i><a href="www.lacausedesparents.org " target="_blank">desparents.org&nbsp;</a></i></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Broc des parents " src="files/BrocDesParents_dsc04476-copie.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=CieEmergenteLoloCousinsDesequilibrePa">Cie Émergente - "Lolo Cousins - Déséquilibre passager"</a>		</h1>
+		<h4>
+			Le Jeudi 12 Janvier 2017 de 18H à 19H			
+					par 
+			<a href="http://wikilleurbanne.dev/?LesAteliersFrappazCnar">
+				Les Ateliers Frappaz, CNAREP			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CentreSocialDeCusset">Centre Social de Cusset</a></span>		</h4>
+		<p>
+			<p style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 13px;"><span style="color: rgb(51, 51, 153);">Mr Cousins est un artiste élégant, capable de jongler avec 7 balles ou d’enlever la nappe d’une table chargée de vaisselle sans ébrécher la moindre assiette. Bonimenteur distingué, il vante ses prouesses devant un public conquis.</span></p><p style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 13px;"><span style="color: rgb(51, 51, 153);">Son autre face, c’est Lolo, un être dégingandé, maladroit et malchanceux, capable de s’assommer tout seul avec une simple louche ! Dans ses deux mains gauches, un objet du quotidien peut devenir une arme redoutable.</span></p><p style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 13px;"><span style="color: rgb(51, 51, 153);">Mr Lolo Cousins oscille, en déséquilibre entre ces deux facettes, entre habileté et maladresse, entre le clown et le jonglage.</span></p><p style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 13px;"><span style="color: rgb(51, 51, 153);"><strong>À la suite d’une résidence aux Ateliers Frappaz, Lolo Cousins présentera une répétition publique jeudi 12 janvier à 18h au Centre Social de Cusset (87-89 rue Pierre Voyant).</strong><br>gratuit – spectacle tout public</span></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Cie Émergente - "Lolo Cousins - Déséquilibre passager"" src="files/CieEmergenteLoloCousinsDesequilibrePa_flyer_lolo_bd.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

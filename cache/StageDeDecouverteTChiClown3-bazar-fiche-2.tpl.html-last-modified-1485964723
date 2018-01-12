@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=StageDeDecouverteTChiClown3">Stage de Découverte T'chi clown</a>		</h1>
+		<h4>
+			Le Samedi 25 Mars 2017 de 15H au Dimanche 26 Mars à 18H			
+					par 
+			<a href="http://wikilleurbanne.dev/?TchiclowN">
+				Tchiclown			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?EcoleDeDanseSceneFormations">Ecole de danse Scène Formations </a></span>		</h4>
+		<p>
+			<p>T'hi clown, jeu avec l'énergie corporelle.</p><p>&nbsp;Le samedi de 15h à 19h et le dimanche de 10h à 18h. Il s'agit de se détendre et de se mettre à l'écoute de son ressenti pour interagir avec ses partenaires de jeu derrière un nez rouge. Pas de personnage, pas de situation drôle, juste la liberté de vivre les émotions procurées par un corps sensible. Le stage de découverte assure une progression sur les deux jours qui mène au lâcher-prise et au plaisir d'être présent à soi et aux autres en improvisation corporelle ludique.<br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Stage de Découverte T'chi clown" src="files/StageDeDecouverteTChiClown3_p1050352.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

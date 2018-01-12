@@ -1,0 +1,32 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=LanterneRougeCirquePepin">Spectacle Tout Public : Lanterne Rouge - Cirque Pépin ( Espace Tonkin)</a>		</h1>
+		<h4>
+			Le Mercredi 15 Mars 2017 de 15H à 15H45			
+					par 
+			<a href="http://wikilleurbanne.dev/?CirquePepin">
+				Cirque Pépin			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CentreLeoLagrangeEspaceTonkin">Centre Léo Lagrange - Espace Tonkin</a></span>		</h4>
+		<p>
+			<br><p>Lanterne Rouge c’est des courses de vélos, des couteaux qui volent, des 
+danseurs épuisés, un tango brinquebalant, un mât chinois grand comme 
+l’Everest pour l’un ou simple terrain de jeu pour l’autre.<br>
+Il y a tout ça dans le désordre comme si quelqu’un avait laissé là les vieux restes d’une brocante fatiguée.<br>
+Et là, devant vous : ces deux-là. Nous pourrions les croire sortis d’une
+ cour de récréation où ils seraient restés un peu trop longtemps. On 
+dirait une locomotive qui avance sur des rails usés, prêts à dévier à 
+tout instant.<br>
+Ces deux-là, ils sont tantôt complices, tantôt rivaux.&nbsp; Ils se cherchent, se défient, se transforment, se perdent, s’effraient…<br>
+C’est l’histoire de ces petits rien qui peuvent nous dire beaucoup de 
+choses. Et puis il y a cette lanterne rouge qui nous colle à la peau…</p><p><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Spectacle Tout Public : Lanterne Rouge - Cirque Pépin ( Espace Tonkin)" src="files/LanterneRougeCirquePepin_lanterne-rouge-a2-impression.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

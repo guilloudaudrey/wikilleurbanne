@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=InaugurationDuRestaurantCulturelAssociatif">Inauguration du Restaurant Culturel Associatif Latino-américain "La Casa de Susana"</a>		</h1>
+		<h4>
+			Le Samedi 25 Février 2017 de 12H à 23H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?EspaceCulturelFrancoChilienLatinoAmericain">
+				Espace culturel franco-chilien-latino-americain Susana Estrella Obando			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?InaugurationDuRestaurantCulturelAssociatif"></a></span>		</h4>
+		<p>
+			<p>Inauguration du Restaurant Culturel Associatif <i><b>"La Casa de Susana"</b></i> de l'Espace Culturel Franco-chilien-latino-américain Susana Estrella Obando, au local de La Miete-Perralière, 150 rue du 4 août 1789, Villeurbanne, métro Flachet.<br></p><p>Réservations ici :</p><p>&nbsp;https://www.billetweb.fr/inauguration-restaurant-culturel-associatif-la-casa-de-susana<b> </b></p><p><b>Déjeuner de 12H à 14H / Diner de 20H à 22H</b></p><p><b>Apéritif : Crème de Pisco et Corossol(chirimoya) + 3 sopaipillas (bugnes salées chiliennes) + sauce Pebre &nbsp;&nbsp;&nbsp;&nbsp; 4€<br></b><b><br></b></p><p><b>Menu à 10 €</b></p><p><b>Entrée : Salade verte</b></p><p><b>Plat : Charquikán (spécialité des indiens Mapuche du Chili: Pommes de terre, courge, maĩs, haricots verts, tomates, poivrons, céleri, oignons...<br></b></p><p><b>Dessert : Pêches et crème au Corossol (chirimoya)<br></b></p><p><b><br></b></p><p><b>Menu à 12€</b></p><p><b>Entrée : Empanada + Salade verte</b></p><p><b>Plat : Charquikán (spécialité des indiens Mapuche du Chili)</b></p><p><b>Dessert : Pêches et crème au Corossol</b></p><p><b><br></b></p><p><b>Boissons et vins typiques du Chili (sur place)<br></b></p><p><b><br></b><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Inauguration du Restaurant Culturel Associatif Latino-américain "La Casa de Susana"" src="files/InaugurationDuRestaurantCulturelAssociatif_lacasadesusana.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

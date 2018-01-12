@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=LectureDeambulatoire">lecture déambulatoire</a>		</h1>
+		<h4>
+			Le Samedi 04 Mars 2017 de 16H à 17H			
+					par 
+			<a href="http://wikilleurbanne.dev/?ParolesDePlumesEtc">
+				Paroles de plumes etc.			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CroisementAvenueSaintExuperyEtRueRaymond">Croisement avenue Saint Exupery et rue Raymond Terracher</a></span>		</h4>
+		<p>
+			<p>Dans le cadre du printemps des poètes Lecture déambulatoire par les auteur(e)s de textes écrits en atelier</p><p>à la librairie :Lettres à croquer,104 cours Émile Zola à Villeurbanne<br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

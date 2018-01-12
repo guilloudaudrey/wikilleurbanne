@@ -1,0 +1,37 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=TriptyqueLADemocratieVoletRougeArmem">Triptyque L'A-démocratie // Volet rouge - armement</a>		</h1>
+		<h4>
+			Le Vendredi 23 Mars 2018 de 20H à 22H			
+					par 
+			<a href="http://wikilleurbanne.dev/?TheatreEtCompagnieDeLIris">
+				Théâtre et compagnie de l'Iris			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?TheatreDeLIris">Théâtre de l'Iris</a></span>		</h4>
+		<p>
+			<p>Le Maniement des larmes<br></p><p>De Nicolas Lambert</p><p>Par la Compagnie Un pas de côté</p><p>
+</p><p style="margin-bottom: 0cm"><span style="background: transparent">Et
+nous en héritons.</span></p><p>
+</p><p style="margin-bottom: 0cm"><span style="background: transparent">Entre
+emballements médiatiques, ténacité des juges d’instruction,
+écoutes téléphoniques, valse des valises et culte du secret, des
+guerres grondent et des familles éclatent. Et des armes, encore, ne
+cessent de se négocier. Sans que les citoyens, ni leurs
+représentants n’en comprennent&nbsp;les enjeux.</span></p><p>
+</p><p style="margin-bottom: 0cm"><i><span style="background: transparent">Le
+Maniement des larmes</span></i><span style="background: transparent">
+dresse un portrait acide et explosif de la politique d’armement de
+la V</span><span style="background: transparent">e</span><span style="background: transparent">
+République par ses protagonistes. </span>
+</p><p>
+<span style="background: transparent"><br></span></p><p style="margin-bottom: 0cm"><span style="background: transparent">Durée : 2 h</span></p><p><span style="background: transparent">À partir de : 14 ans</span></p><p><span style="background: transparent"><br></span><br></p><p><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Triptyque L'A-démocratie // Volet rouge - armement" src="files/TriptyqueLADemocratieVoletRougeArmem_le-maniement-des-larmes-bd.jpeg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

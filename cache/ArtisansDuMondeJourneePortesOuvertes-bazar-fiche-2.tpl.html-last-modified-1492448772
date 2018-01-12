@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=ArtisansDuMondeJourneePortesOuvertes">Artisans du Monde : journée Portes Ouvertes</a>		</h1>
+		<h4>
+			Le Samedi 13 Mai 2017 de 10H à 19H			
+					par 
+			<a href="http://wikilleurbanne.dev/?ArtisansDuMondeVilleurbanne">
+				Artisans du monde Villeurbanne			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?ArtisansDuMondeVilleurbanne2">Artisans du Monde Villeurbanne</a></span>		</h4>
+		<p>
+			<p style="border: 0px; font-variant-numeric: inherit; font-stretch: inherit; line-height: 1.7; font-family: Roboto, sans-serif; font-size: 15px; outline: 0px; padding: 0px; vertical-align: baseline; color: rgb(51, 51, 51); text-align: center;"><span style="border: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: rgb(0, 0, 0);">A l’occasion de la&nbsp;<strong style="border: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-style: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: rgb(109, 0, 3);">Quinzaine du Commerce Équitable</strong>&nbsp;qui se déroule du 13 au 28 mai,</span></p><p style="border: 0px; font-variant-numeric: inherit; font-stretch: inherit; line-height: 1.7; font-family: Roboto, sans-serif; font-size: 15px; outline: 0px; padding: 0px; vertical-align: baseline; color: rgb(51, 51, 51); text-align: center;"><span style="border: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: rgb(0, 0, 0);">nous vous invitons à venir rencontrer les bénévoles de notre association lors d’une&nbsp;<strong style="border: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-style: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: rgb(109, 0, 3);">Journée Portes Ouvertes</strong>&nbsp;autour de délicieuses spécialités équitables&nbsp;made in Villeurbanne&nbsp;!</span></p><p style="border: 0px; font-variant-numeric: inherit; font-stretch: inherit; line-height: 1.7; font-family: Roboto, sans-serif; font-size: 15px; outline: 0px; padding: 0px; vertical-align: baseline; color: rgb(51, 51, 51); text-align: center;">Plus d'informations sur notre association <a href="http://www.admlyonvilleurbanne.com/" target="_blank">Artisans du Monde Villeurbanne</a>.</p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Artisans du Monde : journée Portes Ouvertes" src="files/ArtisansDuMondeJourneePortesOuvertes_p1020158.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=LesNouvellesStarsDeDemainFeteDeLaMusiqu">Les Nouvelles Stars De Demain Fête de la Musique à Lyon 2eme</a>		</h1>
+		<h4>
+			Le Mercredi 21 Juin 2017 de 20H30 à 23H			
+					par 
+			<a href="http://wikilleurbanne.dev/?LesNouvellesStarsDeDemain">
+				Les nouvelles stars de demain			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?Lyon2emE">Lyon 2eme</a></span>		</h4>
+		<p>
+			<p>Retrouvez le groupe des Nouvelles Stars de Demain en concert à la Fête de la musique le 21 Juin 2017 Place Gailleton à Lyon 2eme de 20H 30 à 23 H. </p><p>Un groupe de jeunes Artistes de haut niveau entre&nbsp; 13 Ans à 24 ans avec Ilona GRISONI, Mathilde SYLVESTRE , Emily LAURENT,&nbsp; Lizy&nbsp; et&nbsp; Tissya Line. &nbsp;</p><p>Avec également la participation de l'artiste Lyonnaise ViKtoria et Seymi. <br></p><p>Variétés Françaises et internationales. <b></b><i></i><u></u><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Les Nouvelles Stars De Demain Fête de la Musique à Lyon 2eme" src="files/LesNouvellesStarsDeDemainFeteDeLaMusiqu_montage-photos2.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

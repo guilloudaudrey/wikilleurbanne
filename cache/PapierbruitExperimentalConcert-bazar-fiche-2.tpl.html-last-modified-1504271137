@@ -1,0 +1,36 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=PapierbruitExperimentalConcert">PapierBruit + Expérimental // CONCERT</a>		</h1>
+		<h4>
+			Le Samedi 23 Septembre 2017 de 20H30 au Dimanche 24 Septembre à 00H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?TatatooM">
+				Tatatoom			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?ToiToiLeZinc">Toï Toï Le Zinc</a></span>		</h4>
+		<p>
+			<p>PAPIER BRUIT // Hip hop //
+Fondé en 2013, PapierBruit est l'alliance de deux rappeurs et d'un 
+beatmaker. Voix singulières et beats bruts. Des éclats de rires à gorges
+ dépliées, de l'écriture en stéréo, une idée de thème entre deux 
+ramettes de métro et du sampling fait au massicot. Sûr de rien plutôt 
+surréaliste,  alternatif est PapierBruit. Le groupe sort en 2017 son EP «
+ Giratoire ». </p><p><br></p><p>EXPERIMENTAL // Heavy metal //
+Un groupe de metal à un seul membre, EXP ..... c’est les Pentes, la 
+Divine Comédie de Dante sur 100 m de dénivelé et de couloirs sombres 
+comme un mauvais trafic… Une personne en couleurs qui lévite juste au 
+dessus d’une marée noire de demi-mesures et de décisions raisonnables… 
+Dans une époque qui a tout dans la tête et rien dans le ventre, EXP 
+balade sa mine de vrai-jeton, parle à des inconnus et pose même des 
+questions auxquelles il ne connait pas les réponses. Et de temps en 
+temps, il sort un disque. <br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="PapierBruit + Expérimental // CONCERT" src="files/PapierbruitExperimentalConcert_240-200.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

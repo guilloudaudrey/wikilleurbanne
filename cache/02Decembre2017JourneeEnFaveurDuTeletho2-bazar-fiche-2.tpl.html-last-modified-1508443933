@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=02Decembre2017JourneeEnFaveurDuTeletho2">02 décembre 2017 : journée en faveur du Téléthon à la Maison Berty Albrecht </a>		</h1>
+		<h4>
+			Le Samedi 02 Décembre 2017 de 14H à 18H			
+					par 
+			<a href="http://wikilleurbanne.dev/?AssociationMusicaleVilleurbannaise">
+				Association Musicale Villeurbannaise			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?MaisonBerthyAlbrecht">Maison Berty-Albrecht, la maison des loisirs et des cultures</a></span>		</h4>
+		<p>
+			<p>L'AMV participera à la journée en faveur du Téléthon 2017.</p><p>Une animation musicale sera proposée par nos jeunes élèves.</p><p>Venez nombreux !<br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

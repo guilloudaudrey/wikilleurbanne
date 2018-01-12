@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=LesNouvellesStarsDeDemainCastingTheVoi2">Les Nouvelles Stars De Demain - Casting The Voice et The Voice Kids</a>		</h1>
+		<h4>
+			Le Mercredi 28 Juin 2017 de 15H à 19H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?LesNouvellesStarsDeDemain">
+				Les nouvelles stars de demain			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?PalaisDuTravail">Le Palais du travail, au service des syndicats et de la citoyenneté</a></span>		</h4>
+		<p>
+			<p>Les Nouvelles Stars De Demain organisent un&nbsp; Casting dans l'éventualité d'une prochaine saison de The Voice et The Voice Kids.</p><p>Inscriptions aux pré-sélections sur le lien de notre site officielle "Les Nouvelles Stars De demain" avant le 20 Juin. </p><p><a href="http://www.stars-de-demain.com/casting/"><u>http://www.stars-de-demain.com/casting/</u></a></p><p>Si le candidat est retenu, le casting aura lieu à Villeurbanne - 9 Place Lazare Goujon au Palais du Travail en présence d'un ou des casteurs de The Voice. </p><p><br></p><p><b></b><i></i><u></u><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Les Nouvelles Stars De Demain - Casting The Voice et The Voice Kids" src="files/LesNouvellesStarsDeDemainCastingTheVoi2_affiche-nsdd.pdf"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

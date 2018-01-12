@@ -1,0 +1,30 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=LaNekyiaLaFougereLesStaleursConcer">La Nekyia + La Fougère + Les Staleurs // Concert</a>		</h1>
+		<h4>
+			Le Samedi 09 Septembre 2017 de 20H30 au Dimanche 10 Septembre à 00H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?TatatooM">
+				Tatatoom			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?ToiToiLeZinc">Toï Toï Le Zinc</a></span>		</h4>
+		<p>
+			<p>La Nekyia // Chanson poétique //
+Si La Nekyia est foncièrement un groupe de chanson à texte, elle n’est 
+pas pour autant affilié à la Chanson Française ou au Hip Hop, ni même au
+ Jazz, mais tout ça à la fois dans un ensemble harmonique aux 
+arrangements tant inspirés qu’inspirant.
+</p><p><br></p><p>La Fougère // Invitation au sourire // Guitariste, accordéoniste et 
+chanteur, La Fougère dépose sur ses textes des mélodies joyeuses et 
+porteuses de sens.
+<br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

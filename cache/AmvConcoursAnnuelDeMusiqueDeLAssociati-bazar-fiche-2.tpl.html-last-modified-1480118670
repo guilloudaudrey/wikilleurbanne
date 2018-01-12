@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=AmvConcoursAnnuelDeMusiqueDeLAssociati">AMV : Concours annuel de musique de l'association</a>		</h1>
+		<h4>
+			Le Samedi 01 Avril 2017 de 14H à 18H			
+					par 
+			<a href="http://wikilleurbanne.dev/?AssociationMusicaleVilleurbannaise">
+				Association Musicale Villeurbannaise			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CentreLeoLagrangeEspaceTonkin">Centre Léo Lagrange - Espace Tonkin</a></span>		</h4>
+		<p>
+			<p align="justify">L'Association Musicale Villeurbannaise organise son concours annuel de musique<br></p><p align="justify">Samedi 01 Avril 2017 au Centre Léo Lagrange - Espace Tonkin à Villeurbanne<br></p><p align="justify">Ce concours réunit les élèves des écoles de notre professeur de musique.</p><p align="justify">Cet événement est l’occasion pour les élèves de concrétiser le travail effectué durant l'année.</p><p align="justify">Ouverture des portes à 13h30</p><p align="justify">Entrée 4 euros</p><p align="justify">Buvette<br></p><br>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

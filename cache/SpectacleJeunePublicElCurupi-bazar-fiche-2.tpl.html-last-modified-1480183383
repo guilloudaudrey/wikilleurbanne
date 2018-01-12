@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=SpectacleJeunePublicElCurupi">Spectacle Jeune Public - El curupi</a>		</h1>
+		<h4>
+			Le Mercredi 07 Décembre 2016 toute la journée au Samedi 10 Décembre			
+					par 
+			<a href="http://wikilleurbanne.dev/?MaisonDesJeunesEtDeLaCulture">
+				Maison des Jeunes et de la Culture			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?MaisonDesJeunesEtDeLaCulture2">Maison des Jeunes et de la Culture</a></span>		</h4>
+		<p>
+			<p>Tiré d’un conte Guarani, ce spectacle de marionnette&nbsp;<span style="line-height: 1.42857143;">raconte l’histoire de Pedro et du Curupi, créature magique de la forêt amazonienne.</span></p><p>Des &nbsp;marionnettes ornées de plumes emmènent petits et grands en Amérique&nbsp;<span style="line-height: 1.42857143;">Latine, aux sons de musiques jouées avec des instruments traditionnels.</span></p><p><span style="line-height: 1.42857143;"><br></span></p><p>Dès 5 ans – Cie Oeil du Cyclope- Durée : 40 min</p><p>——————————————————————————————————————————————————————————————–</p><p><span style="font-weight: 700;">SEANCES :</span></p><p>Mercredi 7 décembre &nbsp;10h et 15h</p><p>Samedi 10 décembre 11h</p><p>——————————————————————————————————————————————————————————————–</p><p>Tarif : de 4 à 8€</p><p></p><p>Infos &amp; réservation : <a href="http://www.mjc-villeurbanne.org/?page_id=122">http://www.mjc-villeurbanne.org/?page_id=122</a></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Spectacle Jeune Public - El curupi" src="files/SpectacleJeunePublicElCurupi_flyer-recto-web.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

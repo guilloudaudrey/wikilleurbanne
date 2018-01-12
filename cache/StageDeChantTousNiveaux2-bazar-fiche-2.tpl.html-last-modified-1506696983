@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=StageDeChantTousNiveaux2">Stage de chant tous niveaux !</a>		</h1>
+		<h4>
+			Le Samedi 04 Novembre 2017 de 09H30 au Dimanche 05 Novembre à 17H			
+					par 
+			<a href="http://wikilleurbanne.dev/?LeCIDCollectifInterdisciplinaire">
+				Le C.I.D. : Collectif Interdisciplinaire			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?ChariotDeThespis">Chariot de Thespis</a></span>		</h4>
+		<p>
+			<h5 style="text-align: justify; "><span style="font-weight: 700; font-family: verdana, geneva, sans-serif; text-align: center;">Stage de chant ouvert à tous de 13 à 130 ans&nbsp;!&nbsp;</span></h5><h5><div style="text-align: justify;"><b><br></b></div><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><div style="text-align: justify;">«Ma voix n’est pas belle», «On m'a toujours dit que je chantais faux», autant d'à priori qu'on retrouve chez de nombreuses personnes.</div></span></h5><h5><div style="text-align: justify;"><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;">Tout le monde a une voix, tout le monde peut chanter, le tout c'est d'oser le faire et de le faire en se faisant plaisir !</span></div><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><div style="text-align: justify;">Comment «placer» sa voix ? Que signifie «avoir de l'oreille» ? Et «Etre dans le rythme» ?</div></span><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><div style="text-align: justify;">Toutes ces notions sont abordées, expliquées et désacralisées au travers d'exercices de technique vocale, de pulsation, de développement de l'oreille musicale et de chanson !</div></span></h5><h5><div style="text-align: justify;"><br></div><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><div style="text-align: justify;">Horaires : de 9h30 à 17h&nbsp;</div></span><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><div style="text-align: justify;">Intervenante : Tamara Dannreuther</div></span><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><div style="text-align: justify;">Tarifs : 95€ non adhérent (comprend 10€ d'adhésion à l'association Le C.I.D.) -&nbsp;85€ adhérent</div></span></h5><h5><div style="text-align: justify;"><br></div><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><div style="text-align: justify;">Infos et réservations auprès de Melody : lecid.diff@gmail.com / 06 88 55 16 10</div></span></h5>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Stage de chant tous niveaux !" src="files/StageDeChantTousNiveaux2_bandeau-stage-chant_web.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

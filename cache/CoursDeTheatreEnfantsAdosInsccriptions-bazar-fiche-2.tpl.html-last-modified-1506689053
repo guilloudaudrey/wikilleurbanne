@@ -1,0 +1,40 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=CoursDeTheatreEnfantsAdosInsccriptions">Cours de théâtre enfants/ados - Inscriptions</a>		</h1>
+		<h4>
+			Le Mercredi 04 Octobre 2017 de 14H à 17H			
+					par 
+			<a href="http://wikilleurbanne.dev/?SolelunA">
+				Soleluna			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?LaMieteMaisonDesInitiativesDeLEngageme2">La MIETE - Maison des Initiatives de l'Engagement, du Troc et de l'Echange</a></span>		</h4>
+		<p>
+			<p>
+		
+	
+	
+		</p><div class="page" title="Page 1">
+			<div class="section">
+				<div class="layoutArea">
+					<div class="column">
+						<h5><span style="font-size: 11.000000pt; font-family: 'Arial'; font-weight: 700">La Cie Soleluna vous propose des ateliers de théâtre pour enfants et ados, les mercredis après-midi.&nbsp;<br></span><span style="font-size: 11.000000pt; font-family: 'Arial'; font-weight: 700">Au programme : </span><span style="font-size: 11.000000pt; font-family: 'ArialMT'">découverte du théâtre par le corps, la voix, l’espace, l’imaginaire, le rapport aux autres...
+Prendre confiance en soi et appréhender ses émotions, apprendre à raconter des histoires et faire vivre
+des personnages à travers l’approche de différents types de textes. Représentation(s) publique(s) en fin
+d’année.<br>
+</span><span style="font-size: 12pt; font-family: Arial; font-weight: 700;">ENFANTS (7 à 10 ans)<br></span><span style="font-family: Arial; font-size: 12pt; font-weight: 700;">ADOS (11 à 17 ans)</span></h5><h5><span style="font-family: Arial; font-size: 12pt; font-weight: 700;"><br></span>Les 1ers cours ont lieu le mercredi 4 octobre. Il est possible de faire un cours d'essai avant de décider de s'inscrire ou non !&nbsp;<br>Pour plus de renseignements, n'hésitez pas à nous contacter par mail à compagniesoleluna@hotmail.fr<br>Au plaisir de vous voir à la Miete mercredi 4 octobre.&nbsp;</h5>
+						
+						
+					</div>
+				</div>
+			</div>
+		</div>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Cours de théâtre enfants/ados - Inscriptions" src="files/CoursDeTheatreEnfantsAdosInsccriptions_flyer_atelier_recto.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=SortieDeDebutDeSaison">Sortie de cyclotourisme de début de saison</a>		</h1>
+		<h4>
+			Le Samedi 28 Janvier 2017 de 13H30 à 17H			
+					par 
+			<a href="http://wikilleurbanne.dev/?AssociationSportiveDesEntreprisesDuBatimen">
+				Association Sportive des Entreprises du Bâtiment de Villeurbanne			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?SortieDeDebutDeSaison"></a></span>		</h4>
+		<p>
+			<p>Une sortie découverte de début de saison est proposée à tous par le club ASEB (association sportive des entreprises du bâtiment) Villeurbanne pour faire découvrir les charmes du cyclotourisme en Dombes<br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

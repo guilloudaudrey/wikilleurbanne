@@ -1,0 +1,129 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined offset: 1 in /Users/florian/Developpements/wikilleurbanne/themes/tools/bazar/templates/fiche-2.tpl.html on line <i>34</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0003</td><td bgcolor='#eeeeec' align='right'>384144</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/Users/florian/.composer/vendor/laravel/valet/server.php' bgcolor='#eeeeec'>.../server.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0025</td><td bgcolor='#eeeeec' align='right'>534304</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/index.php'</font> )</td><td title='/Users/florian/.composer/vendor/laravel/valet/server.php' bgcolor='#eeeeec'>.../server.php<b>:</b>133</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>0.0030</td><td bgcolor='#eeeeec' align='right'>583888</td><td bgcolor='#eeeeec'>require_once( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/includes/init.yeswiki.php'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/index.php' bgcolor='#eeeeec'>.../index.php<b>:</b>29</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>0.0277</td><td bgcolor='#eeeeec' align='right'>2986712</td><td bgcolor='#eeeeec'>Template->Run(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/init.yeswiki.php' bgcolor='#eeeeec'>.../init.yeswiki.php<b>:</b>289</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>5</td><td bgcolor='#eeeeec' align='center'>0.0559</td><td bgcolor='#eeeeec' align='right'>3012888</td><td bgcolor='#eeeeec'>Template->Method(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.yeswiki.php' bgcolor='#eeeeec'>.../class.yeswiki.php<b>:</b>2055</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>6</td><td bgcolor='#eeeeec' align='center'>0.0559</td><td bgcolor='#eeeeec' align='right'>3013008</td><td bgcolor='#eeeeec'>Template->IncludeBuffered(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.yeswiki.php' bgcolor='#eeeeec'>.../class.yeswiki.php<b>:</b>1409</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>7</td><td bgcolor='#eeeeec' align='center'>0.0567</td><td bgcolor='#eeeeec' align='right'>3082968</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/handlers/page/show.php'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.plugins.php' bgcolor='#eeeeec'>.../class.plugins.php<b>:</b>330</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>8</td><td bgcolor='#eeeeec' align='center'>0.0589</td><td bgcolor='#eeeeec' align='right'>3102648</td><td bgcolor='#eeeeec'>Template->Format(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/handlers/page/show.php' bgcolor='#eeeeec'>.../show.php<b>:</b>78</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>9</td><td bgcolor='#eeeeec' align='center'>0.0590</td><td bgcolor='#eeeeec' align='right'>3103520</td><td bgcolor='#eeeeec'>Template->IncludeBuffered(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.plugins.php' bgcolor='#eeeeec'>.../class.plugins.php<b>:</b>271</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>10</td><td bgcolor='#eeeeec' align='center'>0.0603</td><td bgcolor='#eeeeec' align='right'>3191920</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.plugins.php' bgcolor='#eeeeec'>.../class.plugins.php<b>:</b>330</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>11</td><td bgcolor='#eeeeec' align='center'>0.0603</td><td bgcolor='#eeeeec' align='right'>3192160</td><td bgcolor='#eeeeec'>WikiniFormatter->format(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php' bgcolor='#eeeeec'>.../wakka.php<b>:</b>566</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>12</td><td bgcolor='#eeeeec' align='center'>0.0603</td><td bgcolor='#eeeeec' align='right'>3193304</td><td bgcolor='#eeeeec'><a href='http://www.php.net/function.preg-replace-callback' target='_new'>preg_replace_callback</a>
+(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php' bgcolor='#eeeeec'>.../wakka.php<b>:</b>100</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>13</td><td bgcolor='#eeeeec' align='center'>0.2956</td><td bgcolor='#eeeeec' align='right'>5579240</td><td bgcolor='#eeeeec'>WikiniFormatter->callback(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php' bgcolor='#eeeeec'>.../wakka.php<b>:</b>100</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>14</td><td bgcolor='#eeeeec' align='center'>0.2956</td><td bgcolor='#eeeeec' align='right'>5579896</td><td bgcolor='#eeeeec'>Template->Action(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php' bgcolor='#eeeeec'>.../wakka.php<b>:</b>393</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>15</td><td bgcolor='#eeeeec' align='center'>0.2959</td><td bgcolor='#eeeeec' align='right'>5582528</td><td bgcolor='#eeeeec'>Template->IncludeBuffered(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.yeswiki.php' bgcolor='#eeeeec'>.../class.yeswiki.php<b>:</b>1296</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>16</td><td bgcolor='#eeeeec' align='center'>0.2962</td><td bgcolor='#eeeeec' align='right'>5605792</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/tools/bazar/actions/bazarliste.php'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.plugins.php' bgcolor='#eeeeec'>.../class.plugins.php<b>:</b>330</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>17</td><td bgcolor='#eeeeec' align='center'>0.4472</td><td bgcolor='#eeeeec' align='right'>9572536</td><td bgcolor='#eeeeec'>displayResultList(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/tools/bazar/actions/bazarliste.php' bgcolor='#eeeeec'>.../bazarliste.php<b>:</b>34</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>18</td><td bgcolor='#eeeeec' align='center'>0.6171</td><td bgcolor='#eeeeec' align='right'>13921760</td><td bgcolor='#eeeeec'>SquelettePhp->analyser(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/tools/bazar/libs/bazar.fonct.php' bgcolor='#eeeeec'>.../bazar.fonct.php<b>:</b>3737</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>19</td><td bgcolor='#eeeeec' align='center'>0.6173</td><td bgcolor='#eeeeec' align='right'>13943328</td><td bgcolor='#eeeeec'>include( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/tools/bazar/presentation/templates/liste_accordeon.tpl.html'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/squelettephp.class.php' bgcolor='#eeeeec'>.../squelettephp.class.php<b>:</b>93</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>20</td><td bgcolor='#eeeeec' align='center'>8.5626</td><td bgcolor='#eeeeec' align='right'>36516936</td><td bgcolor='#eeeeec'>baz_voir_fiche(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/tools/bazar/presentation/templates/liste_accordeon.tpl.html' bgcolor='#eeeeec'>.../liste_accordeon.tpl.html<b>:</b>38</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>21</td><td bgcolor='#eeeeec' align='center'>8.5701</td><td bgcolor='#eeeeec' align='right'>36535680</td><td bgcolor='#eeeeec'>Template->renderTemplate(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/tools/bazar/libs/bazar.fonct.php' bgcolor='#eeeeec'>.../bazar.fonct.php<b>:</b>2830</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>22</td><td bgcolor='#eeeeec' align='center'>8.5731</td><td bgcolor='#eeeeec' align='right'>36574768</td><td bgcolor='#eeeeec'>include( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/themes/tools/bazar/templates/fiche-2.tpl.html'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/init.yeswiki.php(283) : eval()'d code' bgcolor='#eeeeec'>.../init.yeswiki.php(283) : eval()'d code<b>:</b>152</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined offset: 2 in /Users/florian/Developpements/wikilleurbanne/themes/tools/bazar/templates/fiche-2.tpl.html on line <i>34</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0003</td><td bgcolor='#eeeeec' align='right'>384144</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/Users/florian/.composer/vendor/laravel/valet/server.php' bgcolor='#eeeeec'>.../server.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0025</td><td bgcolor='#eeeeec' align='right'>534304</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/index.php'</font> )</td><td title='/Users/florian/.composer/vendor/laravel/valet/server.php' bgcolor='#eeeeec'>.../server.php<b>:</b>133</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>0.0030</td><td bgcolor='#eeeeec' align='right'>583888</td><td bgcolor='#eeeeec'>require_once( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/includes/init.yeswiki.php'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/index.php' bgcolor='#eeeeec'>.../index.php<b>:</b>29</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>0.0277</td><td bgcolor='#eeeeec' align='right'>2986712</td><td bgcolor='#eeeeec'>Template->Run(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/init.yeswiki.php' bgcolor='#eeeeec'>.../init.yeswiki.php<b>:</b>289</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>5</td><td bgcolor='#eeeeec' align='center'>0.0559</td><td bgcolor='#eeeeec' align='right'>3012888</td><td bgcolor='#eeeeec'>Template->Method(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.yeswiki.php' bgcolor='#eeeeec'>.../class.yeswiki.php<b>:</b>2055</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>6</td><td bgcolor='#eeeeec' align='center'>0.0559</td><td bgcolor='#eeeeec' align='right'>3013008</td><td bgcolor='#eeeeec'>Template->IncludeBuffered(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.yeswiki.php' bgcolor='#eeeeec'>.../class.yeswiki.php<b>:</b>1409</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>7</td><td bgcolor='#eeeeec' align='center'>0.0567</td><td bgcolor='#eeeeec' align='right'>3082968</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/handlers/page/show.php'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.plugins.php' bgcolor='#eeeeec'>.../class.plugins.php<b>:</b>330</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>8</td><td bgcolor='#eeeeec' align='center'>0.0589</td><td bgcolor='#eeeeec' align='right'>3102648</td><td bgcolor='#eeeeec'>Template->Format(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/handlers/page/show.php' bgcolor='#eeeeec'>.../show.php<b>:</b>78</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>9</td><td bgcolor='#eeeeec' align='center'>0.0590</td><td bgcolor='#eeeeec' align='right'>3103520</td><td bgcolor='#eeeeec'>Template->IncludeBuffered(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.plugins.php' bgcolor='#eeeeec'>.../class.plugins.php<b>:</b>271</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>10</td><td bgcolor='#eeeeec' align='center'>0.0603</td><td bgcolor='#eeeeec' align='right'>3191920</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.plugins.php' bgcolor='#eeeeec'>.../class.plugins.php<b>:</b>330</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>11</td><td bgcolor='#eeeeec' align='center'>0.0603</td><td bgcolor='#eeeeec' align='right'>3192160</td><td bgcolor='#eeeeec'>WikiniFormatter->format(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php' bgcolor='#eeeeec'>.../wakka.php<b>:</b>566</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>12</td><td bgcolor='#eeeeec' align='center'>0.0603</td><td bgcolor='#eeeeec' align='right'>3193304</td><td bgcolor='#eeeeec'><a href='http://www.php.net/function.preg-replace-callback' target='_new'>preg_replace_callback</a>
+(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php' bgcolor='#eeeeec'>.../wakka.php<b>:</b>100</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>13</td><td bgcolor='#eeeeec' align='center'>0.2956</td><td bgcolor='#eeeeec' align='right'>5579240</td><td bgcolor='#eeeeec'>WikiniFormatter->callback(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php' bgcolor='#eeeeec'>.../wakka.php<b>:</b>100</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>14</td><td bgcolor='#eeeeec' align='center'>0.2956</td><td bgcolor='#eeeeec' align='right'>5579896</td><td bgcolor='#eeeeec'>Template->Action(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/formatters/wakka.php' bgcolor='#eeeeec'>.../wakka.php<b>:</b>393</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>15</td><td bgcolor='#eeeeec' align='center'>0.2959</td><td bgcolor='#eeeeec' align='right'>5582528</td><td bgcolor='#eeeeec'>Template->IncludeBuffered(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.yeswiki.php' bgcolor='#eeeeec'>.../class.yeswiki.php<b>:</b>1296</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>16</td><td bgcolor='#eeeeec' align='center'>0.2962</td><td bgcolor='#eeeeec' align='right'>5605792</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/tools/bazar/actions/bazarliste.php'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/class.plugins.php' bgcolor='#eeeeec'>.../class.plugins.php<b>:</b>330</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>17</td><td bgcolor='#eeeeec' align='center'>0.4472</td><td bgcolor='#eeeeec' align='right'>9572536</td><td bgcolor='#eeeeec'>displayResultList(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/tools/bazar/actions/bazarliste.php' bgcolor='#eeeeec'>.../bazarliste.php<b>:</b>34</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>18</td><td bgcolor='#eeeeec' align='center'>0.6171</td><td bgcolor='#eeeeec' align='right'>13921760</td><td bgcolor='#eeeeec'>SquelettePhp->analyser(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/tools/bazar/libs/bazar.fonct.php' bgcolor='#eeeeec'>.../bazar.fonct.php<b>:</b>3737</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>19</td><td bgcolor='#eeeeec' align='center'>0.6173</td><td bgcolor='#eeeeec' align='right'>13943328</td><td bgcolor='#eeeeec'>include( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/tools/bazar/presentation/templates/liste_accordeon.tpl.html'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/squelettephp.class.php' bgcolor='#eeeeec'>.../squelettephp.class.php<b>:</b>93</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>20</td><td bgcolor='#eeeeec' align='center'>8.5626</td><td bgcolor='#eeeeec' align='right'>36516936</td><td bgcolor='#eeeeec'>baz_voir_fiche(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/tools/bazar/presentation/templates/liste_accordeon.tpl.html' bgcolor='#eeeeec'>.../liste_accordeon.tpl.html<b>:</b>38</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>21</td><td bgcolor='#eeeeec' align='center'>8.5701</td><td bgcolor='#eeeeec' align='right'>36535680</td><td bgcolor='#eeeeec'>Template->renderTemplate(  )</td><td title='/Users/florian/Developpements/wikilleurbanne/tools/bazar/libs/bazar.fonct.php' bgcolor='#eeeeec'>.../bazar.fonct.php<b>:</b>2830</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>22</td><td bgcolor='#eeeeec' align='center'>8.5731</td><td bgcolor='#eeeeec' align='right'>36574768</td><td bgcolor='#eeeeec'>include( <font color='#00bb00'>'/Users/florian/Developpements/wikilleurbanne/themes/tools/bazar/templates/fiche-2.tpl.html'</font> )</td><td title='/Users/florian/Developpements/wikilleurbanne/includes/init.yeswiki.php(283) : eval()'d code' bgcolor='#eeeeec'>.../init.yeswiki.php(283) : eval()'d code<b>:</b>152</td></tr>
+</table></font>
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=GrandeJourneeALAutreSoie">Grande Journée à l'Autre Soie</a>		</h1>
+		<h4>
+			Le Samedi 07 Octobre 2017 à 14H			
+					par 
+			<a href="http://wikilleurbanne.dev/?CentreCulturelOecumeniqueJeanPierreLachaiz">
+				Centre culturel oecuménique Jean-Pierre Lachaize (CCO)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?AutreSoie">Autre Soie</a></span>		</h4>
+		<p>
+			<p>Faire vivre un tiers-lieu éphémère à l’Autre Soie, le défi d’une 
+journée mêlant habitants, associations, artistes et partenaires de 
+l’Autre Soie. Afin de réinvestir un lieu chargé d'histoire et l'habiter 
+le temps d'une journée le CCO vous propose des ateliers DIY, un parcours
+ design-fiction, un Open Bidouille Camp et une clôture musicale et 
+festive !</p><p>Petits et grands, novices ou expérimentés venez en 
+famille ou solo découvrir l'ancien IUFM du quartier des Brosses et les 
+nombreuses activités proposés tout au long de l'après midi.</p><p><br></p><p>Au programme :</p><p>- <u><b>Parcours Design-Fiction</b></u></p><p>Un parcours composé par des artistes et designers pour imaginer ce que pourrait être demain à l’Autre Soie.<br></p><p><br></p><p>*<a href="http://www.unsitepasordinaire.com/wakka.php?wiki=NomadicFurniture" target="_blank"> Nomadic Furniture </a>:
+ Notre équipe composée de designers d’Espace, Produit, Graphique et 
+Textile du DSAA Design de la Martinière Diderot s’est attachée à donner 
+au projet une dimension déployable tant au niveau sémantique qu’au 
+niveau pratique. Ils proposent ici des modèles prêts à être 
+retravaillés, copiés, agrandis, réduits, explorés et exploités. <br></p><p>* <a href="http://www.unsitepasordinaire.com/wakka.php?wiki=DesignTransition" target="_blank">L'aventure ordinaire, l'aventure dans un lieu</a> : <br>Interroger
+ l’occupation transitionnelle du site en explorant les points 
+extra-ordinaires de cette aventure à travers les qualités 
+architecturales du bâtiment, le potentiel narratif du lieu ou encore la 
+rencontre avec ses futurs acteurs, et usagers.</p><p>* <a href="http://www.unsitepasordinaire.com/wakka.php?wiki=MachineHistoires" target="_blank">La Machine à histoires</a>
+ : Articuler le lieu et les gens, faire vivre le lieu par des histoires 
+racontées se traduit par un dispositif interactif: la machine à 
+histoires, inventée par des étudiants en DSAA Design de la Martinière 
+Diderot. <br></p><p>* <a href="http://www.unsitepasordinaire.com/wakka.php?wiki=ChallengeAS" target="_blank">Restitution du Challenge</a> Autre Soie à 14h</p><p>* Salon de Rue : 
+Installés dans l’espace public de façon éphémère, le salon de rue créent
+ une zone de convivialité, d’interpellation des riverains. Ce « pré » 
+tiers lieux est un espace de rencontre, d’information et d’évolution du 
+projet de l’Autre Soie.</p><p>* <a href="http://www.unsitepasordinaire.com/wakka.php?wiki=AudioScope" target="_blank">Audiscope</a>
+ :&nbsp; interroge le sens de graver et de conserver des informations sur un 
+objet physique et explore des supports hybrides pour conserver, 
+transmettre, partager des données audiovisuelles. Le projet réunit une 
+designer et un artiste, autour de la notion de paysages mentaux et 
+mémoriels de chacun, à travers le recueil de récits et d’images.</p><p>* <a href="http://www.unsitepasordinaire.com/wakka.php?wiki=SystemeK17" target="_blank">Paysages artistiques et humains par Cie Système K</a>
+ : Artistiquer le territoire. Débusquer les paysages humains tout en 
+Poétique et Polémique. Marcheurs urbains en prise avec la géographie 
+humaine ... l’équipe de la compagnie vous invite à réaliser l’empreinte 
+de votre corps, Un Autre soie, à abandonner dans le paysage.<br></p><p><br></p><p>- <u><b>Ateliers Autre Soie</b></u> <br>Un
+ espace tiers-lieu composé d’artistes, bricoleurs, développeurs et 
+médiateurs pour découvrir et détourner des pratiques numériques.</p><p>* Initiation robotique et programmation par <a href="http://www.unsitepasordinaire.com/wakka.php?wiki=FrequenceEcole" target="_blank">Fréquence École</a>.<br>Découvrir
+ et apprivoiser les nouveaux robots, ainsi que les jeux qui permettent 
+l’apprentissage de la programmation informatique.<br><br>* Atelier Minecraft animé par <a href="http://www.unsitepasordinaire.com/wakka.php?wiki=LyonCraft" target="_blank">Lyon Craft</a><br>Entrez dans un monde virtuel pour redécouvrir et réinventer sa ville.<br><br>* Repair Café animé l’<a href="http://www.unsitepasordinaire.com/wakka.php?wiki=AtelierSoude" target="_blank">Atelier Soudé</a><br>Enceintes
+ audio, téléphone portable, ordinateur, petit électroménager, autant 
+d’objets électroniques qui tombent facilement en panne... L’Atelier 
+Soudé propose à tou.te.s d’apporter ces objets qui ne fonctionnent plus 
+afin de les réparer ensemble grâce aux outils, compétences et idées de 
+chacun. <br><br>* Jardin connecté et capteurs de pollution citoyen par <a href="http://www.unsitepasordinaire.com/wakka.php?wiki=LaMyne" target="_blank">La Myne</a><br>Pour
+ l’Aventure Ordinaire 2017, La Myne propose de découvrir les capteurs et
+ contrôleurs pour mettre en place un jardin connecté, ainsi que de 
+développer des capteurs de pollution citoyen. <br></p><p>* Atelier sur l’identité visuelle de l’Autre Soie avec <a href="https://www.grapheine.com/" target="_blank">G</a><a href="https://www.grapheine.com/" target="_blank">raphéine</a></p><p>* Rencontre artistique du troisième type avec des robots par <a href="http://www.unsitepasordinaire.com/wakka.php?wiki=LesDronards" target="_blank">Les Dronards</a><br>À
+ partir d’engins télécommandés de type « rover », l’équipe artistique 
+des Dronards a arpenté le quartier des Brosses lors d’une résidence 
+artistique portée par AADN en partenariat avec la Maison de Quartier des
+ Brosses.</p><p><br></p><p>- <u><b>Open Bidouille Camp</b></u></p><p>Des ateliers Do It Yourself, bidouille et savoir-faire partagés proposés par des collectifs locaux.<br><br>~ Sérigraphie DIY sur vêtements avec <a href="http://www.unsitepasordinaire.com/wakka.php?wiki=SerigraphieSurVetements" target="_blank">Le Raffut</a><br>~ Récupération alimentaire avec La Graine<br>~ Confection de vêtement DIY avec <a href="http://www.cadavresky-shop.com/" target="_blank">Cadavresky</a><br>~ Makers’ Corner avec <a href="https://www.ootsidebox.fr/" target="_blank">Ootsidebox</a><br>~ Mini-games binaire, pixels et programmation <br>par des apprenantes de Simplon Lyon<br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Grande Journée à l'Autre Soie" src="files/GrandeJourneeALAutreSoie_a3-journee-tl.png"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

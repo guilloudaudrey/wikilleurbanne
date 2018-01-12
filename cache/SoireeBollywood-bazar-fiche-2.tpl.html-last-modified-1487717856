@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=SoireeBollywood">Soirée BOLLYWOOD</a>		</h1>
+		<h4>
+			Le Samedi 29 Avril 2017 de 17H30 au Dimanche 30 Avril à 00H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?AideAuVolontariatEnInde">
+				Aide au volontariat en Inde			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?SoireeBollywood"></a></span>		</h4>
+		<p>
+			<p><span class="_4n-j _3cht fsl" data-testid="event-permalink-details">La 2ème édition de notre soirée indienne a pour thème Bollywood!<br> Au programme :<br> repas assis,<br> spectacle de danses bollywood et bharatanatyam,<br> tombola...et d'autres surprises ponctueront la soirée<br>Événement ouvert à tous !<br> Entrée : adulte 26€ / enfant (moins de 10 ans) 20€ <br> Date limite des réservations : 8 avril 2017<br> <br> Attention ! Les réservations sont réalisées uniquement par téléphone : contactez Jean au 06 61 74 84 03</span><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Soirée BOLLYWOOD" src="files/SoireeBollywood_flyer2017.png"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

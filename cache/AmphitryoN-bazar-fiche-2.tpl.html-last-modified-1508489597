@@ -1,0 +1,38 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=AmphitryoN">Amphitryon</a>		</h1>
+		<h4>
+			Le Jeudi 01 Février 2018 de 20H au Samedi 10 Février à 20H			
+					par 
+			<a href="http://wikilleurbanne.dev/?TheatreEtCompagnieDeLIris">
+				Théâtre et compagnie de l'Iris			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?TheatreDeLIris">Théâtre de l'Iris</a></span>		</h4>
+		<p>
+			<p style="margin-bottom: 0cm"><span style="background: transparent">De Molière</span></p><p style="margin-bottom: 0cm"><span style="background: transparent">Par la Compagnie de l'Iris</span></p><p style="margin-bottom: 0cm"><span style="background: transparent"><br></span></p><p style="margin-bottom: 0cm"><span style="background: transparent">Le
+tout-puissant dieu Jupiter descend des cieux pour s’offrir une
+fantaisie… Il prend l’apparence d’Amphitryon absent et passe
+une longue nuit d’amour avec Alcmène son épouse. Le fidèle
+Mercure l’accompagne sous les traits de Sosie, le valet
+d’Amphitryon, qui assiste impuissant à la dépossession de toute
+sa personne par ce double très vindicatif.</span></p><p style="margin-bottom: 0cm"><span style="background: transparent"><br>Véritable
+invitation au voyage, le spectacle est une plongée vertigineuse au
+cœur d’une nuit faite de songes où tout semble se dérober et
+dans laquelle Sosie, Alcmène, Amphitryon font face à
+l’inconcevable. Une étrange histoire menée par des dieux aussi
+charmants que cyniques, où la cruauté côtoie l’amour, où la
+drôlerie naît de l’insolite.<br>Une comédie singulière,
+incisive, aux accents irréels et fantastiques entre ombre et
+lumière, Dieux et humains… Des humains éternellement fragiles
+face à leur destinée.</span></p><p style="margin-bottom: 0cm"><span style="background: transparent"><br></span></p><p style="margin-bottom: 0cm"><span style="background: transparent">Du mardi au samedi à 20 h // le dimanche à 16 h<br></span></p><p style="margin-bottom: 0cm"><span style="background: transparent">Durée : 1 h 45</span></p><p style="margin-bottom: 0cm"><span style="background: transparent">À partir de 13 ans</span></p><p style="margin-bottom: 0cm"><span style="background: transparent"><br></span></p><p style="margin-bottom: 0cm"><span style="background: transparent">Vendredi 2 février à 17 h 30 : Atelier de pratique artistique autour d'un extrait de la pièce</span></p><p style="margin-bottom: 0cm"><span style="background: transparent">Jeudi 8 février : Bord de scène à l'issue de la représentation<br></span></p><p>
+<br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Amphitryon" src="files/AmphitryoN_amphitryon-credit-p.-gaze-7.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

@@ -1,0 +1,25 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=BrocDesJouets">Broc des jouets</a>		</h1>
+		<h4>
+			Le Samedi 02 Décembre 2017 de 09H à 14H			
+					par 
+			<a href="http://wikilleurbanne.dev/?LaCauseDesParents">
+				La Cause des Parents			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?MaisonDeLaParentaliteEtDeLaNaissance">Maison de la Parentalité et de la Naissance</a></span>		</h4>
+		<p>
+			<p>La Maison de la Parentalité et de la Naissance organise une grande vente
+ à bas prix, le 2 décembre, au profit de La Cause des Parents, 
+association loi 1901 à but non lucratif.<br>
+Une occasion de trouver des jeux et jouets de qualité, à très bas prix.<br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

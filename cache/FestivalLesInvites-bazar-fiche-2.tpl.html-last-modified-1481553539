@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FestivalLesInvites">FESTIVAL LES INVITES </a>		</h1>
+		<h4>
+			Le Mercredi 21 Juin 2017 toute la journée au Samedi 24 Juin			
+					par 
+			<a href="http://wikilleurbanne.dev/?LesAteliersFrappazCnar">
+				Les Ateliers Frappaz, CNAREP			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?AvenueHenriBarbusse">Avenue Henri-Barbusse</a></span>		</h4>
+		<p>
+			<p>Pendant 4 jours, les Invites, c’est une déferlante de spectacles 100 % gratuit : des impromptus, des surprises intimistes à picorer en pleine rue, des concerts dans des parcs scénographiés, des créations arts de la rue à découvrir dans toute la ville. Les Invites c’est aussi une scénographie urbaine monumentale et éphémère, pensée et fabriquée avec la population aux Ateliers Frappaz. Les Invites : c’est le festival « pas pareil »!</p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

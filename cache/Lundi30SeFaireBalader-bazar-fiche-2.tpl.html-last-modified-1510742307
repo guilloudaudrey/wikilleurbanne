@@ -1,0 +1,33 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=Lundi30SeFaireBalader">Lundi 3.0 - Se (faire) balader ?</a>		</h1>
+		<h4>
+			Le Lundi 20 Novembre 2017 de 19H à 22H			
+					par 
+			<a href="http://wikilleurbanne.dev/?CentreCulturelOecumeniqueJeanPierreLachaiz">
+				Centre culturel oecuménique Jean-Pierre Lachaize (CCO)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CcoJeanPierreLachaize">CCO - Jean-Pierre LACHAIZE</a></span>		</h4>
+		<p>
+			<p>OSMGeoWeek </p><div class="news-text-wrap"> <p>Après une balade numérique échevelée dans la galaxie, en stop et à l'aide de casques de réalité virtuelle en carton, le <a href="http://www.cco-villeurbanne.org/programme/les-archives/detail/?tx_news_pi1%5Bnews%5D=870&amp;cHash=4336412b13d2a28e46557fcd7cd7d2f2" target="_blank">16 octobre dernier</a>, nous sommes de retour sur le plancher des vaches en novembre prochain.</p><p> <br> </p><h2><span style="font-weight: bold;">Ce lundi 20 novembre, c'est cartoparty ! Alors fêtons la cartographie participative !</span></h2><p>
+ Pour la soirée de clôture de l'OSMGeoWeek, nous partons au Burkina-Faso
+ et à Madagascar. OSMGeoWeek, c'est le festival international de 
+sensibilisation à la cartographie sur OpenStreetMap - un logiciel libre 
+et respectueux de notre vie privée numérique, le Wikipédia de la carte 
+sur le web. <br> <span style="font-weight: bold;"><br></span></p><h2><span style="font-weight: bold;">Un mapathon, c'est un événement libre, ouvert et accessible !</span></h2><p>
+ Il est très facile de contribuer lors d'un mapathon : aucune 
+connaissance spécifique n’est requise ! Avec l'assistance des 
+animat.eur.rice.s, n’importe qui peut commencer à cartographier dans 
+OSM. C'est donc un moment idéal pour apprivoiser l'outil, l'adopter, et 
+remplacer définitivement les plateformes privatrices de liberté (comme 
+Google Maps), pour se balader enfin sans se faire balader. <br> <br> On vous attend nombreux pour ce lundi 3.0 de la cartographie, n’oubliez pas vos ordinateurs et souri(re)s !</p><p>Plus d'informations :<br><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fbillets-mapathon-osmgeoweek-villeurbanne-cco-38766319104&amp;h=ATMOgpspr9sfpi9KbM2uX-ioDbSUDeQtnWKuUgQVl3BvwALQuxZ3BfGMOgQzYknK8cctaYyKVyI0ZXhnjLsurzYLYXAtViSh95whkj2txhhb-zRU7FUSA1WKewV2cYb_cJvFE2ALT2_YbBI0CY2Y8qnkyKw-yPxfaGWXdhXbzMac6z07-VncEaxG0rPDeQ" rel="nofollow" target="_blank" data-lynx-mode="async">https://www.eventbrite.com/e/billets-mapathon-osmgeoweek-villeurbanne-cco-38766319104</a></p> </div><p><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Lundi 3.0 - Se (faire) balader ?" src="files/Lundi30SeFaireBalader_20171120_cco_lunditroispointzero-sefairebalader_visuel-a4.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

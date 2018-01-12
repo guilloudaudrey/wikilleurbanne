@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=IntersectionVilleAssociations">Intersection Ville-Associations</a>		</h1>
+		<h4>
+			Le Vendredi 25 Novembre 2016 de 17H30 à 22H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?Anonyme">
+				Anonyme			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?IntersectionVilleAssociations"></a></span>		</h4>
+		<p>
+			<p>Intersection est un événement organisé par la Ville de Villeurbanne et les associations villeurbannaises participant aux Dialogues Ville-Associations afin de :</p><ul><li>Favoriser la connaissance inter-associative</li><li>Partager les avancées des Dialogues Ville-Associations</li><li>Remercier le tissu associatif pour son engagement</li></ul><p>Au programme : échanges, rencontres et ateliers thématiques sans oublier un bal du monde.</p><p><span style="background-color: inherit;">Toutes les associations villeurbannaises sont conviées le 25 novembre 2016, à partir de 17h30</span><br></p><p><br></p><p>Pour en savoir plus et vous inscrire :04-78-68-19-86/vie.associative@mairie-villeurbanne.fr </p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

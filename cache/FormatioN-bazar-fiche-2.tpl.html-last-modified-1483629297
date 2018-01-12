@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FormatioN">Soirée de présentation des subventions municipales pour les clubs sportifs villeurbannais</a>		</h1>
+		<h4>
+			Le Jeudi 09 Février 2017 de 19H à 21H			
+					par 
+			<a href="http://wikilleurbanne.dev/?OfficeDuSportVilleurbannais">
+				Office du sport villeurbannais			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?OsV">Office du Sport de Villeurbanne (OSV) - Maison des sportifs</a></span>		</h4>
+		<p>
+			<p>Présentation des différents types de subventions municipales pour les clubs sportifs villeurbannais</p><p>Intervention de la Direction du Sport de Villeurbanne</p><p>Accueil à partir de 18h45</p><p>Inscriptions et renseignements à : christelle.chuzet@osvilleurbanne.com</p><p><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

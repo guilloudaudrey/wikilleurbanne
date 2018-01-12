@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=JeuDeRoleSurTable2JoursIrepscenesTh3">Jeu de rôle sur table - 2 jours - IREPscènes Théâtre</a>		</h1>
+		<h4>
+			Le Samedi 29 Juillet 2017 de 10H au Dimanche 30 Juillet à 20H			
+					par 
+			<a href="http://wikilleurbanne.dev/?InitiationALaRechercheEtAuxPratiquesScen">
+				Initiation à la Recherche et aux Pratiques Scéniques (IREP scènes théâtre)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?IrepscenesTheatreInitiationALaRecherche">IREPscènes théâtre ( Initiation à la Recherche et aux Pratiques Scéniques)</a></span>		</h4>
+		<p>
+			<h3><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif;">&nbsp;Le temps d'un week-end chaque participant construira et interprétera un personnage à travers un scénario original crée et dirigé par le maître du jeu. Armés de dés et d'imagination, vous devrez improviser et coopérer pour mener à bien votre quête!</span></h3><h3><p style="font-size: 14px;">au théâtre de L'IREPscènes 4 rue Paul Pechoux 69100 Villeurbanne</p><p style="font-size: 14px;">samedi 8 et dimanche 9 Juillet de 10h à 20H</p><p style="font-size: 14px;">Tarif 60 euros + 20euros d'adhésion</p><p style="font-size: 14px;">Animé par Tristan Chevallier ( comédien/ auteur )&nbsp;</p><p style="font-size: 14px;">Contact Tristan : 06 32 38 49 36</p></h3>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Jeu de rôle sur table - 2 jours - IREPscènes Théâtre" src="files/JeuDeRoleSurTable2JoursIrepscenesTh3_logo-irep-2015-1.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

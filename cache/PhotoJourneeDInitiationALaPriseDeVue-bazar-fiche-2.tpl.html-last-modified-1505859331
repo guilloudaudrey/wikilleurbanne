@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=PhotoJourneeDInitiationALaPriseDeVue">Photo: journée d'initiation à la prise de vue</a>		</h1>
+		<h4>
+			Le Samedi 21 Octobre 2017 de 09H à 17H			
+					par 
+			<a href="http://wikilleurbanne.dev/?ClubAudiovisuelDeVilleurbanne">
+				Club audiovisuel de Villeurbanne			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?OsV">Office du Sport de Villeurbanne (OSV) - Maison des sportifs</a></span>		</h4>
+		<p>
+			<p align="center"><b>Le CLAVI, club photo et audiovisuel de Villeurbanne organise une journée d'initiation à la prise de vue. </b></p><p align="center"><br></p><p><b>La journée est ouverte à tous, gratuite</b> (sauf participation au repas) et encadrée par des membres du CLAVI. <b>Elle s'adresse à des débutants</b> et se déroulera dans les locaux de l'Office du Sport de Villeurbanne, notre partenaire, 70&nbsp; rue du Docteur Rollet.</p><p><b>Au programme</b></p><ul><li>9 heures: accueil et notions de base sur la prise de vue, les réglages des appareils photo et la composition</li><li>11 heures: prises de vue dans les Gratte-Ciel</li><li>13 heures: buffet froid pour ceux qui le souhaitent (participation aux frais: 5€)</li><li>14 heures: visionnement des photos, commentaire et discussion.</li></ul><p>Inscriptions par mail à Clavi@clavi.fr avant le 10 octobre. Renseignements sur la journée au 06 08 35 740 06<br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Photo: journée d'initiation à la prise de vue" src="files/PhotoJourneeDInitiationALaPriseDeVue_affiche-journee-initiation-675px.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

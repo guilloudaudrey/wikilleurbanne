@@ -1,0 +1,34 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=DeuxPetitesDamesVersLeNord">Deux petites dames vers le Nord</a>		</h1>
+		<h4>
+			Le Samedi 30 Décembre 2017 de 20H au Dimanche 31 Décembre à 20H			
+					par 
+			<a href="http://wikilleurbanne.dev/?TheatreEtCompagnieDeLIris">
+				Théâtre et compagnie de l'Iris			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?TheatreDeLIris">Théâtre de l'Iris</a></span>		</h4>
+		<p>
+			<p align="JUSTIFY">Soirées spéciales réveillon ! </p><p align="JUSTIFY">De Pierre Notte</p><p align="JUSTIFY">Par le Collectif la Onzième<br></p><p align="JUSTIFY">Le
+lendemain d’une soirée éprouvante au théâtre, Annette et
+Bernadette apprennent la mort de leur mère, âgée de
+quatre-vingt-dix-sept ans. Les cendres maternelles dans une boîte à
+gâteaux, elles partent chercher la tombe de leur père enterré
+quelque part autour d’Amiens pour lui dire que maman n’est plus
+là.</p><p align="JUSTIFY">Avec
+agilité et insolence Sébastien Mortamet et Thibaud Vincent emmènent
+leurs personnages, deux sœurs septuagénaires, dans un périple
+burlesque et touchant, conduisant&nbsp;sans frein l’humour cruel du
+texte de Pierre Notte. </p><p align="JUSTIFY">Soirée du 30/12/2017 : 15/11/4 €</p><p align="JUSTIFY">Soirée du 31/12/2017 : Tarif unique à 25 € // Apéritif convivial offert dès 19h<br>
+</p><p>
+<br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Deux petites dames vers le Nord" src="files/DeuxPetitesDamesVersLeNord_dsc_0119-_low-def.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

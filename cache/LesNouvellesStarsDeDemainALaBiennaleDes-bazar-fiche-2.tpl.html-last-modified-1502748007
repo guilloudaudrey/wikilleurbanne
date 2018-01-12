@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=LesNouvellesStarsDeDemainALaBiennaleDes">Les Nouvelles Stars De Demain à la biennale des Associations</a>		</h1>
+		<h4>
+			Le Dimanche 10 Septembre 2017 de 14H à 18H			
+					par 
+			<a href="http://wikilleurbanne.dev/?LesNouvellesStarsDeDemain">
+				Les nouvelles stars de demain			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CentreCulturelEtDeLaVieAssociativeCcva">Centre Culturel et de la Vie Associative (CCVA)</a></span>		</h4>
+		<p>
+			<p>Retrouvez le groupe de chanteurs de hauts niveaux "Les Nouvelles Stars De demain" à la Biennale des Associations de Villeurbanne le 10 septembre 2017 à partir de 10H Avenue Henri Barbusse. .</p><p>Passage sur le podium à partir de 15 H. </p><p><a href="http://www.stars-de-demain.com/">http://www.stars-de-demain.com/</a></p><p>https://www.facebook.com/groups/1004985002884990/?ref=br_rs</p><p><br></p><p><br></p><p><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Les Nouvelles Stars De Demain à la biennale des Associations" src="files/LesNouvellesStarsDeDemainALaBiennaleDes_pixiz-14-08-2017-23-58-27.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

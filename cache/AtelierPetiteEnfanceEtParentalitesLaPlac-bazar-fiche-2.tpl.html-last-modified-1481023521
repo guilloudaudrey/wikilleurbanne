@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=AtelierPetiteEnfanceEtParentalitesLaPlac">Atelier petite enfance et parentalités "La place des émotions dans la relations avec l'enfant"</a>		</h1>
+		<h4>
+			Le Mardi 16 Mai 2017 de 08H30 à 16H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?ScicabullE">
+				Scicabulle			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?AtelierPetiteEnfanceEtParentalitesLaPlac"></a></span>		</h4>
+		<p>
+			<p align="justify">IDENTIFIER ET PRENDRE EN COMPTE LES BESOINS ÉMOTIONNELS DE L’ENFANT<br>Par l’échange et le partage, cet atelier permettra d’interroger les représentations de chacun.e sur les compétences interactionnelles et les besoins de l’enfant. « Quels sont les mécanismes de construction du lien parent-enfant ? » venez débattre et élaborer vos propres solutions pour appréhender les besoins émotionnels de l’enfant dans une perspective d’individualisation.<br></p><p>16 mai 2017 de 8h30 - 16h30<br>Dans les locaux de La MIETE : 92, rue des Charmettes 69006 Lyon<br>- tarif à prix libre<br>Pour vous inscrire, allez sur notre site à la rubrique inscriptions : <a href="http://wikilleurbanne.fr/scicabulle.com/inscriptions/">scicabulle.com/inscriptions/</a><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

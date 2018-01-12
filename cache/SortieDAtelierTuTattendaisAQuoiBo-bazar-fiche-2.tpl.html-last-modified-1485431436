@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=SortieDAtelierTuTattendaisAQuoiBo">Sortie d'atelier - TU T’ATTENDAIS  À QUOI ?  Bollywood – Dommage  qu’on n’ait pas vu le début !</a>		</h1>
+		<h4>
+			Le Jeudi 02 Février 2017 de 18H30 à 20H			
+					par 
+			<a href="http://wikilleurbanne.dev/?LesAteliersFrappazCnar">
+				Les Ateliers Frappaz, CNAREP			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?SortieDAtelierTuTattendaisAQuoiBo"></a></span>		</h4>
+		<p>
+			<p class="MsoNormal">Tout commence lorsque le spectacle se termine, après les applaudissements et les saluts, lorsque les artistes quittent leur personnage, démontent et rangent les décors d’une comédie musicale à la manière des films Bollywood.</p><p class="MsoNormal"><br></p><p class="MsoNormal"></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

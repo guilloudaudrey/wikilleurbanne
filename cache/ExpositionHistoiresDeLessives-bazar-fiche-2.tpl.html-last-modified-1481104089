@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=ExpositionHistoiresDeLessives">Exposition "histoires de lessives"  </a>		</h1>
+		<h4>
+			Le Mercredi 04 Janvier 2017 toute la journée au Mardi 24 Janvier			
+					par 
+			<a href="http://wikilleurbanne.dev/?ParolesDePlumesEtc">
+				Paroles de plumes etc.			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?ExpositionHistoiresDeLessives"></a></span>		</h4>
+		<p>
+			<p>Textes recueillis auprès de personnes venant faire leur lessive dans les laveries automatiques de Villeurbanne</p><p> et photos prises et mise en espace par Rose-Marie Loisy </p><p><br></p><p><span style="background-color: inherit;">Vernissage le mercredi 11 janvier à 18h30 avec lecture de quelques extraits </span><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

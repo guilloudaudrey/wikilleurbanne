@@ -1,0 +1,29 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=AtelierTChiClown2">Atelier T'chi clown</a>		</h1>
+		<h4>
+			Le Lundi 25 Septembre 2017 de 19H30 à 22H			
+					par 
+			<a href="http://wikilleurbanne.dev/?TchiclowN">
+				Tchiclown			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?EcoleDeDanseSceneFormations">Ecole de danse Scène Formations </a></span>		</h4>
+		<p>
+			<p class="MsoNormal" style="margin-left:70.8pt"><span style="font-size:11.5pt;
+line-height:115%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#4C4C4C">«&nbsp;Le
+t’chi clown ouvre la voie au développement d’une conscience apte à favoriser
+tant le bien-être que la connaissance de soi. Je vous proposerai une suite&nbsp; d’exercices corporels, visant la détente respiratoire
+et le recentrage. Nous lâcherons prise dans le mouvement, puis suspendrons
+l’action pour apprécier nos présences sensibles. Nous mettrons enfin un nez
+rouge pour nous autoriser à vivre ouvertement notre silence intérieur». Les premières séances d'essai gratuites auront lieu les 18 et 25 septembre 2017 à Scène Formations 58 rue Magenta Villeurbanne de 19h 30 à 22h. Pour participer contacter Edmond Morsilli 06-63-00-92 ou par mail edmond.morsilli@tchiclown.fr . Pour plus d'infos : www.tchiclown.fr</span></p><p class="MsoNormal" style="margin-left: 70.8pt; background-color: rgb(247, 247, 247);"><span style="font-size: 11.5pt; line-height: 17.6333px; font-family: Arial, sans-serif; color: rgb(76, 76, 76);"></span></p><p style="background-color: rgb(247, 247, 247);"></p><div style="color: rgb(59, 59, 59); background-color: rgb(247, 247, 247); width: 720.25px; margin: auto auto 1em; text-align: center;"><img alt="Atelier T'chi clown" src="http://wikilleurbanne.fr/files/AtelierTChiClown_dsc_0007.jpg" style="max-width: 100%;"></div><p class="MsoNormal" style="margin-left:70.8pt"><span style="font-size:11.5pt;
+line-height:115%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#4C4C4C"></span></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

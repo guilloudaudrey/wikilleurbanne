@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=MarcheDeNoel2">Marché de Noël</a>		</h1>
+		<h4>
+			Le Samedi 03 Décembre 2016 de 10H au Samedi 24 Décembre à 19H			
+					par 
+			<a href="http://wikilleurbanne.dev/?VillE">
+				Ville de Villeurbanne			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?AvenueHenriBarbusse">Avenue Henri-Barbusse</a></span>		</h4>
+		<p>
+			<p>Le marché de Noël aura lieu du 3 au 24 décembre 2016 tous les jours de 10h à 19h avenue Henri Barbusse. Trois chalets sont réservés aux associations de solidarité internationale pour soutenir des projets (14 ass. présentes). 3 associations proposeront des animations en extérieur.<br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

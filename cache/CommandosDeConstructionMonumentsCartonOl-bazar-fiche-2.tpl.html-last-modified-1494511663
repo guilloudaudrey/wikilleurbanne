@@ -1,0 +1,29 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=CommandosDeConstructionMonumentsCartonOl">Commandos de construction / monuments carton Olivier Grossetête / Invites 2017</a>		</h1>
+		<h4>
+			Le Samedi 17 Juin 2017 toute la journée au Mardi 23 Mai			
+					par 
+			<a href="http://wikilleurbanne.dev/?LesAteliersFrappazCnar">
+				Les Ateliers Frappaz, CNAREP			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?LesAteliersFrappaz2">Les Ateliers Frappaz</a></span>		</h4>
+		<p>
+			<p>Les Ateliers Frappaz se lancent cette année dans un projet
+      complètement fou dans le cadre des Invites de Villeurbanne :
+      construire puis déconstruire un quartier éphémère en carton en 7
+      jours !</p><p><b>Venez participer au montage des monuments en cartons en rejoignez les &gt;&gt; 2ème étape : Commandos de construction</b><br>
+    Du 17 au 22 juin, tous les jours, venez installer les monuments de carton sur
+    l'avenue Henri-Barbusse !<br>
+    Pour une heure ou une demi-journée, rejoignez les "commandos de
+    construction" des Invites.</p><p>Plus d'informations : frappazetmoi@ateliers-frappaz.com / 04 72 68 90 17<br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Commandos de construction / monuments carton Olivier Grossetête / Invites 2017" src="files/CommandosDeConstructionMonumentsCartonOl_flyer_gé_bd2.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

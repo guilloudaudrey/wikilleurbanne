@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=DestockageALaVestiboutiqueDeLaCroixRouge">déstockage à la Vestiboutique de la Croix Rouge à Villeurbannne</a>		</h1>
+		<h4>
+			Le Lundi 22 Mai 2017 de 14H à 17H			
+					par 
+			<a href="http://wikilleurbanne.dev/?CroixRougeFrancaise">
+				Croix-Rouge française			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CroixRougeFrancaiseUniteLocaleDeLEstL">Croix Rouge Française - Unité locale de l'est lyonnais</a></span>		</h4>
+		<p>
+			<p>Déstockage de tous les produits(vêtements, linge de maison, vaisselles objets divers) &nbsp;avant travaux de rénovation.</p><p> Le linge neuf et d'occasion sera proposé au poids! </p><p>...avec une participation financère très symbolique.</p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

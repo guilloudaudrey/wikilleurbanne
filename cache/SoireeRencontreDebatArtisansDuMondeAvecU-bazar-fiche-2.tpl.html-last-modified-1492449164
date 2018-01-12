@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=SoireeRencontreDebatArtisansDuMondeAvecU">Soirée rencontre/débat Artisans du Monde avec un producteur de café éthiopien</a>		</h1>
+		<h4>
+			Le Samedi 20 Mai 2017 de 18H à 21H			
+					par 
+			<a href="http://wikilleurbanne.dev/?ArtisansDuMondeVilleurbanne">
+				Artisans du monde Villeurbanne			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?MaisonDesAssociationsLyon4eme">Maison des associations Lyon 4ème</a></span>		</h4>
+		<p>
+			<p class="null" style="text-align: center; border: 0px; font-variant-numeric: inherit; font-stretch: inherit; line-height: 1.7; font-family: Roboto, sans-serif; font-size: 15px; outline: 0px; padding: 0px; vertical-align: baseline; color: rgb(51, 51, 51);">Pendant la Quinzaine du Commerce Equitable (13-28 mai), <a href="http://admlyonvilleurbanne.fr/" target="_blank">Artisans du Monde Villeurbanne</a> se réjouit de la&nbsp;<strong style="border: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-style: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: rgb(109, 0, 3);">venue d’un partenaire producteur de café éthiopien</strong>&nbsp;dans la région AURA le samedi 20 mai.</p><div style="border: 0px; font-variant-numeric: inherit; font-stretch: inherit; line-height: inherit; font-family: Roboto, sans-serif; font-size: 15px; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: rgb(136, 136, 136);"><p style="border: 0px; font-variant: inherit; font-stretch: inherit; line-height: 1.7; font-family: inherit; font-style: inherit; outline: 0px; padding: 0px; vertical-align: baseline; color: rgb(51, 51, 51);"><div style="text-align: center;"><span style="font-family: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit;">Une</span><strong style="font-family: inherit; font-style: inherit; font-variant: inherit; border: 0px; font-stretch: inherit; line-height: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: rgb(109, 0, 3);">&nbsp;soirée rencontre / débat&nbsp;</strong><span style="font-family: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit;">se tiendra à la Maison des Associations de Lyon 4ème en partenariat avec les 2 autres associations Artisans du Monde lyonnaises.</span></div><div style="text-align: center;"><span style="font-family: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit;"><br></span></div><div style="text-align: center;"><span style="font-family: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit;"><a href="http://admlyonvilleurbanne.fr/event/soiree-rencontre-debat-producteur-de-cafe-ethiopien/" target="_blank">Plus d'informations sur cette soirée</a>.</span></div></p></div>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Soirée rencontre/débat Artisans du Monde avec un producteur de café éthiopien" src="files/SoireeRencontreDebatArtisansDuMondeAvecU_logo_adm_2016_firebrick_horizontal_png.png"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

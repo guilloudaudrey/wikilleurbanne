@@ -1,0 +1,50 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/association.css">
+
+<div class="row-fluid row"> <!-- start of grid -->
+<div class="span12 col-md-12 "> <!-- start of col --><h1>La passerelle d'eau de Robec</h1><div class="BlocInfoStructure"><p class="field">
+<h2 style="text-align: center;">La passerelle d'eau de Robec</h2><hr /></p>
+<p class="field">
+<h4 style="text-align: left;">Objet : Epicerie sociale et solidaire ("Notre marché autrement") donnant accès à tous à une alimentation choisie, équilibrée et de qualité ; ateliers d'information et de sensibilisation sur la nutrition et la santé, la vie quotidienne, la citoyenneté.</h4><hr /></p>
+<p class="field">
+<h4><strong>Catégorie : </strong>Solidarités</h4></p>
+<p class="field">
+<h4><strong>Sous-catégorie : </strong>Action sociale</h4><hr /></p>
+<p><i class="glyphicon glyphicon-home home" ></i> <strong>SIEGE SOCIAL</strong><br />21 rue des Capucins<br />69001 Lyon</p><p class="field">
+<i class="glyphicon glyphicon-earphone earphone" ></i> 04 72 87 07 16</p>
+<p class="field">
+<i class="glyphicon glyphicon-envelope envelope" ></i> <a href="mailto:asso@eauderobec.org">asso@eauderobec.org</a></p>
+<p class="field">
+<i class="glyphicon glyphicon-globe globe" ></i> <a target="_blank" href="http://www.eauderobec.org">www.eauderobec.org</a></p>
+<p class="field">
+<i class="glyphicon glyphicon-map-marker map-marker" ></i>  <strong>ACCUEIL DU PUBLIC</strong><br />Villeurbanne</p>
+<p class="field">
+231 cours Emile Zola</p>
+<p class="field">
+<i class="glyphicon glyphicon-user icon-user"></i> <strong>PUBLIC VISE</strong><br />Personnes en difficulté financière
+</p>
+<p class="field">
+<i class="glyphicon glyphicon-time time" ></i> du lundi au vendredi</p>
+</div></div> <!-- end of col -->
+
+</div> <!-- end of grid --><div class="row-fluid row"> <!-- start of grid --><div class="span4 col-md-4 "> <!-- start of col --><link rel="stylesheet" href="tools/bazar/presentation/styles/liste_actu.css"></div> <!-- end of col --><div class="span4 col-md-4 "> <!-- start of col --><link rel="stylesheet" href="tools/bazar/presentation/styles/liste_bourse_echange.css">
+<div id="BlocListeBourseEchange">
+        <div class="bazar_numero"></div>
+                
+            <script type="javascript">
+            </script>
+
+            <div class="bazar-entry ItemBourseEchange  demande " style="border: 3px solid #ff6d66; margin-top: 20px; padding: 10px"data-listeListeTypeechange="Demand" data-checkboxListeTypecategorieechange="Loca" data-id_typeannonce="5" data-id_fiche="LocauxPourAteliersCuisine" data-createur="LaPasserelleDEauDeRobec" data-date_creation_fiche="2017-11-15 14:23:08" data-statut_fiche="1" data-date_maj_fiche="2017-11-15 14:23:08" >
+                <a style="font-weight: bold"; href="http://localhost/wikilleurbanne/?LaPasserelleDEauDeRobec">La passerelle d'eau de Robec</a>
+                     recherche
+                    <span class="TitreEchange">
+			<a href="http://localhost/wikilleurbanne/?LocauxPourAteliersCuisine">Locaux pour ateliers cuisine</a>			</span>
+                    <hr style="margin: 5px !important;" />
+
+                    <span class="BlocDescriptionItemBourseEchange">
+			<p>L'épicerie sociale et solidaire Notre Marché Autrement recherche une cuisine afin de pouvoir proposer des ateliers cuisine à ses adhé<a style="color: white;" href="wakka.php?wiki=LocauxPourAteliersCuisine">...</a>			</span>
+
+                    <hr style="margin: 5px !important;" /> Contact :
+                    asso@eauderobec.org            </div>
+            </div>
+<div class="bazar_numero"></div></div> <!-- end of col --><div class="span4 col-md-4 "> <!-- start of col --></div> <!-- end of col --></div> <!-- end of grid -->
+<h5><a href="wakka.php?wiki=AnnuAire">Retourner à l'annuaire</a></5>

@@ -1,0 +1,44 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=VaguesMarloneMalArmeConcertRelease"> Vagues + Marlone + Mal Armé // CONCERT RELEASE PARTY</a>		</h1>
+		<h4>
+			Le Samedi 14 Octobre 2017 de 20H30 au Dimanche 15 Octobre à 00H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?TatatooM">
+				Tatatoom			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?ToiToiLeZinc">Toï Toï Le Zinc</a></span>		</h4>
+		<p>
+			<p>VAGUES // Rock //
+À l’image des vagues s’alternent un rock électrique (Interpol) et des 
+couleurs post-rock/shoegaze (Alcest), pour créer une musique en 
+clair-obscur. Une batterie spacieuse, une basse enveloppante, des 
+guitares amples qui s’entremêlent sur des boucles frénétiques, le 
+tout surplombé par un chant qui navigue entre mélodies aériennes et 
+déclamations. VAGUES met les tourments en mots et en musique pour en 
+extraire ce qu'il y a de beau et d'onirique.
+</p><p><br></p><p>MARLONE // Folk rock //
+Marlone, déclame sa poésie sur une musique transpirante et viscérale. 
+Instinctif, fougueux, électriquement tendancieux, Marlone en live c’est 
+une énergie pure, nette et implacable. Quand tension harmonique et chant
+ extatique s’entremêlent, l'instant éclate, s’estompe et devient 
+irrationnel. Au détroit de Bashung et Jeff Buckley, Marlone façonne son 
+périple. Sincère et communicatif, amer et sans épilogue.
+</p><p><br></p><p>MAL ARME // Poésie post rock //
+Mal Armé est un trio de poésie post-rock. Amis à la vie comme à la 
+scène, Hugo Benin et Simon André portent le projet Mal Armé en scène 
+avec la volonté ferme de concilier intensité rock et engagement 
+poétique. Rejoints par Morwan Sohier à la basse, le groupe devenu trio 
+partage avec fougue des textes fragiles et puissants, soutenus par une 
+musique tantôt franche et rythmée, tantôt douce et lyrique.
+</p><p><br></p><p><br></p><p><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt=" Vagues + Marlone + Mal Armé // CONCERT RELEASE PARTY" src="files/VaguesMarloneMalArmeConcertRelease_240-200.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

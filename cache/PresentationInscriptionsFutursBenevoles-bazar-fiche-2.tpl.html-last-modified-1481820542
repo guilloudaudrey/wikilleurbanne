@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=PresentationInscriptionsFutursBenevoles">CRF présentation inscriptions futurs bénévoles</a>		</h1>
+		<h4>
+			Le Jeudi 19 Janvier 2017 de 16H50 à 18H			
+					par 
+			<a href="http://wikilleurbanne.dev/?CroixRougeFrancaise">
+				Croix-Rouge française			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CroixRougeFrancaiseUniteLocaleDeLEstL">Croix Rouge Française - Unité locale de l'est lyonnais</a></span>		</h4>
+		<p>
+			<p>A l'issue de la présentation, les personnes intéressées pourront obtenir un rendez vous individuel au cours duquel ils pourront choisir une activité en fonction de leurs centres d'intérêt et de leurs disponibilités. Ils pourront ensuite faire un essai (ou plusieurs) &nbsp;avant de se décider pleinement.</p><p>renseignements et inscriptions &nbsp;04 78 38 80 30 ou ul-estlyonnais@croix-rouge.fr</p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

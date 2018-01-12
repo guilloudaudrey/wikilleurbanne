@@ -1,0 +1,24 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=LesFouleesDeVilleurbanne2">LES FOULÉES DE VILLEURBANNE</a>		</h1>
+		<h4>
+			Le Dimanche 19 Mars 2017 de 07H30 à 15H			
+					par 
+			<a href="http://wikilleurbanne.dev/?OfficeDuSportVilleurbannais">
+				Office du sport villeurbannais			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?OsV">Office du Sport de Villeurbanne (OSV) - Maison des sportifs</a></span>		</h4>
+		<p>
+			<p><b><span style="line-height: 107%;"><span style="font-size: 12pt;">Courses pour tous et courses enfants en plein </span><span style="font-size: 16px;">cœur</span><span style="font-size: 12pt;">&nbsp;des Gratte-ciels.</span></span></b></p><p>Retrouvez tous les renseignements pratiques, les parcours,
+le règlement et les inscriptions sur notre site internet <a href="http://www.lesfouleesdevilleurbanne.fr/" style="background-color: rgb(255, 255, 255);">www.lesfouleesdevilleurbanne.fr</a>
+ou par téléphone auprès de l’équipe de l’OSV au 04 78 68 92 44.&nbsp;<br></p><p class="MsoNormal"></p><p><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

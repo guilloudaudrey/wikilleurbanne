@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=StageWeekEnd">Stage week-end</a>		</h1>
+		<h4>
+			Le Samedi 03 Décembre 2016 toute la journée au Dimanche 04 Décembre			
+					par 
+			<a href="http://wikilleurbanne.dev/?BambouBalanceHarmonieEtMouvement">
+				Bambou Balance - Harmonie et mouvement			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?StageWeekEnd"></a></span>		</h4>
+		<p>
+			<p>Stage de Tai Chi Chuan style Yang :</p><p>&nbsp; &nbsp; - mains nues</p><p>&nbsp; &nbsp; - épée</p><p>&nbsp; &nbsp; - sabre</p><p>&nbsp; &nbsp; - bagua Qi Gong</p><p>&nbsp; &nbsp; - abdos sans risque</p><p><br></p><p>Le stage se déroulera au gymnase Enghien-Condé, 13 rue de Condé, 69002, Lyon</p><p><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Stage week-end" src="files/StageWeekEnd_15175415_1248500128554513_719836162_n.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

@@ -1,0 +1,38 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=ConcertoPourDeuxClowns">Concerto pour deux clowns</a>		</h1>
+		<h4>
+			Le Jeudi 25 Janvier 2018 de 20H au Samedi 27 Janvier à 20H			
+					par 
+			<a href="http://wikilleurbanne.dev/?TheatreEtCompagnieDeLIris">
+				Théâtre et compagnie de l'Iris			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?TheatreDeLIris">Théâtre de l'Iris</a></span>		</h4>
+		<p>
+			<p style="margin-bottom: 0cm"><span style="background: transparent">Par Les Rois Vagabonds</span></p><p style="margin-bottom: 0cm"><span style="background: transparent"><br></span></p><p style="margin-bottom: 0cm"><span style="background: transparent">Au
+programme : Vivaldi, Strauss, Bach… </span>
+</p><p style="margin-bottom: 0cm"><span style="background: transparent">…
+Et
+un duo de clowns aussi fantasque qu'a priori mal assorti pour les
+interpréter&nbsp;!</span></p><p style="margin-bottom: 0cm"><span style="background: transparent">Elle,
+perruque blanche, visage blanchi des nobles de la Cour, allure
+altière et alto à la main.</span></p><p style="margin-bottom: 0cm"><span style="background: transparent">Lui,
+tubiste, l’air sombre et le dos voûté, porte un calot sur la
+tête, des bottes de paille et deux lourdes caisses.</span></p><p>
+<br></p><p style="margin-bottom: 0cm"><span style="background: transparent">Les
+Rois Vagabonds entremêlent avec virtuosité musique, acrobaties et
+mimes en quelques mots à peine pour nous parler un langage
+universel. Qu’on soit vieux philosophe ou petit enfant, on est
+surpris, on s’émerveille, on rit, on sourit, on est ému. </span></p><p style="margin-bottom: 0cm"><span style="background: transparent"><br></span></p><p style="margin-bottom: 0cm"><span style="background: transparent">À partir de : 8 ans</span></p><p style="margin-bottom: 0cm"><span style="background: transparent">Durée : 1 h 10</span></p><p style="margin-bottom: 0cm"><span style="background: transparent"><br></span></p><p style="margin-bottom: 0cm"><span style="background: transparent">Retrouvez Les Rois Vagabonds autour d'un verre offert par le théâtre à l'issue des représentations<br></span>
+</p><p>
+<br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Concerto pour deux clowns" src="files/ConcertoPourDeuxClowns_lesroisvagabondsprappeneau.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

@@ -1,0 +1,31 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=MiseEnBoiteAteliersCartonOlivierGrosset">Mise en boîte / Ateliers carton Olivier Grossetête / Invites 2017</a>		</h1>
+		<h4>
+			Le Samedi 03 Juin 2017 toute la journée au Vendredi 16 Juin			
+					par 
+			<a href="http://wikilleurbanne.dev/?LesAteliersFrappazCnar">
+				Les Ateliers Frappaz, CNAREP			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?LesAteliersFrappaz2">Les Ateliers Frappaz</a></span>		</h4>
+		<p>
+			<p>Les Ateliers Frappaz se lancent cette année dans un projet
+        complètement fou dans le cadre des Invites de Villeurbanne :
+        construire puis déconstruire un quartier éphémère en carton en 7
+        jours !<b><br></b></p><p><b>Venez découvrir le projet et l'équipe lors de la &gt;&gt; </b><b><b>1ère
+            étape : </b>Mise en boîte </b><br>
+        Du 3 au 16 juin, tous les jours, ateliers-préparation des
+        cartons aux Ateliers Frappaz !&nbsp; <br>
+        Matin, après-midi ou soir, nous accueillons des groupes et des
+        individuels souhaitant "mettre la main au carton". <br>Gratuits et ouverts à tous !<br>Horaires : 10h-13h puis 15h-18h tous les jours SAUF...<br>... les 7, 14 et 15 juin pas d'atelier le matin MAIS un atelier le soir 18h30-21h30.<br></p><p>Pour relever ce défi FOU, nous avons besoin de vous ! Alors rejoignez-nous !<br></p><p>Plus d'informations : frappazetmoi@ateliers-frappaz.com / 04 72 68 90 17<br></p><h1><br></h1><p>
+<br></p><p><br></p><p><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Mise en boîte / Ateliers carton Olivier Grossetête / Invites 2017" src="files/MiseEnBoiteAteliersCartonOlivierGrosset_flyer_gé_bd1.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

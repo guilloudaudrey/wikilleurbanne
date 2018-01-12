@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=VhaValence">VHA/VALENCE</a>		</h1>
+		<h4>
+			Le Samedi 09 Septembre 2017 de 20H30 à 23H			
+					par 
+			<a href="http://wikilleurbanne.dev/?VilleurbanneHandballAssociation">
+				Villeurbanne handball association			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?VhaValence"></a></span>		</h4>
+		<p>
+			<p><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">La saison 2017/2018 du Villeurbanne Handball Association débute le samedi 09 septembre avec la réception de Valence (ancien club de D2) aux Gratte-Ciel! L'occasion de découvrir la nouvelle équipe des Balck Gones qui fait son grand retour en Nationale 1. Une première journée de championnat qui s'annonce enflammée et que l'on a hâte de partager avec vous. Rendez-vous dès l'ouverture des portes à 19h30 pour ce premier grand rendez-vous de l'année. Toute l'équipe du VHA compte sur ses supporters pour ce premier match à domicile! GO VHA !!!</span></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="VHA/VALENCE" src="files/VhaValence_affiche-valence.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

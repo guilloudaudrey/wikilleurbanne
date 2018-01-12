@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=RepasZarzuelaRepasABaseDePoissonsEtCru">Repas ZARZUELA (repas à base de poissons et crustacés typiquement espagnol)</a>		</h1>
+		<h4>
+			Le Dimanche 19 Mars 2017 de 12H à 16H			
+					par 
+			<a href="http://wikilleurbanne.dev/?CasaCulturalDeMurciaEnVilleurbanne">
+				Casa Cultural de Murcia en Villeurbanne			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CasaCulturalDeMurcia">CASA CULTURAL DE MURCIA</a></span>		</h4>
+		<p>
+			<p>Venez déguster notre ZARZUELA au siège de l'association :</p><p>CASA CULTURAL DE MURCIA : 1 rue Rouget de L'Isle - 69100 Villeurbanne - Parc de la Feyssine</p><p>Le repas comprend : salade - zarzuela - fromage - fruit de saison - café - </p><p>25€ par personne</p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Repas ZARZUELA (repas à base de poissons et crustacés typiquement espagnol)" src="files/RepasZarzuelaRepasABaseDePoissonsEtCru_zarzuela-marzo-2017.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

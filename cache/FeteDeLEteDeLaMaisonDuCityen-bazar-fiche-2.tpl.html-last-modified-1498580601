@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FeteDeLEteDeLaMaisonDuCityen">Fête de l'été de la Maison du Cityen</a>		</h1>
+		<h4>
+			Le Vendredi 30 Juin 2017 de 14H30 à 23H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?MaisonDuCitoyen">
+				Maison du citoyen			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?MaisonDuCitoyen2">MAISON DU CITOYEN</a></span>		</h4>
+		<p>
+			<p style="color: rgb(51, 51, 51); font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 16px; line-height: 24px;">Vendredi 30 juin 2017<br>Au programme :</p><p style="text-align: left; color: rgb(51, 51, 51); font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 16px; line-height: 24px;">14 h30 - concours de pétanque</p><p style="text-align: left; color: rgb(51, 51, 51); font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 16px; line-height: 24px;">17 h30 - Scène ouverte à tous les ateliers de la Maison du Citoyen</p><p style="text-align: left; color: rgb(51, 51, 51); font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 16px; line-height: 24px;">19 h- Barbecue Géant</p><p style="text-align: left; color: rgb(51, 51, 51); font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 16px; line-height: 24px;">Renseignements et inscriptions à l’accueil de la Maison au 04 78 68 99 27</p><p style="color: rgb(51, 51, 51); font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 16px; line-height: 24px; text-align: center;"><div style="text-align: left;">P.A.F&nbsp; : </div><div style="text-align: left;">12 euros pour les adhérents</div><div style="text-align: left;">14 euros pour les non-adhérents</div></p><p style="text-align: left; color: rgb(51, 51, 51); font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 16px; line-height: 24px;">Venez nombreux !</p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

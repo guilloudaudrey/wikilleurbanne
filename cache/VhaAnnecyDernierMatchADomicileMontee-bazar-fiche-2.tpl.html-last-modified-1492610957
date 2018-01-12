@@ -1,0 +1,27 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=VhaAnnecyDernierMatchADomicileMontee">VHA/ANNECY - Dernier match à domicile - Montée en N1</a>		</h1>
+		<h4>
+			Le Samedi 22 Avril 2017 de 19H30 au Dimanche 23 Avril à 01H			
+					par 
+			<a href="http://wikilleurbanne.dev/?VilleurbanneHandballAssociation">
+				Villeurbanne handball association			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?EspaceInfoDeLaMairieDeVilleurbanne">Espace Info de la mairie de Villeurbanne</a></span>		</h4>
+		<p>
+			<p align="justify"><span class="_4n-j _3cht fsl" data-testid="event-permalink-details">A 
+l'occasion du dernier match à domicile de la saison, les Black Gones 
+donnent un ultime rendez-vous à tous leurs supporters pour fêter tous 
+ensemble la remontée du club en Nationale 1! Les Villeurbannais comptent sur vous pour célébrer cette ascension en 3ème division et profiter des festivités prévues lors de cette soirée unique. On vous attends 
+nombreux pour soutenir le VHA lors de cette dernière rencontre face à 
+Annecy le Vieux.</span></p><p align="justify"><b><span style="background-color: rgb(255, 255, 0);"><span class="_4n-j _3cht fsl" data-testid="event-permalink-details">Lieu d’accueil :</span></span></b></p><p align="justify"><b><span style="background-color: rgb(255, 255, 0);"><span class="_4n-j _3cht fsl" data-testid="event-permalink-details">Salle des Gratte-Ciel</span></span></b></p><p align="justify"><b><span style="background-color: rgb(255, 255, 0);"><span class="_4n-j _3cht fsl" data-testid="event-permalink-details">98 rue Francis de Pressensé</span></span></b></p><p align="justify"><span class="_4n-j _3cht fsl" data-testid="event-permalink-details"><b><span style="background-color: rgb(255, 255, 0);">69100 Villeurbanne</span></b><br></span></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="VHA/ANNECY - Dernier match à domicile - Montée en N1" src="files/VhaAnnecyDernierMatchADomicileMontee_affiche-annecy.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=UnSamediPourEcrire">un samedi pour écrire</a>		</h1>
+		<h4>
+			Le Samedi 18 Février 2017 de 10H à 17H			
+					par 
+			<a href="http://wikilleurbanne.dev/?ParolesDePlumesEtc">
+				Paroles de plumes etc.			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CroisementAvenueSaintExuperyEtRueRaymond">Croisement avenue Saint Exupery et rue Raymond Terracher</a></span>		</h4>
+		<p>
+			<ol><li>Atelier d'écriture dans le cadre de 2 expositions: matin devant les photos de "périphéries" ,bibliothèque de la part-Dieu,30 bd Vivier Merle Lyon 3è; l'après midi :devant l'exposition "Elles deux" de Dominique Menachem Lardet,galerie élzabeth Couturier,25 rue Burdeau Lyon 1er</li><li>inscription préalable obligatoire au 06 82 79 10 73 ou parolesdeplumes@gmail.com<br></li><li><br></li></ol><div class="container"><div class="main-body" role="main"><div class="page"><div class="control-group form-group"><div class="controls col-sm-9"><div class="note-editor note-frame panel panel-default"><div class="note-editing-area"><div class="note-editable panel-body" style="height: 300px; max-height: 550px; min-height: 300px;" contenteditable="true"><ol></ol></div></div></div></div></div></div></div></div><ol><li><br></li></ol>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=StageDeTheatrePhysique">Stage de théâtre physique</a>		</h1>
+		<h4>
+			Le Samedi 28 Janvier 2017 toute la journée au Dimanche 29 Janvier			
+					par 
+			<a href="http://wikilleurbanne.dev/?LeCIDCollectifInterdisciplinaire">
+				Le C.I.D. : Collectif Interdisciplinaire			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?LaRuche">La Ruche</a></span>		</h4>
+		<p>
+			<p><b><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;">Stage de théâtre à partir de 16 ans.</span><br style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"></b><br style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;">À partir de textes contemporains (il faudra prévoir d'apprendre 1 ou 2 courtes scènes), nous engagerons un travail d'interprétation physique et textuelle, de posture de l'acteur, de dramaturgie.</span><br style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><br style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;">Prévoir une tenue souple et chaude, unie et foncée si possible, une bouteille d'eau, un cahier et stylo.</span><br style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><br style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;">Le stage est ouvert à toutes et tous, quelle que soit l'expérience (débutant/e, amateur/e, pro), la pratique (théâtre, chant, danse, cirque...) ou l'âge.</span><br style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><br style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;">Attention nombre de places limité alors pensez bien à réserver !&nbsp;</span><br style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><br style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;">Horaires : de 9h30 à 17h&nbsp;</span></p><p><span style="color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;">Intervenante : Emmanuelle Mehring&nbsp;</span><span class="text_exposed_show" style="display: inline; color: rgb(75, 79, 86); font-family: Helvetica, Arial, sans-serif;"><br><br>Tarifs : 95€ non adhérent (comprend 10€ d'adhésion à l'asso)<br>85€ adhérent<br><br>Infos et réservations auprès de Melody : lecid.diff@gmail.com / 0688551610</span><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Stage de théâtre physique" src="files/StageDeTheatrePhysique_photo-stage-théâtre-physique_petite_web.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

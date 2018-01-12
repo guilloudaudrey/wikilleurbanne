@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=ContesEtGourmandisesDEte">Contes et Gourmandises d'été</a>		</h1>
+		<h4>
+			Le Jeudi 27 Juillet 2017 de 10H à 21H			
+					par 
+			<a href="http://wikilleurbanne.dev/?LegumAuLogis">
+				Légum'au logis			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?AssociationLegumAuLogisResidencePranard">Association Légum'Au Logis, Résidence Pranard</a></span>		</h4>
+		<p>
+			<p><span style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;">Evénement de quartier pour toute la famille!</span><br style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;"><span style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;">Venez participer aux différentes animations de la journée autour des contes et des gourmandises d'été !</span><br style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;"><br style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;"><span style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;">Le thème de cette 3ème édition: les déchets et les recettes gourmandes anti-gaspillage.&nbsp;</span><br style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;"><br style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;"><span style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;">Voici la déroulé de la journée :</span><br style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;"><br style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;"><span style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;">10h - 1er Atelier cuisine anti-gaspillage (sur inscriptions - appelez nous!)</span><br style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;"><span style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;">14h - 2ème Atelier cuisine anti-gaspillage (sur inscriptions - appelez nous!)</span><br style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;"><span style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;">17h30 - Atelier récup' et jeu autour des déchets</span><br style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;"><span style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;">19h - spectacle conté par la compagnie l'oeil du cyclope</span><br style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;"><br style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;"><span style="color: rgb(51, 51, 51); font-family: Ubuntu, Helvetica, Arial, sans-serif;">Pour finir, dégustation d'un buffet avec des recettes savoureuses spéciales anti-gaspi !</span><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

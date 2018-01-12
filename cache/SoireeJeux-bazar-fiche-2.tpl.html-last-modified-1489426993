@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=SoireeJeux">Soirée Jeux Oz'Ateliers du 4 aout (La Perralière)</a>		</h1>
+		<h4>
+			Le Vendredi 24 Mars 2017 de 19H à 00H			
+					par 
+			<a href="http://wikilleurbanne.dev/?OzAteliersDu4Aout">
+				Oz'ateliers du 4 août			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?OzAteliersDu4Aout2">Oz'Ateliers du 4 aout </a></span>		</h4>
+		<p>
+			<p><b>Soirée Jeux en partenariat avec "Un monde en jeux"&nbsp; (entrée gratuite)<br></b></p><p>Par exemple dans les jeux qui seront présentés :<br>- <b>Takenoko</b>, un jolie <span class="Object" id="OBJ_PREFIX_DWT239_com_zimbra_date">jeu</span> de placement familial avec un tout aussi jolie Panda dévoreur de bambou.<br>- <b>Smallworld </b>pour les adeptes de conquête de territoires et coup bas entre amis.<br>- <b>Cortex</b>, un petit <span class="Object" id="OBJ_PREFIX_DWT240_com_zimbra_date">jeu</span> de carte qui remue les méninges.<br>- <b>Colt express</b>, une attaque de train qui se joue en 30 mn<br>- <b>Citadelles</b>, <span class="Object" id="OBJ_PREFIX_DWT241_com_zimbra_date">jeu</span> de rôles cachés pour paraître en public<br>et d'autres jeux d'ambiance ou de plateau (<b>Dr Eureka</b>, <b>King Domino</b> ...)</p><p>Vous pouvez également venir avec vos propres jeux dont vous n'avez pas le temps de lire la notice!</p><p>Renaud se fera un plaisir de vous initier<br></p><p>Bar à tapas sur place</p><p>Lieu :&nbsp; Oz'Ateliers du 4 aout&nbsp;(chez la Miète) - 150 rue&nbsp; du 4 août La Perralière <br></p><p>ozateliersdu4aout@yahoo.com<br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

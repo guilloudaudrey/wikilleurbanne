@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=DecouvrirLaBiodanza">Découvrir la Biodanza</a>		</h1>
+		<h4>
+			Le Mercredi 13 Septembre 2017 de 20H à 22H			
+					par 
+			<a href="http://wikilleurbanne.dev/?YebO">
+				Yebo			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CompagniePremierActe2">Compagnie Premier Acte</a></span>		</h4>
+		<p>
+			<p>Venez nous rejoindre pour découvrir la danse de la vie</p><p>Plonger dans la musique, l'instant présent, la rencontre<br> Pas besoin de "savoir danser", juste le plaisir du mouvement, d’être soi-même, en lien...Se sentir vivant</p><p>Soirée offerte. Lieu : 18 rue Jules Vallès à Villeurbanne<br></p><p>inscription : yebo.biodanza@gmail.com<br></p><p> <span class="_47e3 _5mfr" title="émoticône smile"><img class="img" role="presentation" src="https://www.facebook.com/images/emoji.php/v9/f4c/1/16/1f642.png" alt="" width="16" height="16"></span></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Découvrir la Biodanza" src="files/DecouvrirLaBiodanza_phoza72.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

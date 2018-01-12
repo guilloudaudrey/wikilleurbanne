@@ -1,0 +1,47 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=CarthageSurRhone">Carthage sur Rhône</a>		</h1>
+		<h4>
+			Le Jeudi 26 Janvier 2017 de 18H30 à 22H			
+					par 
+			<a href="http://wikilleurbanne.dev/?HendiAssociation">
+				HENDI Association			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CarthageSurRhone"></a></span>		</h4>
+		<p>
+			<blockquote><h4 class="MsoNormal" style="text-align:justify">
+
+<span style="font-size:9.0pt;
+line-height:115%">Carthage sur Rhône est conçue comme une rencontre privilégiée
+autour d'une <b>histoire commune</b>, un moment de <b>confluence</b> des
+cultures, un espace où le <b>Rhône </b><span style="mso-bidi-font-weight:bold">et
+la <b>Méditerranée</b> mêlent leurs eaux</span>.</span></h4><h4 class="MsoNormal" style="text-align:justify">
+
+<span style="font-size:9.0pt;
+line-height:115%">Pour l'occasion, des associations de <b>Lyon</b><span style="mso-bidi-font-weight:bold"> et<b> Villeurbanne</b></span> resserrent
+leur partenariat pour bénéficier de la <b style="mso-bidi-font-weight:normal">convergence
+</b>des énergies.</span></h4><h4 class="MsoNormal" style="text-align:justify">
+
+<span style="font-size:9.0pt;
+line-height:115%">Cette première édition prendra la forme d'une soirée
+conviviale, avec une projection de deux courts-métrages entrecoupée d'un
+copieux intermède, un buffet dînatoire aux effluves des spécialités
+tunisiennes. Le premier court-métrage donnera lieu à un débat sur le tri et le
+recyclage, symboles d'une économie circulaire émergente. </span></h4><h4 class="MsoNormal" style="text-align:justify">
+
+<span style="font-size:9.0pt;
+line-height:115%">Votre participation permettra l'intensification, ici et
+là-bas, de nos actions, centrées sur la promotion de la dynamique culturelle et
+l'accompagnement des initiatives de développement local.</span></h4></blockquote><p>
+
+<br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Carthage sur Rhône" src="files/CarthageSurRhone_e-flyer-csr-1.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

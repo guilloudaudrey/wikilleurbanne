@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=BrocanteSolidaireAuProfitDuSecoursPopulai">Brocante solidaire au profit du Secours Populaire</a>		</h1>
+		<h4>
+			Le Samedi 13 Mai 2017 toute la journée			
+					par 
+			<a href="http://wikilleurbanne.dev/?SecoursPopulaireFrancaisComiteVilleurbannai">
+				Secours populaire français Comité Villeurbannais			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?SecoursPopulairePlaceDesDenteliers">Secours Populaire Place des Denteliers</a></span>		</h4>
+		<p>
+			<p>Brocante solidaire au profit du Secours Populaire organisée par les bénévoles de l'association.</p><p>Vous trouverez des vêtements, de la vaisselle, des jouets, des livres...<br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=LesNouvellesStarsDeDemainEnConcertANoga2">Les Nouvelles Stars De Demain en Concert à Nogaro (32)</a>		</h1>
+		<h4>
+			Le Samedi 23 Septembre 2017 de 20H au Mercredi 23 Août à 23H45			
+					par 
+			<a href="http://wikilleurbanne.dev/?LesNouvellesStarsDeDemain">
+				Les nouvelles stars de demain			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?LesNouvellesStarsDeDemainEnConcertANoga2"></a></span>		</h4>
+		<p>
+			<p>Les Nouvelles Stars de Demain, Association Villeurbannaise , &nbsp;seront sur un gros&nbsp;concert à NOGARO (32) à côté de Toulouse le 23 Septembre 2017 sur invitation de Corinne QUAGLINI Radio d'Artagnan. </p><p>5 de nos fabuleux Artistes seront présents, Maëva DI MARINO, Mathilde SILVER, Fallon, Emily LAURENT et Léo RISTORTO finaliste de The Voice Kids 2015. </p><p>Renseignements au 06 74 43 50 99</p><p><br></p><p><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Les Nouvelles Stars De Demain en Concert à Nogaro (32)" src="files/LesNouvellesStarsDeDemainEnConcertANoga2_concert-radio-d-artagnan-le-23-sept-2017.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

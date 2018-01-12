@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FormationBlessureDeTerrainQueFaireEt">FORMATION "Blessure de terrain, que faire ? (et ne pas faire !) "</a>		</h1>
+		<h4>
+			Le Jeudi 05 Octobre 2017 de 19H à 21H			
+					par 
+			<a href="http://wikilleurbanne.dev/?OfficeDuSportVilleurbannais">
+				Office du sport villeurbannais			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?OsV">Office du Sport de Villeurbanne (OSV) - Maison des sportifs</a></span>		</h4>
+		<p>
+			<p>Formation gratuite<br></p><p>Intervention du Dr Christian BERGER-VACHON, secouristes de la Croix-Blanche et de la protection civile</p><p>Accueil à partir de 18h45</p><p>Inscriptions et renseignements à : christelle.chuzet@osvilleurbanne.com</p><p><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

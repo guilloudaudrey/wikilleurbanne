@@ -1,0 +1,38 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=KiwistarRedOakFreeYourMindDjSet">Kiwistar + Red Oak // Free Your Mind // DJ SET GRATUIT</a>		</h1>
+		<h4>
+			Le Jeudi 19 Octobre 2017 de 20H30 au Vendredi 20 Octobre à 00H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?TatatooM">
+				Tatatoom			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?ToiToiLeZinc">Toï Toï Le Zinc</a></span>		</h4>
+		<p>
+			<p>KIWISTAR // Electro Swing - SpoonS Records</p><p>
+<br></p><p>Reconnu dans le milieu électro swing, Kiwistar est devenu un des 
+acteurs majeurs du genre. Il a construit sa réputation sur scène, en 
+amenant une electro swing funky à un autre niveau en la mélangeant en 
+live avec de la drum and bass, du trap, et de la hard techno, mélangeant
+ happy vibes et club bangers. Il a pu poser ses platines sur 3 
+continents, à travers l'Europe l'Amérique et l'Afrique. En tant que 
+compositeur, Kiwistar suit un chemin mélangeant éclectisme et diversité,
+ il produit des chansons de 100 à 190 BPM, du chill jusqu'aux party 
+anthems.
+</p><p><br></p><p><br></p><p>RED OAK // Electro Funk &amp; Bassmusic - SpoonS Records</p><p>
+<br></p><p>Red Oak est un jeune Dj Producteur qui à su vite se faire un nom dans
+ le cercle des producers Electro Swing / Electro Funk. Après plusieurs 
+tournées avec Kiwistar, Flechette ou encore Josh &amp; le Chat, il a pu 
+acquérir une expérience scénique dans des pays aussi eclectiques que 
+Malte la Macédoine la Slovaquie ou l'Italie.
+</p><p><br></p><p><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

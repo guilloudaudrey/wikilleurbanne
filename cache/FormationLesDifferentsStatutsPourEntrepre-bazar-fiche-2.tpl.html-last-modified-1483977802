@@ -1,0 +1,44 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FormationLesDifferentsStatutsPourEntrepre">Formation: Les différents statuts pour entreprendre en ESS</a>		</h1>
+		<h4>
+			Le Jeudi 12 Janvier 2017 de 18H30 à 20H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?CentreCulturelOecumeniqueJeanPierreLachaiz">
+				Centre culturel oecuménique Jean-Pierre Lachaize (CCO)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CcoJeanPierreLachaize">CCO - Jean-Pierre LACHAIZE</a></span>		</h4>
+		<p>
+			<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          	<div class="field-item even">
+								<div class="body-summary">
+					<div><i>Porter un projet et entreprendre en Economie Sociale et Solidaire</i></div>
+				</div>
+												<div class="body-full">
+					<div>
+<div class="news-text-wrap">
+</div><div class="news-text-wrap"><br></div><div class="news-text-wrap">Présentation et analyse juridique des différents statuts correspondant 
+au développement d'un projet individuel (auto-entrepreneur, entreprise 
+individuelle) et d'un projet collectif&nbsp;: associations, coopératives 
+(SCIC, SCOP).
+</div><div class="news-text-wrap"><p><br></p><p>Jeudi 12 janvier 2017 // 18h30-20h30 // CCO<br>
+Sara Elie, Rhône Développement Initiative
+</p><p><br></p></div></div></div></div></div></div><div class="field-items"><div class="field-item even"><div>Pour plus d'informations, contacter le CCO JP LACHAIZE</div>
+<div>04 78 93 41 44 -<a href="mailto:vieassociative@cco-villeurbanne.org">vieassociative@cco-villeurbanne.org</a></div>
+</div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><div class="body-full"><div><div class="news-text-wrap"><p><br></p></div>
+</div>
+				</div>
+						</div>
+      </div>
+</div><p><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

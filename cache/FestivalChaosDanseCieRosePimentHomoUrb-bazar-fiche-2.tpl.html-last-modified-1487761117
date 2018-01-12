@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FestivalChaosDanseCieRosePimentHomoUrb">Festival Chaos Danse Théâtre Astrée - Cie Rose Piment Homo Urbanus</a>		</h1>
+		<h4>
+			Le Jeudi 06 Avril 2017 de 20H30 à 21H15			
+					par 
+			<a href="http://wikilleurbanne.dev/?OrganisationPourLaLiberteArtistique">
+				Organisation pour la liberté artistique (OPLA)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CampusDeLaDoua">Campus de La Doua</a></span>		</h4>
+		<p>
+			<p style="color: rgb(0, 0, 0); font-family: 'Josefin Sans', sans-serif; font-size: 13px; line-height: normal; text-align: justify;"><span style="font-size: 12pt;"><strong>La Compagnie Rose Piment</strong>&nbsp;a le plaisir de vous convier à sa déambulation dansée&nbsp;<strong>Homo Urbanus</strong>&nbsp;dans le cadre du :</span></p><p style="color: rgb(0, 0, 0); font-family: 'Josefin Sans', sans-serif; font-size: 13px; line-height: normal; text-align: justify;"><span style="font-size: 12pt;">-&nbsp;</span><a href="https://theatre-astree.univ-lyon1.fr/chaos-danse-15-eme-edition-29-mars-13-avril-2017/">Festival Chaos Danse - Théâtre Astrée </a><a href="https://theatre-astree.univ-lyon1.fr/chaos-danse-15-eme-edition-29-mars-13-avril-2017/"></a><a href="https://theatre-astree.univ-lyon1.fr/chaos-danse-15-eme-edition-29-mars-13-avril-2017/"></a><span style="font-size: 12pt;">le 6 avril 2017 à 20h30. Rendez-vous au Toï Toï Le Zinc, à Villeurbanne.<br></span></p><div style="font-family: 'Josefin Sans', sans-serif; font-size: 13px; line-height: normal; text-align: justify;"><span style="font-size: 12pt;"><strong>Venez observer l’Homo urbanus, cet animal humain, dans son environnement naturel.&nbsp;</strong><strong>Nous vous proposons une balade documentaire dans les méandres de la vie quotidienne des citadins...</strong></span></div>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Festival Chaos Danse Théâtre Astrée - Cie Rose Piment Homo Urbanus" src="files/FestivalChaosDanseCieRosePimentHomoUrb_visuelmail.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

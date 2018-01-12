@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=SortieDAtelier1WattVagueOuLaTentati">Sortie d'atelier - 1 Watt - Vague ou la tentative  des Cévennes</a>		</h1>
+		<h4>
+			Le Vendredi 24 Février 2017 de 18H30 à 20H			
+					par 
+			<a href="http://wikilleurbanne.dev/?LesAteliersFrappazCnar">
+				Les Ateliers Frappaz, CNAREP			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?SortieDAtelier1WattVagueOuLaTentati"></a></span>		</h4>
+		<p>
+			<p>L’épicentre de ce projet sera le jeu et sa relation à l’errance. Un groupe d’individus tracent, divaguent, tissent des histoires du quotidien, oniriques, incohérentes, drôles, débiles. Ils sont là ensemble par hasard et nécessité, agissant mais non productif.</p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

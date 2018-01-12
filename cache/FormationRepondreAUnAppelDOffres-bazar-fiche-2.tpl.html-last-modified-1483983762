@@ -1,0 +1,29 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FormationRepondreAUnAppelDOffres">Formation: Répondre à un appel d'offres</a>		</h1>
+		<h4>
+			Le Mardi 14 Mars 2017 de 18H30 à 20H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?CentreCulturelOecumeniqueJeanPierreLachaiz">
+				Centre culturel oecuménique Jean-Pierre Lachaize (CCO)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CcoJeanPierreLachaize">CCO - Jean-Pierre LACHAIZE</a></span>		</h4>
+		<p>
+			<div class="teaser-text"> <p><i>Connaître et trouver des financements pour son association.</i></p> </div><div class="news-text-wrap"> <p>Outiller
+ les associations dans la réponse aux appels d’offres ; Connaître les 
+outils et maîtriser le processus de la commande publique ; Distinguer 
+les spécificités de l’appel d’offres et renforcer la plus-value de 
+l’association dans sa réponse : Organiser une veille ciblée ; 
+différences entre appel d’offres, appel à projets, subvention ; dossier 
+de candidature ; faire une réponse convaincante et chiffrer son offre.</p><p>&nbsp;</p><p>Mardi 14 mars // 18h30 - 20h30 // CCO<br>Avec David Chevallier, consultant.</p> </div><p><br></p><p>Pour plus d'informations, contacter le CCO JP LACHAIZE<br>04 78 93 41 44 -<a href="mailto:vieassociative@cco-villeurbanne.org">vieassociative@cco-villeurbanne.org</a>
+</p><p><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

@@ -1,0 +1,30 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=SpectacleFinalQuartiersDeLune">SPECTACLE - FINAL QUARTIERS DE LUNE</a>		</h1>
+		<h4>
+			Le Vendredi 28 Juillet 2017 de 19H à 22H			
+					par 
+			<a href="http://wikilleurbanne.dev/?ZeotropE">
+				Zéotrope			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?LyceeAlfredDeMusset">Lycée Alfred de Musset</a></span>		</h4>
+		<p>
+			<p><i>Rien n'a changé sur la Lune : on mange toujours de la poussière, 
+on peut encore échouer dans des cratères sans nom, il y a toujours des 
+sélénographes, des luniens aspirateurs, des poissons mangeurs... et bien
+ entendu, les jongleurs sont toujours de véritables célébrités ! Tout va
+ pour le mieux donc... sauf qu'une nouvelle tribu commence à faire 
+parler d'elle : la tribu des Luniens Libres... </i></p><p>La compagnie 
+Zéotrope avec tous les participants français et polonais du projet 
+Quartiers de Lune terminent leur aventure lunienne avec ce dernier 
+spectacle imaginé comme un feu d'artifice.</p><p><br></p><p>Spectacle Gratuit et tous publics.<br>Buvette et petite restauration sur place.<br></p><p><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="SPECTACLE - FINAL QUARTIERS DE LUNE" src="files/SpectacleFinalQuartiersDeLune_rectojuillet2017.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

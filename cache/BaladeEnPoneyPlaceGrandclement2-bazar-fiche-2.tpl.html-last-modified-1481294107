@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=BaladeEnPoneyPlaceGrandclement2">Balade en Poney Place Grandclément</a>		</h1>
+		<h4>
+			Le Jeudi 15 Décembre 2016 de 15H30 à 19H			
+					par 
+			<a href="http://wikilleurbanne.dev/?AssociationDesProfessionnelsDeLaPlaceGran">
+				AssociationDesProfessionnelsDeLaPlaceGran			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?PlaceJulesGrandclement">Place Jules Grandclément</a></span>		</h4>
+		<p>
+			<p>L'Association des Professionnels de la Place Grandclément propose une animation de Noël "Balade en Poney sur la Place Grandclément et ses alentours" les Mardi 13 et Jeudi 15 Décembre 2016 de 15h30 à 19h.</p><p>Venez retirer votre bon gratuit de participation chez vos commerçants participant (liste ci-après). Réservé aux enfants de 3 à 12 ans.</p><p>Animation encadrée par des professionnels.&nbsp;</p><p>Commerçants participants:</p><p>- ACCORIMM, 14, place Grandclément</p><p>- LA POMPONNERIE, 39, place Grandclément</p><p>- OPTIQUE GRANDCLEMENT, 41, place Grandclément</p><p>- VA'POTE ZEN, 42, place Grandclément</p><p>- LA BUVETTE GRANDCLEMENT, sur la place</p><p>- DES MOTS POUR ECRIRE, 147 Bis, cours Tolstoï</p><p>- LELL, LA CONCOERGERIE, 159, cours Tolstoï</p><p>- BIJOUTERIE CROZE, 161, cours Tolstoï</p><p>- MEUBLES MILLIONI, 168, cours Tolstoï</p><p>- Y. ANDREOLETTI, Masseur-Kiné, 168, cours Tolstoï</p><p>- INTEGRAL SYSTEM, 12, rue Francis Chirat</p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Balade en Poney Place Grandclément" src="files/BaladeEnPoneyPlaceGrandclement2_affiche-poney-jpeg-2.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

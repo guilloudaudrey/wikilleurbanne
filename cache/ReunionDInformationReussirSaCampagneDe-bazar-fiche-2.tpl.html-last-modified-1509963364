@@ -1,0 +1,26 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=ReunionDInformationReussirSaCampagneDe">Réunion d'information : réussir sa campagne de financement participatif</a>		</h1>
+		<h4>
+			Le Lundi 11 Décembre 2017 de 18H30 à 21H			
+					par 
+			<a href="http://wikilleurbanne.dev/?WikiAdmin">
+				WikiAdmin			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?PalaisDuTravail">Le Palais du travail, au service des syndicats et de la citoyenneté</a></span>		</h4>
+		<p>
+			<div class="teaser-text"> <p><b><a href="http://www.cco-villeurbanne.org/formations/le-cycle-de-formations/detail/?tx_news_pi1%5Bnews%5D=912&amp;cHash=33979331284716f3bf5b982a847b0d81" target="_blank">Réussir sa campagne de financement participatif</a></b></p> </div><div class="news-text-wrap"> <p>Comprendre
+ et assimiler les clés de réussite d'une campagne de financement 
+participatif : présentation des plateformes et des outils dédiés, 
+démonstration de la construction d'une page projet et du plan de 
+communication, le tout appuyé par de nombreux exemples. </p><p>&nbsp;</p><p><span style="font-weight: bold;">Lundi 11 décembre 2017</span> // 18h30 - 20h30 //<span style="font-weight: bold;"> Palais du travail </span>- 9 place Lazare Goujon à Villeurbanne</p><p>Avec Adrien Biot, KissKissBankBank</p> </div><p><br></p><p>Réunion ouverte à tous, sans frais. <a href="mailto:vieassociative@cco-villeurbanne.org" target="_blank">Sur inscription</a>.<br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

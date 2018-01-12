@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=BotoxboyzDjBoboJolaisDjBarriqueWhite">BotoxBoyz + DJ Bobo Jolais + DJ Barrique white // CONCERT</a>		</h1>
+		<h4>
+			Le Vendredi 06 Octobre 2017 de 20H30 au Samedi 07 Octobre à 00H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?TatatooM">
+				Tatatoom			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?ToiToiLeZinc">Toï Toï Le Zinc</a></span>		</h4>
+		<p>
+			Rock Burlesque<br>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="BotoxBoyz + DJ Bobo Jolais + DJ Barrique white // CONCERT" src="files/BotoxboyzDjBoboJolaisDjBarriqueWhite_240-200.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

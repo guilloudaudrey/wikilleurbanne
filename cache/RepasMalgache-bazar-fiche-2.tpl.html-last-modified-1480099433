@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=RepasMalgache">Repas Malgache</a>		</h1>
+		<h4>
+			Le Vendredi 10 Février 2017 de 19H30 à 00H			
+					par 
+			<a href="http://wikilleurbanne.dev/?LesBambinsDAmbalavao">
+				Les Bambins d'Ambalavao			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?RepasMalgache"></a></span>		</h4>
+		<p>
+			<p>Nous vous invitons à venir partager un repas typiquement Malgache au prix modeste de 18 euros , un apéritif malgache vous sera offert ,&nbsp; au cours de la soirée un spectacle de danse vous sera proposé ainsi qu'une tombola.</p><p> Le bénéfice de la soirée sera reversée au profit des enfants de l'école des Bambins à Madagascar. </p><p>Pour vous inscrire vous pouvez contacter M.Mougenot au 06 37 15 45 16 où par mail bambinsmadagascar@gmail.com<br></p><p>Nous vous attendons nombreux avec vos amis pour cette soirée.<br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

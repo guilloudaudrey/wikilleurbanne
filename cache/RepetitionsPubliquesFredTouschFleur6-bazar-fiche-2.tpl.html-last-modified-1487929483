@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=RepetitionsPubliquesFredTouschFleur6">Répétitions Publiques - Fred Tousch - Fleur</a>		</h1>
+		<h4>
+			Le Vendredi 03 Mars 2017 de 18H30 à 20H			
+					par 
+			<a href="http://wikilleurbanne.dev/?LesAteliersFrappazCnar">
+				Les Ateliers Frappaz, CNAREP			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?LesAteliersFrappaz2">Les Ateliers Frappaz</a></span>		</h4>
+		<p>
+			<p>Dans le jardin des Hespérides, ce sont les chevaliers Ponck, responsables du désordre, nécessaire à toute vie, qui s’occupent des plantations. Depuis quelques temps, ils sont frappés de maladresse mélangeant les graines et inversant les saisons. Fleur est un conte musical, une fable initiatique, un éloge de la futilité...<br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Répétitions Publiques - Fred Tousch - Fleur" src="files/RepetitionsPubliquesFredTouschFleur6_fred-tousch.png"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

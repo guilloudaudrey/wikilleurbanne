@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=RencontreAvecNicolasPesques">Rencontre avec Nicolas Pesquès</a>		</h1>
+		<h4>
+			Le Vendredi 12 Mai 2017 de 19H au Mercredi 12 Avril à 20H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?CentreInternationalEstampeEtLivreUrdla">
+				Centre international estampe et livre URDLA			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?UrdlA">URDLA</a></span>		</h4>
+		<p>
+			<p>En <span class="s1">avant</span><span class="s2">-</span><span class="s1">première </span>à la sortie de son ouvrage, <i>Sans peinture</i>,&nbsp;<span style="line-height: 1.42857;">conversation </span><span class="s3" style="line-height: 1.42857;">avec N</span><span style="line-height: 1.42857;">icolas Pesquès,&nbsp;</span><span style="line-height: 1.42857;">animée par Jérémy Liron et Cyrille Noirjean.&nbsp;</span></p><p class="p1"><span style="line-height: 1.42857;">L</span><span style="line-height: 1.42857;">a rencontre avec Nicolas Pesquès poursuit le sillon ouvert par </span><i style="line-height: 1.42857;">Histoire de traces </i><span style="line-height: 1.42857;">de Jérémy Liron,&nbsp;</span><span style="line-height: 1.42857;">en mars dernier : lieu d’élaboration de nos pratiques plastiques en un tissu intellectuel et culturel,&nbsp;</span><span style="line-height: 1.42857;">lieu de questionnement et de travail ouvert à ceux qu’anime la </span><i style="line-height: 1.42857;">cosa mentale</i><span style="line-height: 1.42857;">.</span></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

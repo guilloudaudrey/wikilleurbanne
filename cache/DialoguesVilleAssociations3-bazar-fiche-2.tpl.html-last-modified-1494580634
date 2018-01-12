@@ -1,0 +1,26 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=DialoguesVilleAssociations3">Dialogues Ville/Associations</a>		</h1>
+		<h4>
+			Le Mercredi 07 Juin 2017 de 18H au Mercredi 10 Mai à 20H			
+					par 
+			<a href="http://wikilleurbanne.dev/?VillE">
+				Ville de Villeurbanne			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?DialoguesVilleAssociations3"></a></span>		</h4>
+		<p>
+			<p>Temps de rencontre et 
+d'échange entre les associations villeurbannaises&nbsp;et la Ville autour de 
+problématiques et&nbsp;de projets communs. C'est l'occasion de 
+mieux nous connaître !</p><p>Entrée libre sur inscription 
+auprès de vie.associative@mairie-villeurbanne.fr<br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

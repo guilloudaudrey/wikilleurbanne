@@ -1,0 +1,26 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FormationLaCommunicationDesAssociations2">Formation: La communication des associations - 2</a>		</h1>
+		<h4>
+			Le Jeudi 30 Mars 2017 de 18H30 à 20H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?CentreCulturelOecumeniqueJeanPierreLachaiz">
+				Centre culturel oecuménique Jean-Pierre Lachaize (CCO)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CcoJeanPierreLachaize">CCO - Jean-Pierre LACHAIZE</a></span>		</h4>
+		<p>
+			<div class="teaser-text"> <p><i>Apprendre à bien communiquer sur son association</i></p> </div><div class="news-text-wrap"> <p>Adapter
+ la communication à la structure : définir des objéctifs, des messages, 
+des cibles et choisir des outils, les diffuser. Rédiger des dossiers 
+(partenariats, presse ...) Maîtriser l'événementiel (les stagiaires sont
+ invités à apporter leurs propres outils de promotion).<br><br>* Formation en 2 temps, présence nécessaire aux 2 dates.</p><p><span style="font-weight: bold;">Mardi 28 </span>et jeudi 30 mars // 18h30 - 20h30 // CCO<br>Avec Danielle Gillouin, consultante. </p> </div><p><br></p><p>Pour plus d'informations, contacter le CCO JP LACHAIZE<br>04 78 93 41 44 -<a href="mailto:vieassociative@cco-villeurbanne.org">vieassociative@cco-villeurbanne.org</a><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

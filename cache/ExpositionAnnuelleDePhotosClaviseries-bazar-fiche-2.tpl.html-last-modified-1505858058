@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=ExpositionAnnuelleDePhotosClaviseries">: Exposition annuelle de photos: ClaviSéries</a>		</h1>
+		<h4>
+			Le Mercredi 04 Octobre 2017 de 09H au Mercredi 18 Octobre à 22H			
+					par 
+			<a href="http://wikilleurbanne.dev/?ClubAudiovisuelDeVilleurbanne">
+				Club audiovisuel de Villeurbanne			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?ExpositionAnnuelleDePhotosClaviseries"></a></span>		</h4>
+		<p>
+			<p>Le CLAVI - Club Photo et Audiovisuel de Villeurbanne- propose <b>son exposition annuelle de photos</b><i><b> "ClaviSéries", </b></i>dans les locaux du CCVA, 234 cours Emile Zola à Villeurbanne. Entrée gratuite aux heures d'ouverture du CCVA (mardi à vendredi 9-22h, samedi: 10-22h, dimanche 14-18h)</p><p><b>Vernissage</b> mercredi 4 octobre à 19 heures.</p><p><b>Journée Portes Ouvertes au club</b>, samedi 7 octobre de 10 à 15heures<br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt=": Exposition annuelle de photos: ClaviSéries" src="files/ExpositionAnnuelleDePhotosClaviseries_affiche-expo-2017-675.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FestivalLesTurbulents">Festival Les Turbulents</a>		</h1>
+		<h4>
+			Le Jeudi 19 Octobre 2017 de 19H30 au Samedi 21 Octobre à 23H			
+					par 
+			<a href="http://wikilleurbanne.dev/?TheatreEtCompagnieDeLIris">
+				Théâtre et compagnie de l'Iris			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?TheatreDeLIris">Théâtre de l'Iris</a></span>		</h4>
+		<p>
+			<p>Consacré à la jeune création théâtrale, le festival <i>Les Turbulents </i>accueille les premiers spectacles des jeunes diplômés des conservatoires et écoles d'art dramatique de la France entière.</p><p>Offrant au public un aperçu instantané de ce que peut être la création aujourd'hui, il donne à voir l'audace, l'énergie et l'imagination dont sont porteurs ces artistes de demain.</p><p>Deux spectacles (3 certains soirs) chaque soir à 19 h 30 et 21 h - Restauration légère proposée sur place</p><p>Tarifs : 11/9/4 €</p><p>Retrouver toute notre programmation sur : www.theatredeliris.fr<br></p><p><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Festival Les Turbulents" src="files/FestivalLesTurbulents_visuel-turbu-fb.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

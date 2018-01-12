@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=ArtisansDuMondeAuMarcheDesCharpennes">Artisans du Monde au marché des Charpennes</a>		</h1>
+		<h4>
+			Le Dimanche 17 Décembre 2017 de 08H à 13H			
+					par 
+			<a href="http://wikilleurbanne.dev/?ArtisansDuMondeVilleurbanne">
+				Artisans du monde Villeurbanne			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?PlaceWilson">Place Wilson</a></span>		</h4>
+		<p>
+			<p>Retrouvez les produits équitables d'Artisans du Monde sur le marché des Charpennes (place Wilson) le dimanche 17 décembre !<br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Artisans du Monde au marché des Charpennes" src="files/ArtisansDuMondeAuMarcheDesCharpennes_logo_adm_2016_firebrick_horizontal_png.png"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

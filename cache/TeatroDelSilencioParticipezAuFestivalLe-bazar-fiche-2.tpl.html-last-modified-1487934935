@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=TeatroDelSilencioParticipezAuFestivalLe">Teatro del silencio - participez au festival Les Invites de Villeurbanne 2017</a>		</h1>
+		<h4>
+			Le Mardi 07 Mars 2017 de 18H30 à 20H			
+					par 
+			<a href="http://wikilleurbanne.dev/?LesAteliersFrappazCnar">
+				Les Ateliers Frappaz, CNAREP			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?LesAteliersFrappaz2">Les Ateliers Frappaz</a></span>		</h4>
+		<p>
+			<h1 style="margin-top: 0px; margin-bottom: 0px; padding: 0px; color: rgb(34, 34, 34); font-family: sans-serif;">Rejoignez la compagnie Teatro del Silencio et participez aux Invites de Villeurbanne 2017 !</h1><p style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 13px;">Après l’expérience participative de&nbsp;DOCTOR DAPERTUTTO, le&nbsp;<strong>Teatro del Silencio</strong>&nbsp;revient cette année autour de l’univers de Samuel Beckett.</p><p style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 13px;">La compagnie, en résidence aux Ateliers Frappaz du 20 au 31 mars 2017 pour la création d’<strong>Oh ! Secours</strong>, vous propose de prendre part à l’aventure.<br>Six ateliers se dérouleront sur ce temps de résidence afin de préparer les déambulations qui prendront place dans les rues de Villeurbanne au mois de juin.</p><p style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 13px;">&nbsp;</p><h1 style="margin-top: 0px; margin-bottom: 0px; padding: 0px; color: rgb(34, 34, 34); font-family: sans-serif;"><span style="color: rgb(255, 102, 0);">ET RENDEZ-VOUS :<br>mardi 7 mars à 18h30<br>aux Ateliers Frappaz</span></h1>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Teatro del silencio - participez au festival Les Invites de Villeurbanne 2017" src="files/TeatroDelSilencioParticipezAuFestivalLe_flyer_teatro_bd.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=MarcheDeNoel3">marché de Noël</a>		</h1>
+		<h4>
+			Le Mardi 06 Décembre 2016 toute la journée au Dimanche 11 Décembre			
+					par 
+			<a href="http://wikilleurbanne.dev/?LesBambinsDAmbalavao">
+				Les Bambins d'Ambalavao			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?AvenueHenriBarbusse">Avenue Henri-Barbusse</a></span>		</h4>
+		<p>
+			<p>L'association les bambins d'Ambalavao qui soutient les projets d'une école à Madagascar sera présente sur le marché de noël de Villeurbanne , vente d'artisanat Malgache! Venez nombreux <br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

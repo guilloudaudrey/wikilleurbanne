@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=PermanenceVieLibreMaisonBertyA">permanence Vie Libre Maison Berty A</a>		</h1>
+		<h4>
+			Le Vendredi 10 Février 2017 de 14H à 16H			
+					par 
+			<a href="http://wikilleurbanne.dev/?MouvementVieLibreLaSoifDEnSortir">
+				Mouvement vie libre			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?PlaceJulesGrandclement">Place Jules Grandclément</a></span>		</h4>
+		<p>
+			<p>Accueil des personnes souffrant de pratiques addictives, alcool, drogues....ouvert à l'entourage</p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="permanence Vie Libre Maison Berty A" src="files/PermanenceVieLibreMaisonBertyA_logo-vie-libre-2016-copie.png"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

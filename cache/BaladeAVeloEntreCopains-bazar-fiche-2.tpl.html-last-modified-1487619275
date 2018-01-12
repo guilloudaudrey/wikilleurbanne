@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=BaladeAVeloEntreCopains">Balade à vélo entre copains</a>		</h1>
+		<h4>
+			Le Samedi 04 Mars 2017 de 13H15 à 17H			
+					par 
+			<a href="http://wikilleurbanne.dev/?AssociationSportiveDesEntreprisesDuBatimen">
+				Association Sportive des Entreprises du Bâtiment de Villeurbanne			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?BaladeAVeloEntreCopains"></a></span>		</h4>
+		<p>
+			<p>Si vous souhaitez découvrir les joies d'une promenade à vélo entre copains, dans une ambiance conviviale et à une allure très raisonnable le club ASEB cyclotourisme Villeurbanne vous donne rendez vous à Saint Marcel en Dombes</p><p>Pour plus de renseignements prendre contact avec Marie-Claude Jonac 06 21 27 45 91<br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Balade à vélo entre copains" src="files/BaladeAVeloEntreCopains_20150621_102314.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

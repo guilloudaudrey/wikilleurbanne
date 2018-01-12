@@ -1,0 +1,25 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=VideGrenierSolidaire">Vide-grenier solidaire</a>		</h1>
+		<h4>
+			Le Dimanche 03 Septembre 2017 toute la journée			
+					par 
+			<a href="http://wikilleurbanne.dev/?LesBambinsDAmbalavao">
+				Les Bambins d'Ambalavao			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?PlaceVictorBalland">Place Victor Balland</a></span>		</h4>
+		<p>
+			<p>L'association Les Bambins d'Ambavalao (Madagascar) organise un 
+vide-grenier le dimanche 3 septembre 2017 pour soutenir les projets de 
+l'école. Le prix du mètre linéaire est de 4 euros 50 (avec un minimum de
+ trois mètres). Si vous souhaitez participer, merci de contacter Monique Mougenot : 0637154516.</p><p><br></p><p><br></p><p><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

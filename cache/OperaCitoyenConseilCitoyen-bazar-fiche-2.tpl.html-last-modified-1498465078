@@ -1,0 +1,32 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=OperaCitoyenConseilCitoyen">OPÉRA CITOYEN & CONSEIL CITOYEN </a>		</h1>
+		<h4>
+			Le Mardi 04 Juillet 2017 de 18H à 22H			
+					par 
+			<a href="http://wikilleurbanne.dev/?CentreCulturelOecumeniqueJeanPierreLachaiz">
+				Centre culturel oecuménique Jean-Pierre Lachaize (CCO)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?ResidencePranard">Résidence Pranard</a></span>		</h4>
+		<p>
+			<ul><li><b>OPÉRA CITOYEN</b></li></ul>
+<p><span style="font-style: italic;">Le Barbier de Séville</span> sera interprété par Malika Bellaribi-Le Moal, avec des choristes de Villeurbanne, Paris, Créteil et Bondy. </p>
+<p>extrait à 18h30</p>
+<p>&nbsp;</p>
+<ul><li><b>CONSEIL CITOYEN </b></li></ul>
+<p>Projection du film sur le Conseil Citoyen des Buers, réalisé par 
+Arnaud Deparis, avec les membres&nbsp; habitants et associations du Conseil 
+Citoyen. </p>
+<p>projections à 18h00 et 19h00, suivies par un échange. </p>
+<p>&nbsp;</p><ul type="disc"><li>18h00&nbsp;: 1ère projection du film sur le Conseil Citoyen des Buers suivi d’une discussion. </li><li>18h30&nbsp;: Opéra Citoyen. </li><li>19h&nbsp;: 2ème projection du film sur le Conseil Citoyen des Buers suivi d’une discussion.</li></ul><p><br></p>
+<p><span style="font-style: italic;">Entrée libre</span> </p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="OPÉRA CITOYEN & CONSEIL CITOYEN " src="files/OperaCitoyenConseilCitoyen_photo-event.png"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

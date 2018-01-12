@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=BiennaleDesAssociations">Biennale des associations</a>		</h1>
+		<h4>
+			Le Dimanche 10 Septembre 2017 toute la journée			
+					par 
+			<a href="http://wikilleurbanne.dev/?VillE">
+				Ville de Villeurbanne			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?AvenueHenriBarbusse">Avenue Henri-Barbusse</a></span>		</h4>
+		<p>
+			Tous les deux ans, la ville de Villeurbanne invite toutes les associations inscrites dans l'annuaire à participer à la biennale des associations : tenue de stands, animations, espace participatif... Un rendez-vous à ne pas manquer ! <br>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Biennale des associations" src="files/BiennaleDesAssociations_2015vacs_doc0921_ville-de-villeurbanne_1_biennale-2015-(copy).jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

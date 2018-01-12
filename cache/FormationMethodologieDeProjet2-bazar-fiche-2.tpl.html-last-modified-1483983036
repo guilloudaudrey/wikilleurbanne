@@ -1,0 +1,30 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FormationMethodologieDeProjet2">Formation: Méthodologie de projet - 2</a>		</h1>
+		<h4>
+			Le Mercredi 01 Février 2017 de 18H30 à 21H			
+					par 
+			<a href="http://wikilleurbanne.dev/?CentreCulturelOecumeniqueJeanPierreLachaiz">
+				Centre culturel oecuménique Jean-Pierre Lachaize (CCO)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?PalaisDuTravail">Le Palais du travail, au service des syndicats et de la citoyenneté</a></span>		</h4>
+		<p>
+			<div class="teaser-text"> <p><i>Construire et faire vivre son association et ses projets</i></p> </div><div class="news-text-wrap"> <p>Acquérir
+ une méthode de travail ainsi que des outils pour apprendre à 
+construire, mettre en œuvre et mener à bien son projet (argumentaire, 
+inventaire des ressources, tableaux de bord de gestion, plannings, bilan
+ et évaluation). A partir des expériences et projets des participants, 
+nous appliquerons ces méthodes et outils à des cas pratiques. La 
+présence à l'heure et les deux soirées est indispensable.</p><p><br></p><p><span style="font-weight: bold;">Lundi 30 janvier et mercredi 1er février&nbsp;</span>// 18h30 - 21h // Palais du travail<br>Avec Muriel Berthelot</p><br></div><div class="field-items"><div class="field-item even"><div>Pour plus d'informations, contacter le CCO JP LACHAIZE</div>
+<div>04 78 93 41 44 -<a href="mailto:vieassociative@cco-villeurbanne.org">vieassociative@cco-villeurbanne.org</a></div>
+</div></div><p><br></p><p><br></p><p><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

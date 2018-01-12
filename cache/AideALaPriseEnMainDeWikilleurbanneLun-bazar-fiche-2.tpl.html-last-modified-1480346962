@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=AideALaPriseEnMainDeWikilleurbanneLun">Aide à la prise en main de wikilleurbanne </a>		</h1>
+		<h4>
+			Le Lundi 19 Décembre 2016 de 19H à 22H			
+					par 
+			<a href="http://wikilleurbanne.dev/?VillE">
+				Ville de Villeurbanne			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CcoJeanPierreLachaize">CCO - Jean-Pierre LACHAIZE</a></span>		</h4>
+		<p>
+			<p>Besoin d'aide pour créer un événement sur wikilleurbanne ? Actualiser votre fiche dans l'annuaire ? Publier une annonce dans la bourse d'échanges ? Ce temps est fait pour vous !</p><p>À l'occasion d'un <a href="http://www.cco-villeurbanne.org/le-cco/une-saison-au-cco/lundi-30/" target="_blank">Lundi 3.0</a> et dans une ambiance conviviale, vous serez accompagné pour faire vos premiers pas sur le site... Entrée libre, inscription nécessaire auprès de vie.associative@mairie-villeurbanne.fr</p><p><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

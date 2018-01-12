@@ -1,0 +1,30 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=TheNavajosLujeUntiltledWithDrumsCo">The Navajos + Luje + Untiltled with drums // CONCERT</a>		</h1>
+		<h4>
+			Le Vendredi 22 Septembre 2017 de 20H30 au Samedi 23 Septembre à 00H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?TatatooM">
+				Tatatoom			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?ToiToiLeZinc">Toï Toï Le Zinc</a></span>		</h4>
+		<p>
+			<p>Luje // Psych rock // Perfusé au rock américain et à la pop anglaise 
+des années 1990, Luje est produit par le  label indépendant Gauche Bas 
+Records et propose une musique énergique emplie de rêve et de 
+mélancolie. </p><p><br></p><p>
+The Navajos // Outlaw rock // L'histoire de quatre as de la gâchette 
+qui, durant la guerre de Sécession, sont à la recherche d'un chargement 
+d'or disparu. Pour les fans de Western et de rock psyché, entre Rory 
+Gallagher et Dead Meadow, Tom Waits et le BRMC.
+<br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="The Navajos + Luje + Untiltled with drums // CONCERT" src="files/TheNavajosLujeUntiltledWithDrumsCo_240-200.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

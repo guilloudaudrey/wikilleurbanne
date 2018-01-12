@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=SpectcaleGratuitEtSoupesDuMondeQuartier">Spectacle Gratuit et Soupes du Monde</a>		</h1>
+		<h4>
+			Le Jeudi 08 Décembre 2016 de 18H30 à 20H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?LesAteliersFrappazCnar">
+				Les Ateliers Frappaz, CNAREP			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CroisementAvenueSaintExuperyEtRueRaymond">Croisement avenue Saint Exupery et rue Raymond Terracher</a></span>		</h4>
+		<p>
+			<blockquote type="cite" style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;"><div style="word-wrap: break-word;"><h1>8 décembre dans le quartier Ferrandière / Maisons-Neuves</h1><br><h4>18h30 SPECTACLE GRATUIT</h4>Compagnie Bilbobasso - AMOR proposé par Les Ateliers Frappaz<br>Centre National des Arts de la Rue et de l’Espace Public<br><h6>--&gt; Croisement avenue Saint Exupery et rue Raymond Terracher</h6><br>Tout feu tout flamme, Les Ateliers Frappaz offrent un spectacle embrasé dans le quartier Ferrandière / Maisons Neuves.<br>Un couple dans une arène. Pas mal d’années de mariage au compteur, le temps a fait son œuvre et aujourd’hui, les nerfs à vif, ils sont prêts à s’étriper. Chez eux tout est prétexte à s’enflammer, d’ailleurs à proprement parler, tout s’enflamme ! Faire la cuisine, laver le linge, passer l’aspirateur, leur quotidien se retrouve au centre d’une grande corrida domestique et fantasque.<br>Vous ne vous disputerez plus de la même façon à la maison...<br><br><br><h4>19h SOUPES DU MONDE</h4>Offertes par le conseil de quartier Venez déguster des soupes originales, chanter et passer un moment convivial<br><h6>--&gt; Avenue Saint Exupéry</h6></div></blockquote>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Spectacle Gratuit et Soupes du Monde" src="files/SpectcaleGratuitEtSoupesDuMondeQuartier_amor-7_bd.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

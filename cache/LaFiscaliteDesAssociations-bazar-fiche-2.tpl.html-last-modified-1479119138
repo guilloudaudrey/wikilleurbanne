@@ -1,0 +1,27 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=LaFiscaliteDesAssociations">Formation - La fiscalité des associations</a>		</h1>
+		<h4>
+			Le Mardi 06 Décembre 2016 de 18H30 à 20H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?CentreCulturelOecumeniqueJeanPierreLachaiz">
+				Centre culturel oecuménique Jean-Pierre Lachaize (CCO)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?CcoJeanPierreLachaize">CCO - Jean-Pierre LACHAIZE</a></span>		</h4>
+		<p>
+			<p>MAITRISER LES RÈGLES COMPTABLES ET FISCALES DE BASE POUR SON ASSOCIATION. </p><p> Connaitre
+ les grands principes du droit fiscal applicables aux associations et 
+les règles d'imposition des structures non lucratives. Savoir dans quels
+ cas les associations peuvent être assujetties aux impôts commerciaux et
+ connaitre les conséquences et les options possibles en cas d'activité 
+lucrative.&nbsp;</p><div class="news-text-wrap"><p>&nbsp;Mardi 6 décembre // 18h30-20h30 // CCO</p><p><i>Avec Paul Chabrillat, expert comptable, AGC Audit Gestion Comptabilité.</i></p> </div><p><br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Formation - La fiscalité des associations" src="files/LaFiscaliteDesAssociations_preview_formations_37165b92e5.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

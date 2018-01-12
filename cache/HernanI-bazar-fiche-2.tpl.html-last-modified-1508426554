@@ -1,0 +1,40 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=HernanI">Hernani</a>		</h1>
+		<h4>
+			Le Mercredi 29 Novembre 2017 de 20H au Samedi 02 Décembre à 20H			
+					par 
+			<a href="http://wikilleurbanne.dev/?TheatreEtCompagnieDeLIris">
+				Théâtre et compagnie de l'Iris			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?TheatreDeLIris">Théâtre de l'Iris</a></span>		</h4>
+		<p>
+			<p style="margin-bottom: 0cm">De Victor Hugo</p><p style="margin-bottom: 0cm">Par la Compagnie La Nuée</p><p style="margin-bottom: 0cm"><br></p><p style="margin-bottom: 0cm">Espagne,
+1519. Doña Sol, courtisée par le roi et promise à son oncle, aime
+secrètement Hernani, mis au ban depuis l'exécution de son père par
+celui de l'actuel roi. Il ne vit plus alors que pour venger sa mort. 
+</p><p style="margin-bottom: 0cm; widows: 2; orphans: 2" lang="fr-FR"><i><span style="font-weight: normal"><span style="background: transparent">Hernani</span></span></i><span style="font-weight: normal"><span style="background: transparent">,
+œuvre de jeunesse de Victor Hugo, est aussi le manifeste du théâtre
+romantique. </span></span>
+</p><p style="margin-bottom: 0cm; font-weight: normal; widows: 2; orphans: 2; text-decoration: none" lang="fr-FR">
+<span style="background: transparent">Baroque,
+cette pièce convoque des personnages absolus, en lutte permanente
+entre leurs aspirations, leurs désirs, la tenue de leur rang et la
+défense de leur honneur. Sur fond d'intrigue politique, l'amour en
+est le cœur.</span></p><p style="margin-bottom: 0cm; widows: 2; orphans: 2" lang="fr-FR"><span style="text-decoration: none"><span style="background: transparent">Avec
+autant d'inventivité que d’humilité, </span></span><span style="text-decoration: none"><i><span style="background: transparent">La
+Nuée</span></i></span><span style="text-decoration: none"><span style="background: transparent">,
+amoureuse des grands textes, offre aux oreilles du public ces vers
+d'un autre siècle, pourtant si saisissables, pour mieux faire valoir
+leur atemporalité.</span></span></p><p style="margin-bottom: 0cm; widows: 2; orphans: 2" lang="fr-FR"><span style="text-decoration: none"><span style="background: transparent"><br></span></span></p><p style="margin-bottom: 0cm; widows: 2; orphans: 2" lang="fr-FR"><span style="text-decoration: none"><span style="background: transparent">Jeudi 30 novembre : Bord de scène à l'issue de la représentation</span></span></p><p style="margin-bottom: 0cm; widows: 2; orphans: 2" lang="fr-FR"><span style="text-decoration: none"><span style="background: transparent">Durée : 2h</span></span></p><p style="margin-bottom: 0cm; widows: 2; orphans: 2" lang="fr-FR"><span style="text-decoration: none"><span style="background: transparent">À partir de : 14 ans<br></span></span></p><p>
+<br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Hernani" src="files/HernanI_hernani-11.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

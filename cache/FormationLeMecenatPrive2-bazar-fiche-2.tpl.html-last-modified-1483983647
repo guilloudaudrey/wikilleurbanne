@@ -1,0 +1,28 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FormationLeMecenatPrive2">Formation: Le mécénat privé - 2</a>		</h1>
+		<h4>
+			Le Jeudi 09 Mars 2017 de 18H30 à 20H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?CentreCulturelOecumeniqueJeanPierreLachaiz">
+				Centre culturel oecuménique Jean-Pierre Lachaize (CCO)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?PalaisDuTravail">Le Palais du travail, au service des syndicats et de la citoyenneté</a></span>		</h4>
+		<p>
+			<div class="teaser-text"> <p><i>Connaître et trouver des financements pour son association.</i></p> </div><p>Distinguer
+ mécénat et parrainage. Connaître le cadre juridique et fiscal. 
+Appréhender les enjeux du mécénat d'entreprise. Permettre aux 
+associations présentes de travailler sur leur projet en leur donnant des
+ méthodes d'approche des entreprises (constitution de dossier, 
+démarchage, etc).</p><p><br></p><p>* Formation en 2 temps, présence nécessaire aux 2 dates :</p><p>- Mardi 7 et jeudi 9 mars // 18h30 - 20h30 // Palais du travail de Villeurbanne</p><p>Avec Régis Chomel de Varagne, de la société de conseil Oraveo.<br></p><p><br></p><p>Pour plus d'informations, contacter le CCO JP LACHAIZE<br>04 78 93 41 44 -<a href="mailto:vieassociative@cco-villeurbanne.org">vieassociative@cco-villeurbanne.org</a>
+</p><p><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

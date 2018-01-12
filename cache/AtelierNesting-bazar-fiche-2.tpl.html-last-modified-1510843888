@@ -1,0 +1,40 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=AtelierNesting">Atelier Nesting</a>		</h1>
+		<h4>
+			Le Mardi 28 Novembre 2017 de 18H30 à 20H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?LaCauseDesParents">
+				La Cause des Parents			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?MaisonDeLaParentaliteEtDeLaNaissance">Maison de la Parentalité et de la Naissance</a></span>		</h4>
+		<p>
+			<p class="entry-stitre">Préparer l’environnement de bébé</p><p><span class="orange gras italique">animé par Delphine Jouassin</span></p><p>La venue d’un enfant est un changement de plus dans sa vie et souvent
+ le moment où de nouvelles questions arrivent sur la vie en générale. 
+C’est un moment joyeux qu’il faut conserver et face à des questions qui 
+pourraient être négatives, trouver les personnes qui auraient des 
+propositions alternatives positives.</p><p>Aujourd’hui, dans les médias, on entend parler des perturbateurs 
+endocriniens, de la pollution et bien d’autres choses en lien qui font 
+peur. On insiste sur les incidences concernant la santé, encore plus 
+importante pour l’enfant et la femme enceinte. C’est en partie vrai. Il 
+faudrait aussi ajouter à ces éléments, tous les possibles qui peuvent se
+ mettre en place pour limiter ou éviter ces impacts.</p><p>Cet atelier «&nbsp;Nesting&nbsp;», qui signifie la construction du nid, dure 2 
+heures. Ce moment se déroule sous forme de jeux et dans la 
+bienveillance, permettant d’échanger et de trouver des solutions pour 
+protéger ce petit et lui permettre de démarrer sa vie dans un habitat 
+sain.</p><p>
+<br></p><p><img src="http://www.lacausedesparents.org/wp-content/uploads/2017/07/bannièreNesting.png" alt=""></p><p>
+<br></p><p><span class="orange gras italique">Tarif : </span>20€ la séance, 5€ offert lors d’un second atelier<br>
+<span class="orange gras italique">Durée : </span>2 heures<br>
+<span class="orange gras italique">Lieu : </span>Maison de la Parentalité et de la Naissance<br>
+<span class="orange gras italique">Réservation obligatoire </span>au 06.13.48.11.62 ou à l’adresse <a href="mailto:contactleravinala@gmail.com" target="_blank" rel="noopener">contactleravinala@gmail.com</a></p><p><a href="https://www.helloasso.com/associations/la-cause-des-parents/adhesions/adhesion-2017-2018">Adhésion à LCDP demandée</a></p><p><span class="orange gras italique">Plus d’infos </span>sur <a href="http://www.projetnesting.fr/" target="_blank" rel="noopener">http://www.projetnesting.fr/</a> et <a href="https://www.facebook.com/LeRavinalaCultivateurdEnvironnementSain/">la page facebook de Delphine Jouassin</a></p><p><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

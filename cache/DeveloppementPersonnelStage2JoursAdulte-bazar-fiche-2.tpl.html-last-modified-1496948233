@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=DeveloppementPersonnelStage2JoursAdulte">Développement personnel - stage 2 jours adulte - IREPscènes Théâtre </a>		</h1>
+		<h4>
+			Le Jeudi 24 Août 2017 de 10H au Vendredi 25 Août à 17H			
+					par 
+			<a href="http://wikilleurbanne.dev/?InitiationALaRechercheEtAuxPratiquesScen">
+				Initiation à la Recherche et aux Pratiques Scéniques (IREP scènes théâtre)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?IrepscenesTheatreInitiationALaRecherche">IREPscènes théâtre ( Initiation à la Recherche et aux Pratiques Scéniques)</a></span>		</h4>
+		<p>
+			<blockquote><span style="color: rgb(59, 59, 59); font-family: Montserrat, sans-serif;">Améliorer votre communication,&nbsp;</span><span style="color: rgb(59, 59, 59); font-family: Montserrat, sans-serif;">développer votre confiance en soi, découvrir votre potentiel oratoire, trouver votre place au sein d'un groupe en utilisant le jeu et les technique théâtrale...</span></blockquote><p><br></p><h3><p style="font-size: 14px;">au théâtre de L'IREPscènes 4 rue Paul Pechoux 69100 Villeurbanne</p><p style="font-size: 14px;">vendredi 24 et samedi 25 Août de 10h à 17H</p><p style="font-size: 14px;">Tarif 70 euros + 20euros d'adhésion</p><p style="font-size: 14px;">Animé par Emmanuelle Miguet ( comédienne )&nbsp;</p><p style="font-size: 14px;">Contact Emmanuelle : 06 03 49 55 14</p></h3>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Développement personnel - stage 2 jours adulte - IREPscènes Théâtre " src="files/DeveloppementPersonnelStage2JoursAdulte_logo-irep-2015-1.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

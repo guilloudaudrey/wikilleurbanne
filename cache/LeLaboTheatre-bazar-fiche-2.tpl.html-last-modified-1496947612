@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=LeLaboTheatre">le LABO théâtre - Stage 5 jours adulte - IREPscènes Théâtre</a>		</h1>
+		<h4>
+			Le Lundi 03 Juillet 2017 de 10H au Vendredi 07 Juillet à 18H			
+					par 
+			<a href="http://wikilleurbanne.dev/?InitiationALaRechercheEtAuxPratiquesScen">
+				Initiation à la Recherche et aux Pratiques Scéniques (IREP scènes théâtre)			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?IrepscenesTheatreInitiationALaRecherche">IREPscènes théâtre ( Initiation à la Recherche et aux Pratiques Scéniques)</a></span>		</h4>
+		<p>
+			<blockquote><p>Stage théâtre pour adulte</p><p>Venez expérimenter l'aventure théâtrale durant une semaine: &nbsp;explorer vos émotions, jouer avec elles, laisser parler votre imagination, amusez vous en groupe, utiliser votre corps et chercher à créer à partir de support grâce à l'impro&nbsp;pour enfin vous confronter au public en présentant aux familles et amis le fruit de vos recherches.<br></p></blockquote><p>au théâtre de L'IREPscènes 4 rue Paul Pechoux 69100 Villeurbanne</p><p>du 3 au 7 Juillet 2017 de 10h à 18H. (+ presentation le 7 à 18H)</p><p>Tarif 200 euros + 20euros d'adhésion</p><p>Contact Mellie 06 72 55 09 27</p><p>intervenantes comédiennes: &nbsp;Mellie Melzassard et Emmanuelle Miguet</p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="le LABO théâtre - Stage 5 jours adulte - IREPscènes Théâtre" src="files/LeLaboTheatre_logo-irep-2015-1.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

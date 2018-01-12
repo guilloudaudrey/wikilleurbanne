@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=VieLibrePermanence">VIE LIBRE PERMANENCE</a>		</h1>
+		<h4>
+			Le Vendredi 24 Mars 2017 de 18H à 19H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?MouvementVieLibreLaSoifDEnSortir">
+				Mouvement vie libre			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?PalaisDuTravail">Le Palais du travail, au service des syndicats et de la citoyenneté</a></span>		</h4>
+		<p>
+			<p>Accueil des personnes, et de leur entourage, touchées par la maladie alcoolique ou d'autres addictions.</p><p>des bénévoles, anciens malades, guéris, vous accueillent sans jugement pour vous aider à surmonter la maladie.</p><p>Ecoute et conseil, orientation si le malade est demandeur vers des centres de soins adaptés à sa pathologie.</p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="VIE LIBRE PERMANENCE" src="files/VieLibrePermanence_img002.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

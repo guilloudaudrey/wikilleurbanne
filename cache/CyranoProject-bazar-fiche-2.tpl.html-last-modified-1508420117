@@ -1,0 +1,40 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=CyranoProject">Cyrano Project</a>		</h1>
+		<h4>
+			Le Mardi 14 Novembre 2017 de 20H au Dimanche 19 Novembre à 16H			
+					par 
+			<a href="http://wikilleurbanne.dev/?TheatreEtCompagnieDeLIris">
+				Théâtre et compagnie de l'Iris			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?TheatreDeLIris">Théâtre de l'Iris</a></span>		</h4>
+		<p>
+			<p style="margin-bottom: 0cm; widows: 2; orphans: 2" lang="fr-FR"><span style="font-style: normal"><span style="font-weight: normal"><span style="background: transparent">Au
+soir de la première, le metteur en scène de ce </span></span></span><i><span style="font-weight: normal"><span style="background: transparent">Cyrano</span></span></i><span style="font-style: normal"><span style="font-weight: normal"><span style="background: transparent">,
+vient&nbsp;de se faire lâcher, apprend-on, par toute son équipe
+artistique et technique pour d’obscures&nbsp;raisons... Songe ou
+folie ? </span></span></span></p><p style="margin-bottom: 0cm; widows: 2; orphans: 2" lang="fr-FR"><span style="font-style: normal"><span style="font-weight: normal"><span style="background: transparent">Peu importe&nbsp;! À l’instant même où il s’apprête à
+annuler la représentation,&nbsp;un événement va précipiter une
+décision folle qu’il va devoir assumer :&nbsp;jouer </span></span></span><i><span style="font-weight: normal"><span style="background: transparent">Cyrano
+</span></span></i><span style="font-style: normal"><span style="font-weight: normal"><span style="background: transparent">d’Edmond
+Rostand… seul. Il se glisse alors tour à tour dans la peau des
+quelque vingt personnages de la pièce. Et c’est dans cet élan
+désespéré et jubilatoire qu’il va </span></span></span><i><span style="font-weight: normal"><span style="background: transparent">se
+</span></span></i><span style="font-style: normal"><span style="font-weight: normal"><span style="background: transparent">jouer,
+mais aussi nous&nbsp;raconter </span></span></span><i><span style="font-weight: normal"><span style="background: transparent">son</span></span></i><span style="font-style: normal"><span style="font-weight: normal"><span style="background: transparent">
+Cyrano. </span></span></span>
+</p><p>
+<br></p><p style="margin-bottom: 0cm; font-style: normal; font-weight: normal; widows: 2; orphans: 2" lang="fr-FR">
+<br>
+</p><p>
+<br></p>		</p>
+						<div style="width: 100%; margin: auto; margin-bottom: 1em; text-align: center;" ><img alt="Cyrano Project" src="files/CyranoProject_cyrano.jpg"  style="max-width: 100%;"></div>		</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

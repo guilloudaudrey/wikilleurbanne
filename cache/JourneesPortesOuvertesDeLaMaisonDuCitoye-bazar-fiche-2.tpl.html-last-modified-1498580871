@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=JourneesPortesOuvertesDeLaMaisonDuCitoye">Journées portes ouvertes de la Maison du Citoyen</a>		</h1>
+		<h4>
+			Le Mardi 05 Septembre 2017 toute la journée au Mercredi 06 Septembre			
+					par 
+			<a href="http://wikilleurbanne.dev/?MaisonDuCitoyen">
+				Maison du citoyen			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?MaisonDuCitoyen2">MAISON DU CITOYEN</a></span>		</h4>
+		<p>
+			<p style="color: rgb(51, 51, 51); font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 16px; line-height: 24px;">Venez découvrir les activités de la Maison du Citoyen et vous inscrire pendant les journées portes ouvertes les :</p><p style="color: rgb(51, 51, 51); font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 16px; line-height: 24px;">Mardi 5 septembre et mercredi 6 septembre 2017 de 9h à 12h et de 14h à 18h.</p><p style="color: rgb(51, 51, 51); font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 16px; line-height: 24px;">Tarifs d'inscriptions&nbsp;de la saison 2017-2018 :<br>Adhésion : 20 euros<br>Activité : 20 euros</p><p style="color: rgb(51, 51, 51); font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 16px; line-height: 24px;">&nbsp;</p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>

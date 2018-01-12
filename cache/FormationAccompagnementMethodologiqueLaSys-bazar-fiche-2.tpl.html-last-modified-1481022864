@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="tools/bazar/presentation/styles/fiches/event.css">
+
+
+<div class="FicheEvent">
+<div class="row-fluid row"> <!-- start of grid --><div class="span8 col-md-8 "> <!-- start of col -->		<h1>
+			<a href="wakka.php?wiki=FormationAccompagnementMethodologiqueLaSys">Formation accompagnement méthodologique "La systémisation d'expériences pour l'analyse de pratique"</a>		</h1>
+		<h4>
+			Le Mardi 11 Avril 2017 de 08H30 à 16H30			
+					par 
+			<a href="http://wikilleurbanne.dev/?ScicabullE">
+				Scicabulle			</a>
+		<br />
+		<i class="glyphicon glyphicon-map-marker map-marker" ></i>  
+			<span class="lieu_event"><a href="http://wikilleurbanne.dev/?FormationAccompagnementMethodologiqueLaSys"></a></span>		</h4>
+		<p>
+			<p>ANALYSER SA PRATIQUE POUR ÉLARGIR LE CHAMP DES POSSIBLES<br>L’analyse dynamique des étapes d’un projet ou d’une mission permet une analyse réflexive en identifiant les freins, les leviers et les enjeux de sa pratique.</p><p>11 avril 2017 de 8h30 - 16h30<br>Dans les locaux de La MIETE : 92, rue des Charmettes 69006 LYON<br>- 75€ en inscription individuelle<br>- 150€ dans le cadre de son plan de formation en passant par une OPCA<br>*Vous aimeriez participer mais vous n’avez pas de financement ? Contactez-nous.</p><p><br>Pour vous inscrire, allez sur notre site à la rubrique inscriptions : <a href="http://wikilleurbanne.fr/scicabulle.com/inscriptions/">scicabulle.com/inscriptions/</a><br></p>		</p>
+								</div> <!-- end of col -->			
+		<div class="span4 col-md-4 "> <!-- start of col -->
+		
+		</div> <!-- end of col -->		</div> <!-- end of grid -->	
+
+</div>
