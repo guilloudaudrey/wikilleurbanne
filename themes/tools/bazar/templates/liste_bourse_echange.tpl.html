@@ -8,46 +8,29 @@ if(count($fiches)>0) : ?>
     <?php 
     foreach($fiches as $fiche): ?>
     <?php
-	$background_style= 'style="border: 3px solid #ff6d66; margin-top: 20px; padding: 10px"';
+	//$background_style= 'style="border: 3px solid #ff6d66; margin-top: 20px; padding: 10px"';
 	 
-	/**
-	if ($fiche['checkboxListeTypecategorieechange'] == 'Mater')
-	{
-		$background_style = 'style="background-color: blue;"';
-	}
-	else if ($fiche['checkboxListeTypecategorieechange'] == 'Loca')
-	{
-		$background_style = 'style="background-color: red;"';
-	}
-	else if ($fiche['checkboxListeTypecategorieechange'] == 'Compe')
-	{
-		$background_style = 'style="background-color: yellow;"';
-	}
-	else
-	{
-		$background_style = 'style="background: -moz-linear-gradient(left, grey, grey 30%, white 30%, white);"';
-	}
-	//*/
-	?>
-        <?php			
+			
 	if ($fiche['listeListeTypeechange'] == 'Propos')
 	{
 		
-		$classe_couleur = " propose ";
-		$texte_type_echange = " propose ";
+		$background_style= 'style="border: 3px solid #ff6d66; margin-top: 20px; padding: 10px"';
+		$texte_type_echange = " offre";
+		$classe_couleur = " offre ";
 	}
 	else
 	{
+		$background_style= 'style="border: 3px solid #03a099; margin-top: 20px; padding: 10px"';
 		$texte_type_echange = " recherche";
 		$classe_couleur = " demande ";
 	}
 	?>
 
-            <script type="javascript">
-            </script>
+        <script type="javascript">
+        </script>
 
-            <div class="bazar-entry ItemBourseEchange <?php echo $classe_couleur; ?>" <?php echo $background_style; echo $fiche[ 'html_data'];?>>
-                <?php
+        <div class="bazar-entry ItemBourseEchange <?php echo $classe_couleur; ?>" <?php echo $background_style; echo $fiche[ 'html_data'];?>>
+            <?php
 			
 			$nom_createur = $fiche['createur'];
 			if ($fiche['createur'] == 'VillE')
@@ -65,9 +48,9 @@ if(count($fiches)>0) : ?>
 			echo '</a>';
 			?>
 
-                    <?php echo $texte_type_echange; ?>
+                <?php echo $texte_type_echange; ?>
 
-                    <span class="TitreEchange">
+                <span class="TitreEchange">
 			<?php
 			echo '<a href="';
 			echo $GLOBALS['wiki']->href('', $fiche['id_fiche']);
@@ -76,9 +59,9 @@ if(count($fiches)>0) : ?>
 			echo '</a>';
 			?>
 			</span>
-                    <hr style="margin: 5px !important;" />
+                <hr style="margin: 5px !important;" />
 
-                    <span class="BlocDescriptionItemBourseEchange">
+                <span class="BlocDescriptionItemBourseEchange">
 			<?php
 				$description = strip_tags($GLOBALS['wiki']->Format($fiche['bf_description']));
 				$description  = $fiche['bf_description'];
@@ -95,8 +78,8 @@ if(count($fiches)>0) : ?>
 			?>
 			</span>
 
-                    <hr style="margin: 5px !important;" /> Contact :
-                    <?php
+                <hr style="margin: 5px !important;" /> Contact :
+                <?php
 				if (!empty($fiche['bf_contact']))
 				{
 					echo $fiche['bf_contact'];
@@ -107,8 +90,8 @@ if(count($fiches)>0) : ?>
 					echo $fichelieu['email'];
 				}
 				?>
-            </div>
-            <?php 
+        </div>
+        <?php 
     endforeach; ?>
 </div>
 <?php echo $pager_links;?>
