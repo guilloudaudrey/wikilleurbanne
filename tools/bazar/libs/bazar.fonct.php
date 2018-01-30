@@ -3748,11 +3748,13 @@ function displayResultList($tableau_fiches, $params, $info_nb = true, $formtab =
         // colonne des resultats
         $outputresult = '<div class="col-xs-'.$resultcolsize.' span'.$resultcolsize.'">'."\n".
             '<div class="results">'."\n".
-            '<div class="alert alert-info">'."\n".
-            _t('BAZ_IL_Y_A').
-            '<span class="nb-results">'.count($fiches['fiches']).'</span> '
-            ._t('BAZ_FICHES_CORRESPONDANTES_FILTRES')."\n".
-            '.</div>'."\n".
+            
+            //bandeau qui affiche le nombre de fiches trouvées
+            // '<div class="alert alert-info">'."\n".
+            // _t('BAZ_IL_Y_A').
+            // '<span class="nb-results">'.count($fiches['fiches']).'</span> '
+            // ._t('BAZ_FICHES_CORRESPONDANTES_FILTRES')."\n".
+            // '.</div>'."\n".
             $output."\n".
             '</div> <!-- /.results -->'."\n".
             '</div> <!-- /.col-xs-'.$resultcolsize.' -->';
